@@ -23,7 +23,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2024-12-20",
-    "num_reformas": 9,
+    "num_reformas": 14,
     "archivo": "articulos/003.md"
   },
   {
@@ -41,7 +41,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2025-01-17",
-    "num_reformas": 5,
+    "num_reformas": 6,
     "archivo": "articulos/005.md"
   },
   {
@@ -85,8 +85,8 @@
     "articulo": 10,
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
-    "ultima_reforma": "1971-10-22",
-    "num_reformas": 1,
+    "ultima_reforma": "2019-03-26",
+    "num_reformas": 2,
     "archivo": "articulos/010.md"
   },
   {
@@ -140,7 +140,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2024-09-30",
-    "num_reformas": 6,
+    "num_reformas": 10,
     "archivo": "articulos/016.md"
   },
   {
@@ -149,7 +149,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2024-09-15",
-    "num_reformas": 4,
+    "num_reformas": 6,
     "archivo": "articulos/017.md"
   },
   {
@@ -158,7 +158,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2016-01-29",
-    "num_reformas": 4,
+    "num_reformas": 8,
     "archivo": "articulos/018.md"
   },
   {
@@ -166,8 +166,8 @@
     "articulo": 19,
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
-    "ultima_reforma": "2011-07-14",
-    "num_reformas": 2,
+    "ultima_reforma": "2025-04-01",
+    "num_reformas": 7,
     "archivo": "articulos/019.md"
   },
   {
@@ -176,7 +176,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2024-09-15",
-    "num_reformas": 4,
+    "num_reformas": 9,
     "archivo": "articulos/020.md"
   },
   {
@@ -185,7 +185,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2024-12-31",
-    "num_reformas": 5,
+    "num_reformas": 10,
     "archivo": "articulos/021.md"
   },
   {
@@ -194,7 +194,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2019-03-14",
-    "num_reformas": 3,
+    "num_reformas": 7,
     "archivo": "articulos/022.md"
   },
   {
@@ -221,7 +221,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2025-04-15",
-    "num_reformas": 7,
+    "num_reformas": 8,
     "archivo": "articulos/025.md"
   },
   {
@@ -230,7 +230,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2024-12-20",
-    "num_reformas": 6,
+    "num_reformas": 7,
     "archivo": "articulos/026.md"
   },
   {
@@ -239,7 +239,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2025-03-17",
-    "num_reformas": 22,
+    "num_reformas": 25,
     "archivo": "articulos/027.md"
   },
   {
@@ -248,7 +248,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2024-12-20",
-    "num_reformas": 12,
+    "num_reformas": 15,
     "archivo": "articulos/028.md"
   },
   {
@@ -257,7 +257,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2014-02-10",
-    "num_reformas": 2,
+    "num_reformas": 4,
     "archivo": "articulos/029.md"
   },
   {
@@ -265,8 +265,8 @@
     "articulo": 30,
     "titulo": "Título Primero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1997-03-20",
-    "num_reformas": 4,
+    "ultima_reforma": "2021-05-17",
+    "num_reformas": 5,
     "archivo": "articulos/030.md"
   },
   {
@@ -274,8 +274,8 @@
     "articulo": 31,
     "titulo": "Título Primero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "2019-03-26",
-    "num_reformas": 3,
+    "ultima_reforma": "2019-05-15",
+    "num_reformas": 7,
     "archivo": "articulos/031.md"
   },
   {
@@ -284,7 +284,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo II",
     "ultima_reforma": "2024-09-30",
-    "num_reformas": 2,
+    "num_reformas": 4,
     "archivo": "articulos/032.md"
   },
   {
@@ -301,8 +301,8 @@
     "articulo": 34,
     "titulo": "Título Primero",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "1953-10-17",
-    "num_reformas": 1,
+    "ultima_reforma": "1969-12-22",
+    "num_reformas": 2,
     "archivo": "articulos/034.md"
   },
   {
@@ -311,7 +311,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2026-06-02",
-    "num_reformas": 5,
+    "num_reformas": 8,
     "archivo": "articulos/035.md"
   },
   {
@@ -319,8 +319,8 @@
     "articulo": 36,
     "titulo": "Título Primero",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "2019-03-26",
-    "num_reformas": 4,
+    "ultima_reforma": "2019-12-20",
+    "num_reformas": 6,
     "archivo": "articulos/036.md"
   },
   {
@@ -329,7 +329,7 @@
     "titulo": "Título Primero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2013-09-30",
-    "num_reformas": 3,
+    "num_reformas": 4,
     "archivo": "articulos/037.md"
   },
   {
@@ -356,7 +356,7 @@
     "titulo": "Título Segundo",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2025-04-01",
-    "num_reformas": 2,
+    "num_reformas": 3,
     "archivo": "articulos/040.md"
   },
   {
@@ -365,7 +365,7 @@
     "titulo": "Título Segundo",
     "capitulo": "Capítulo I",
     "ultima_reforma": "2026-06-02",
-    "num_reformas": 11,
+    "num_reformas": 16,
     "archivo": "articulos/041.md"
   },
   {
@@ -373,8 +373,8 @@
     "articulo": 42,
     "titulo": "Título Segundo",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1934-01-18",
-    "num_reformas": 1,
+    "ultima_reforma": "1960-01-20",
+    "num_reformas": 2,
     "archivo": "articulos/042.md"
   },
   {
@@ -382,8 +382,8 @@
     "articulo": 43,
     "titulo": "Título Segundo",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1931-02-07",
-    "num_reformas": 1,
+    "ultima_reforma": "2021-05-17",
+    "num_reformas": 8,
     "archivo": "articulos/043.md"
   },
   {
@@ -391,8 +391,8 @@
     "articulo": 44,
     "titulo": "Título Segundo",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1993-10-25",
-    "num_reformas": 1,
+    "ultima_reforma": "2016-01-29",
+    "num_reformas": 2,
     "archivo": "articulos/044.md"
   },
   {
@@ -400,8 +400,8 @@
     "articulo": 45,
     "titulo": "Título Segundo",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1931-02-07",
-    "num_reformas": 1,
+    "ultima_reforma": "1974-10-08",
+    "num_reformas": 6,
     "archivo": "articulos/045.md"
   },
   {
@@ -409,8 +409,8 @@
     "articulo": 46,
     "titulo": "Título Segundo",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1987-03-17",
-    "num_reformas": 1,
+    "ultima_reforma": "2012-10-15",
+    "num_reformas": 3,
     "archivo": "articulos/046.md"
   },
   {
@@ -436,8 +436,8 @@
     "articulo": 49,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo I",
-    "ultima_reforma": "1938-08-12",
-    "num_reformas": 1,
+    "ultima_reforma": "1951-03-28",
+    "num_reformas": 2,
     "archivo": "articulos/049.md"
   },
   {
@@ -454,8 +454,8 @@
     "articulo": 51,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1933-04-29",
-    "num_reformas": 1,
+    "ultima_reforma": "1977-12-06",
+    "num_reformas": 2,
     "archivo": "articulos/051.md"
   },
   {
@@ -463,8 +463,8 @@
     "articulo": 52,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1928-08-20",
-    "num_reformas": 1,
+    "ultima_reforma": "2019-06-06",
+    "num_reformas": 9,
     "archivo": "articulos/052.md"
   },
   {
@@ -472,8 +472,8 @@
     "articulo": 53,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1977-12-06",
-    "num_reformas": 1,
+    "ultima_reforma": "2019-06-06",
+    "num_reformas": 4,
     "archivo": "articulos/053.md"
   },
   {
@@ -481,8 +481,8 @@
     "articulo": 54,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1996-08-22",
-    "num_reformas": 3,
+    "ultima_reforma": "2014-02-10",
+    "num_reformas": 8,
     "archivo": "articulos/054.md"
   },
   {
@@ -491,7 +491,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
     "ultima_reforma": "2025-04-01",
-    "num_reformas": 7,
+    "num_reformas": 11,
     "archivo": "articulos/055.md"
   },
   {
@@ -500,7 +500,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
     "ultima_reforma": "2019-06-06",
-    "num_reformas": 3,
+    "num_reformas": 6,
     "archivo": "articulos/056.md"
   },
   {
@@ -517,8 +517,8 @@
     "articulo": 58,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1933-04-29",
-    "num_reformas": 1,
+    "ultima_reforma": "1999-07-29",
+    "num_reformas": 3,
     "archivo": "articulos/058.md"
   },
   {
@@ -526,8 +526,8 @@
     "articulo": 59,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1933-04-29",
-    "num_reformas": 1,
+    "ultima_reforma": "2025-04-01",
+    "num_reformas": 3,
     "archivo": "articulos/059.md"
   },
   {
@@ -536,7 +536,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
     "ultima_reforma": "1996-08-22",
-    "num_reformas": 2,
+    "num_reformas": 6,
     "archivo": "articulos/060.md"
   },
   {
@@ -562,8 +562,8 @@
     "articulo": 63,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1993-09-03",
-    "num_reformas": 2,
+    "ultima_reforma": "2003-10-29",
+    "num_reformas": 3,
     "archivo": "articulos/063.md"
   },
   {
@@ -580,8 +580,8 @@
     "articulo": 65,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1993-09-03",
-    "num_reformas": 2,
+    "ultima_reforma": "2024-01-24",
+    "num_reformas": 6,
     "archivo": "articulos/065.md"
   },
   {
@@ -617,7 +617,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
     "ultima_reforma": "2014-02-10",
-    "num_reformas": 2,
+    "num_reformas": 4,
     "archivo": "articulos/069.md"
   },
   {
@@ -634,8 +634,8 @@
     "articulo": 71,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "2012-08-09",
-    "num_reformas": 2,
+    "ultima_reforma": "2016-01-29",
+    "num_reformas": 3,
     "archivo": "articulos/071.md"
   },
   {
@@ -652,8 +652,8 @@
     "articulo": 73,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "2025-04-15",
-    "num_reformas": 58,
+    "ultima_reforma": "2026-05-06",
+    "num_reformas": 83,
     "archivo": "articulos/073.md"
   },
   {
@@ -662,7 +662,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
     "ultima_reforma": "2021-05-17",
-    "num_reformas": 15,
+    "num_reformas": 18,
     "archivo": "articulos/074.md"
   },
   {
@@ -680,7 +680,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
     "ultima_reforma": "2025-10-15",
-    "num_reformas": 14,
+    "num_reformas": 20,
     "archivo": "articulos/076.md"
   },
   {
@@ -688,8 +688,8 @@
     "articulo": 77,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "1986-12-15",
-    "num_reformas": 1,
+    "ultima_reforma": "2003-10-29",
+    "num_reformas": 2,
     "archivo": "articulos/077.md"
   },
   {
@@ -698,7 +698,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
     "ultima_reforma": "2025-10-15",
-    "num_reformas": 7,
+    "num_reformas": 11,
     "archivo": "articulos/078.md"
   },
   {
@@ -706,8 +706,8 @@
     "articulo": 79,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo II",
-    "ultima_reforma": "2015-05-27",
-    "num_reformas": 4,
+    "ultima_reforma": "2016-01-29",
+    "num_reformas": 15,
     "archivo": "articulos/079.md"
   },
   {
@@ -734,7 +734,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo III",
     "ultima_reforma": "2025-04-01",
-    "num_reformas": 5,
+    "num_reformas": 10,
     "archivo": "articulos/082.md"
   },
   {
@@ -742,8 +742,8 @@
     "articulo": 83,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo III",
-    "ultima_reforma": "1927-01-22",
-    "num_reformas": 1,
+    "ultima_reforma": "2014-02-10",
+    "num_reformas": 5,
     "archivo": "articulos/083.md"
   },
   {
@@ -752,7 +752,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo III",
     "ultima_reforma": "2019-12-20",
-    "num_reformas": 3,
+    "num_reformas": 5,
     "archivo": "articulos/084.md"
   },
   {
@@ -787,8 +787,8 @@
     "articulo": 88,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo III",
-    "ultima_reforma": "1966-10-21",
-    "num_reformas": 1,
+    "ultima_reforma": "2008-08-29",
+    "num_reformas": 2,
     "archivo": "articulos/088.md"
   },
   {
@@ -797,7 +797,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo III",
     "ultima_reforma": "2024-12-20",
-    "num_reformas": 16,
+    "num_reformas": 21,
     "archivo": "articulos/089.md"
   },
   {
@@ -823,8 +823,8 @@
     "articulo": 92,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo III",
-    "ultima_reforma": "1981-04-21",
-    "num_reformas": 1,
+    "ultima_reforma": "2007-08-02",
+    "num_reformas": 2,
     "archivo": "articulos/092.md"
   },
   {
@@ -832,8 +832,8 @@
     "articulo": 93,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo III",
-    "ultima_reforma": "2008-08-15",
-    "num_reformas": 5,
+    "ultima_reforma": "2014-02-10",
+    "num_reformas": 6,
     "archivo": "articulos/093.md"
   },
   {
@@ -841,8 +841,8 @@
     "articulo": 94,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "2024-09-15",
-    "num_reformas": 10,
+    "ultima_reforma": "2026-06-02",
+    "num_reformas": 17,
     "archivo": "articulos/094.md"
   },
   {
@@ -851,7 +851,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2024-09-15",
-    "num_reformas": 4,
+    "num_reformas": 6,
     "archivo": "articulos/095.md"
   },
   {
@@ -860,7 +860,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2026-06-02",
-    "num_reformas": 2,
+    "num_reformas": 4,
     "archivo": "articulos/096.md"
   },
   {
@@ -869,7 +869,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2024-09-15",
-    "num_reformas": 6,
+    "num_reformas": 12,
     "archivo": "articulos/097.md"
   },
   {
@@ -878,7 +878,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2026-06-02",
-    "num_reformas": 4,
+    "num_reformas": 8,
     "archivo": "articulos/098.md"
   },
   {
@@ -887,7 +887,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2024-09-15",
-    "num_reformas": 5,
+    "num_reformas": 9,
     "archivo": "articulos/099.md"
   },
   {
@@ -896,7 +896,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2026-06-02",
-    "num_reformas": 2,
+    "num_reformas": 8,
     "archivo": "articulos/100.md"
   },
   {
@@ -905,7 +905,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2024-09-15",
-    "num_reformas": 3,
+    "num_reformas": 5,
     "archivo": "articulos/101.md"
   },
   {
@@ -914,7 +914,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2023-05-29",
-    "num_reformas": 6,
+    "num_reformas": 9,
     "archivo": "articulos/102.md"
   },
   {
@@ -923,7 +923,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2016-01-29",
-    "num_reformas": 2,
+    "num_reformas": 3,
     "archivo": "articulos/103.md"
   },
   {
@@ -932,7 +932,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2016-01-29",
-    "num_reformas": 3,
+    "num_reformas": 10,
     "archivo": "articulos/104.md"
   },
   {
@@ -941,7 +941,7 @@
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2024-12-20",
-    "num_reformas": 13,
+    "num_reformas": 16,
     "archivo": "articulos/105.md"
   },
   {
@@ -949,8 +949,8 @@
     "articulo": 106,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "1986-04-07",
-    "num_reformas": 1,
+    "ultima_reforma": "2016-01-29",
+    "num_reformas": 3,
     "archivo": "articulos/106.md"
   },
   {
@@ -958,8 +958,8 @@
     "articulo": 107,
     "titulo": "Título Tercero",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "2024-09-15",
-    "num_reformas": 14,
+    "ultima_reforma": "2024-10-31",
+    "num_reformas": 24,
     "archivo": "articulos/107.md"
   },
   {
@@ -968,7 +968,7 @@
     "titulo": "Título Cuarto",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2021-02-19",
-    "num_reformas": 8,
+    "num_reformas": 11,
     "archivo": "articulos/108.md"
   },
   {
@@ -976,8 +976,8 @@
     "articulo": 109,
     "titulo": "Título Cuarto",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "1982-12-28",
-    "num_reformas": 1,
+    "ultima_reforma": "2015-05-27",
+    "num_reformas": 2,
     "archivo": "articulos/109.md"
   },
   {
@@ -985,8 +985,8 @@
     "articulo": 110,
     "titulo": "Título Cuarto",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "1994-12-31",
-    "num_reformas": 3,
+    "ultima_reforma": "2024-09-15",
+    "num_reformas": 9,
     "archivo": "articulos/110.md"
   },
   {
@@ -994,8 +994,8 @@
     "articulo": 111,
     "titulo": "Título Cuarto",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "2021-02-19",
-    "num_reformas": 5,
+    "ultima_reforma": "2024-09-15",
+    "num_reformas": 13,
     "archivo": "articulos/111.md"
   },
   {
@@ -1012,8 +1012,8 @@
     "articulo": 113,
     "titulo": "Título Cuarto",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "2024-09-15",
-    "num_reformas": 2,
+    "ultima_reforma": "2024-12-20",
+    "num_reformas": 5,
     "archivo": "articulos/113.md"
   },
   {
@@ -1021,8 +1021,8 @@
     "articulo": 114,
     "titulo": "Título Cuarto",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "2015-05-27",
-    "num_reformas": 3,
+    "ultima_reforma": "2016-01-29",
+    "num_reformas": 4,
     "archivo": "articulos/114.md"
   },
   {
@@ -1030,8 +1030,8 @@
     "articulo": 115,
     "titulo": "Título Quinto",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "2020-12-18",
-    "num_reformas": 10,
+    "ultima_reforma": "2026-04-23",
+    "num_reformas": 19,
     "archivo": "articulos/115.md"
   },
   {
@@ -1040,7 +1040,7 @@
     "titulo": "Título Quinto",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2026-06-02",
-    "num_reformas": 20,
+    "num_reformas": 21,
     "archivo": "articulos/116.md"
   },
   {
@@ -1049,7 +1049,7 @@
     "titulo": "Título Quinto",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2016-01-29",
-    "num_reformas": 5,
+    "num_reformas": 7,
     "archivo": "articulos/117.md"
   },
   {
@@ -1094,7 +1094,7 @@
     "titulo": "Título Quinto",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2026-06-02",
-    "num_reformas": 9,
+    "num_reformas": 20,
     "archivo": "articulos/122.md"
   },
   {
@@ -1103,7 +1103,7 @@
     "titulo": "Título Sexto",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2026-03-03",
-    "num_reformas": 29,
+    "num_reformas": 35,
     "archivo": "articulos/123.md"
   },
   {
@@ -1139,7 +1139,7 @@
     "titulo": "Título Séptimo",
     "capitulo": "Capítulo IV",
     "ultima_reforma": "2026-04-10",
-    "num_reformas": 3,
+    "num_reformas": 5,
     "archivo": "articulos/127.md"
   },
   {
@@ -1174,8 +1174,8 @@
     "articulo": 131,
     "titulo": "Título Séptimo",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "1974-10-08",
-    "num_reformas": 2,
+    "ultima_reforma": "2016-01-29",
+    "num_reformas": 3,
     "archivo": "articulos/131.md"
   },
   {
@@ -1192,8 +1192,8 @@
     "articulo": 133,
     "titulo": "Título Séptimo",
     "capitulo": "Capítulo IV",
-    "ultima_reforma": "1934-01-18",
-    "num_reformas": 1,
+    "ultima_reforma": "2016-01-29",
+    "num_reformas": 2,
     "archivo": "articulos/133.md"
   },
   {
