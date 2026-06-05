@@ -1,0 +1,48 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1o.",
+  "_generado": {
+    "modelo": "claude-sonnet-4-6 (muestra vía subagente)",
+    "schema": 1,
+    "hash_texto": "sha256:82102d949c5f7348",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos humanos y no discriminación",
+  "temas": [
+    "Derechos humanos",
+    "Tratados internacionales de derechos humanos",
+    "Garantías de protección",
+    "Principio pro persona",
+    "Obligaciones de las autoridades",
+    "Prohibición de la esclavitud",
+    "Prohibición de la discriminación",
+    "Igualdad y dignidad humana"
+  ],
+  "terminos_coloquiales": [
+    "derechos humanos",
+    "mis derechos",
+    "no discriminación",
+    "discriminación",
+    "igualdad",
+    "trato igual",
+    "esclavitud prohibida",
+    "libertad",
+    "tratados internacionales",
+    "derechos de todas las personas",
+    "racismo",
+    "discriminación por género",
+    "discriminación por edad",
+    "discriminación por religión",
+    "preferencias sexuales",
+    "dignidad"
+  ],
+  "resumen": "Establece que todas las personas en México gozan de los derechos humanos reconocidos en la Constitución y en los tratados internacionales, así como de las garantías para protegerlos, interpretándolos siempre de la forma más favorable a la persona. Obliga a todas las autoridades a promover, respetar, proteger y garantizar esos derechos, prohíbe la esclavitud y prohíbe toda discriminación que atente contra la dignidad humana.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo como persona en México?",
+    "¿La Constitución prohíbe la discriminación?",
+    "¿Está prohibida la esclavitud en México?",
+    "¿Pueden discriminarme por mi género, edad o religión?",
+    "¿Qué obligaciones tienen las autoridades respecto a mis derechos humanos?",
+    "¿Los tratados internacionales de derechos humanos aplican en México?"
+  ]
+}

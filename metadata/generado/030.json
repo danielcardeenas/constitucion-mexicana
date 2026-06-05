@@ -1,0 +1,44 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30.",
+  "_generado": {
+    "modelo": "claude-sonnet-4-6 (muestra vía subagente)",
+    "schema": 1,
+    "hash_texto": "sha256:109baa76e3bf1ab0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Nacionalidad mexicana",
+  "temas": [
+    "Nacionalidad mexicana",
+    "Nacionalidad por nacimiento",
+    "Nacionalidad por naturalización",
+    "Mexicanos por nacimiento",
+    "Hijos de padres mexicanos nacidos en el extranjero",
+    "Carta de naturalización",
+    "Naturalización por matrimonio",
+    "Nacimiento en territorio nacional",
+    "Nacimiento en embarcaciones o aeronaves mexicanas"
+  ],
+  "terminos_coloquiales": [
+    "cómo ser mexicano",
+    "cómo obtener la nacionalidad mexicana",
+    "quién es mexicano",
+    "ser mexicano por nacimiento",
+    "hijo de mexicano nacido en el extranjero",
+    "sacar la nacionalidad mexicana",
+    "naturalizarse mexicano",
+    "carta de naturalización",
+    "casarse con mexicano para la nacionalidad",
+    "nacer en México de padres extranjeros",
+    "nacer en avión o barco mexicano"
+  ],
+  "resumen": "Establece quiénes son mexicanos, ya sea por nacimiento o por naturalización. Son mexicanos por nacimiento los nacidos en territorio nacional sin importar la nacionalidad de sus padres, los nacidos en el extranjero de padre o madre mexicanos, y los nacidos en barcos o aviones mexicanos. Son mexicanos por naturalización los extranjeros que obtienen carta de naturalización y los extranjeros que se casan con una persona mexicana y cumplen los requisitos de ley.",
+  "preguntas_ejemplo": [
+    "¿Quién es mexicano por nacimiento?",
+    "Si nazco en México pero mis padres son extranjeros, ¿soy mexicano?",
+    "¿Es mexicano el hijo de mexicanos que nace en otro país?",
+    "¿Cómo puede un extranjero obtener la nacionalidad mexicana?",
+    "¿Si me caso con una persona mexicana puedo obtener la nacionalidad?",
+    "¿Es mexicano quien nace en un barco o avión mexicano?"
+  ]
+}

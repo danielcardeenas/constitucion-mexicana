@@ -1,0 +1,48 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5o.",
+  "_generado": {
+    "modelo": "claude-sonnet-4-6 (muestra vía subagente)",
+    "schema": 1,
+    "hash_texto": "sha256:fa230e54787cbf4f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Libertad de trabajo y profesión",
+  "temas": [
+    "Libertad de trabajo",
+    "Libertad de profesión, industria y comercio",
+    "Profesiones que requieren título",
+    "Derecho al producto del trabajo",
+    "Trabajo personal con consentimiento y justa retribución",
+    "Servicios públicos obligatorios",
+    "Servicio social obligatorio",
+    "Límites del contrato de trabajo",
+    "Prohibición de renunciar a derechos por contrato"
+  ],
+  "terminos_coloquiales": [
+    "puedo trabajar en lo que quiera",
+    "libertad de elegir profesion",
+    "me obligan a trabajar gratis",
+    "trabajo forzado",
+    "no me pagan mi trabajo",
+    "necesito titulo para ejercer",
+    "cedula profesional",
+    "servicio social obligatorio",
+    "me quieren obligar a un cargo",
+    "jurado obligatorio",
+    "contrato de trabajo por mas de un año",
+    "renunciar a mis derechos en un contrato",
+    "no me pueden obligar a firmar",
+    "destierro",
+    "trabajo como castigo"
+  ],
+  "resumen": "Establece que toda persona es libre de dedicarse a la profesión, industria, comercio o trabajo lícito que prefiera, y que nadie puede ser privado del producto de su trabajo ni obligado a trabajar sin su consentimiento y sin justa retribución. También fija qué servicios públicos pueden ser obligatorios, prohíbe contratos que sacrifiquen la libertad o renuncien a derechos, y limita la duración del contrato de trabajo.",
+  "preguntas_ejemplo": [
+    "¿Puedo dedicarme a cualquier trabajo o profesión que quiera?",
+    "¿Me pueden obligar a trabajar sin pagarme?",
+    "¿Qué profesiones necesitan título para ejercerse?",
+    "¿Es válido un contrato que me obligue a trabajar más de un año?",
+    "¿Pueden obligarme a prestar un servicio público o un cargo?",
+    "¿Puedo renunciar a mis derechos al firmar un contrato de trabajo?"
+  ]
+}
