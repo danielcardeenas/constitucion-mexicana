@@ -20,6 +20,9 @@ env:
   # Repo del extractor (código). Ajusta al tuyo cuando publiques en GitHub.
   EXTRACTOR_REPO: https://github.com/USUARIO/constitucion-extractor.git
   PDF_URL: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+  # Opcional: si defines el secret OPENAI_API_KEY, el Action también regenera el
+  # enriquecimiento de los artículos cambiados (best-effort). Si no, se omite.
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
 jobs:
   vigilar:
@@ -59,6 +62,17 @@ jobs:
             echo "hay_cambios=false" >> "$GITHUB_OUTPUT"
             echo "Sin cambios: el texto vigente coincide con el repo."
           fi
+
+      - name: Enriquecer artículos cambiados (opcional, best-effort)
+        # Solo si hay reforma y está configurado el secret OPENAI_API_KEY.
+        # continue-on-error: un fallo del LLM no debe tumbar el PR del texto.
+        if: steps.cambios.outputs.hay_cambios == 'true' && env.OPENAI_API_KEY != ''
+        continue-on-error: true
+        run: |
+          pip install openai
+          cd /tmp/extractor
+          PYTHONPATH=/tmp/extractor python -m extractor enriquecer \
+            --pdf /tmp/CPEUM.pdf --out "$GITHUB_WORKSPACE" --proveedor openai
 
       - name: Generar cuerpo del PR
         if: steps.cambios.outputs.hay_cambios == 'true'
