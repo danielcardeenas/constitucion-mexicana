@@ -109,6 +109,20 @@ No se edita a mano. Cuando hay una reforma, se regenera desde el PDF oficial
 con el extractor y se commitea el diff resultante. Ver el README de
 [`constitucion-extractor`](../constitucion-extractor#flujo-de-actualización-rastro-de-reformas).
 
+### Vigilancia automática (`.github/workflows/vigilar-cpeum.yml`)
+
+Un GitHub Action corre **cada lunes** (y a mano con *Run workflow*): descarga el
+PDF oficial, regenera el texto y **si cambió** abre un PR con el resumen de los
+artículos afectados. La detección es por git (se compara el texto regenerado),
+no por bytes del PDF.
+
+El PR trae **solo texto + metadata** (regeneración determinista, gratis). El
+enriquecimiento por LLM se corre a mano tras aprobar (queda fuera del Action por
+costo y para mantener un humano en el loop).
+
+Configuración: ajusta `EXTRACTOR_REPO` en el workflow a la URL de tu repo del
+extractor. Usa el `GITHUB_TOKEN` nativo, no requiere secretos adicionales.
+
 ## Fuente
 
 Diario Oficial de la Federación — CPEUM, H. Cámara de Diputados del H. Congreso

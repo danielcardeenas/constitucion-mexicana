@@ -1,0 +1,81 @@
+name: Vigilar reformas CPEUM
+
+# Vigila el PDF oficial de la Constitución y abre un PR cuando el texto vigente
+# cambia (= hubo una reforma publicada en el DOF). La detección de cambios la
+# hace git: se regenera el texto y se compara; NO se comparan bytes del PDF.
+#
+# El PR trae solo el texto + metadata (regeneración determinista y gratuita).
+# El enriquecimiento por LLM (que cuesta) se corre a mano tras aprobar.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'        # cada lunes 09:00 UTC
+  workflow_dispatch: {}         # también disparo manual
+
+permissions:
+  contents: write               # crear la rama y commitear
+  pull-requests: write          # abrir el PR
+
+env:
+  # Repo del extractor (código). Ajusta al tuyo cuando publiques en GitHub.
+  EXTRACTOR_REPO: https://github.com/USUARIO/constitucion-extractor.git
+  PDF_URL: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repo de datos
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Clonar extractor e instalar dependencias
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -r /tmp/extractor/requirements.txt
+
+      - name: Descargar el PDF vigente
+        run: curl -sSL --retry 3 -o /tmp/CPEUM.pdf "$PDF_URL"
+
+      - name: Regenerar texto + metadata desde el PDF
+        run: |
+          cd /tmp/extractor
+          PYTHONPATH=/tmp/extractor python -m extractor build \
+            --pdf /tmp/CPEUM.pdf --out "$GITHUB_WORKSPACE"
+
+      - name: ¿Cambió el texto vigente?
+        id: cambios
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "hay_cambios=true" >> "$GITHUB_OUTPUT"
+            git status --short
+          else
+            echo "hay_cambios=false" >> "$GITHUB_OUTPUT"
+            echo "Sin cambios: el texto vigente coincide con el repo."
+          fi
+
+      - name: Generar cuerpo del PR
+        if: steps.cambios.outputs.hay_cambios == 'true'
+        run: |
+          python /tmp/extractor/scripts/pr_summary.py "$GITHUB_WORKSPACE" > /tmp/cuerpo.md
+          cat /tmp/cuerpo.md
+
+      - name: Abrir Pull Request
+        if: steps.cambios.outputs.hay_cambios == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: reforma/cpeum-deteccion-automatica
+          base: main
+          title: '🏛️ Posible reforma a la CPEUM (detección automática)'
+          body-path: /tmp/cuerpo.md
+          commit-message: 'Actualización automática del texto vigente de la CPEUM'
+          labels: |
+            reforma
+            automatico
+          delete-branch: true
