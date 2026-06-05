@@ -17,8 +17,8 @@ permissions:
   pull-requests: write          # abrir el PR
 
 env:
-  # Repo del extractor (código). Ajusta al tuyo cuando publiques en GitHub.
-  EXTRACTOR_REPO: https://github.com/USUARIO/constitucion-extractor.git
+  # Repo del extractor (código).
+  EXTRACTOR_REPO: https://github.com/danielcardeenas/constitucion-extractor.git
   PDF_URL: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
   # Opcional: si defines el secret OPENAI_API_KEY, el Action también regenera el
   # enriquecimiento de los artículos cambiados (best-effort). Si no, se omite.
