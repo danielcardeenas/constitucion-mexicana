@@ -18,6 +18,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 42. › párrafo 1",
       "texto": "El territorio nacional comprende:"
     },
@@ -26,6 +27,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 42. › Fracción I",
       "texto": "I. El de las partes integrantes de la Federación;"
     },
@@ -34,6 +36,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 42. › Fracción II",
       "texto": "II. El de las islas, incluyendo los arrecifes y cayos en los mares adyacentes;"
     },
@@ -42,6 +45,7 @@
       "tipo": "fraccion",
       "marca": "III",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 42. › Fracción III",
       "texto": "III. El de las islas de Guadalupe y las de Revillagigedo situadas en el Océano Pacífico;"
     },
@@ -50,6 +54,7 @@
       "tipo": "fraccion",
       "marca": "IV",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 42. › Fracción IV",
       "texto": "IV. La plataforma continental y los zócalos submarinos de las islas, cayos y arrecifes;"
     },
@@ -58,6 +63,7 @@
       "tipo": "fraccion",
       "marca": "V",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 42. › Fracción V",
       "texto": "V. Las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional y las marítimas interiores;"
     },
@@ -66,6 +72,7 @@
       "tipo": "fraccion",
       "marca": "VI",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 42. › Fracción VI",
       "texto": "VI. El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional."
     }

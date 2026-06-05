@@ -25,6 +25,8 @@ metadata/                     ← CAPA 3: DERIVADO (regenerable, no canónico)
   reformas.json               fecha DOF → artículos afectados
   segmentos/NNN.json          artículo descompuesto en bloques, con cada reforma
                               ya ENLAZADA a su bloque (pensado para LLMs)
+  pasajes.jsonl               índice plano para ingesta de un RAG: un pasaje
+                              citable por bloque (cita legal, provenance, temporal)
 ```
 
 ### Para consumo por LLM: `metadata/segmentos/`
@@ -53,6 +55,29 @@ Reglas que evitan la confusión típica: las notas de alcance **Artículo** van 
 `reformas_articulo` (no cuelgan de un párrafo); una nota de **Fracción** se ancla
 a la fracción completa aunque tenga sub-párrafos; cada bloque tiene `id` único y
 una `ruta` legible. El 100% de las notas quedan enlazadas.
+
+### Para RAG con citas: `metadata/pasajes.jsonl`
+
+Un registro por bloque citable (1353 en total), listo para embeber e indexar.
+Cada pasaje trae lo necesario para **recuperar, responder y citar de forma
+verificable**:
+
+```json
+{ "id": "002.A.I",
+  "cita": "Artículo 2o., Apartado A, fracción I",   // cita legal formal
+  "ruta": "Artículo 2o. › Apartado A › Fracción I",
+  "texto": "I. Decidir, conforme a sus sistemas normativos...",
+  "texto_embedding": "<ruta + título>\n<texto>",     // contexto para retrieval
+  "reformas": ["2024-09-30"],
+  "vigente_desde": "2024-09-30", "vigente_hasta": null,
+  "version": "2026-06-02",                            // versión del PDF
+  "fuente": "...", "url_fuente": "...",
+  "archivo_texto": "articulos/002.md" }
+```
+
+**Patrón para no alucinar citas:** no dejes que el LLM *escriba* la cita. Que
+devuelva `id`s de pasaje; tu aplicación renderiza la cita desde `cita`/`ruta`/
+`texto` del registro confiable. Así toda cita apunta a texto real y verificable.
 
 Garantía: regenerar `metadata/` (p. ej. al mejorar la extracción de fechas)
 **no modifica ningún `.md`**. Un `git diff` en `articulos/` es siempre un

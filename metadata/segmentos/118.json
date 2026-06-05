@@ -17,6 +17,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 118. › párrafo 1",
       "texto": "Tampoco pueden, sin consentimiento del Congreso de la Unión:"
     },
@@ -25,6 +26,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 118. › Fracción I",
       "texto": "I. Establecer derechos de tonelaje, ni otro alguno de puertos, ni imponer contribuciones o derechos sobre importaciones o exportaciones."
     },
@@ -33,6 +35,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 118. › Fracción II",
       "texto": "II. Tener, en ningún tiempo, tropa permanente ni buques de guerra."
     },
@@ -41,6 +44,7 @@
       "tipo": "fraccion",
       "marca": "III",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 118. › Fracción III",
       "texto": "III. Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los casos de invasión y de peligro tan inminente, que no admita demora. En estos casos darán cuenta inmediata al Presidente de la República."
     }

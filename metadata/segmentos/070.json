@@ -10,6 +10,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 70. › párrafo 1",
       "texto": "Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmados por los presidentes de ambas Cámaras y por un secretario de cada una de ellas, y se promulgarán en esta forma: \"El Congreso de los Estados Unidos Mexicanos decreta:"
     },
@@ -18,6 +19,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 70. › párrafo 2",
       "texto": "(texto de la ley o decreto)\"."
     },
@@ -26,6 +28,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 70. › párrafo 3",
       "texto": "El Congreso expedirá la Ley que regulará su estructura y funcionamiento internos.",
       "reformas": [
@@ -42,6 +45,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 70. › párrafo 4",
       "texto": "La ley determinará, las formas y procedimientos para la agrupación de los diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Cámara de Diputados.",
       "reformas": [
@@ -58,6 +62,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 70. › párrafo 5",
       "texto": "Esta ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Federal para tener vigencia.",
       "reformas": [
@@ -74,6 +79,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 70. › párrafo 6",
       "texto": "Sección II De la Iniciativa y Formación de las Leyes"
     }

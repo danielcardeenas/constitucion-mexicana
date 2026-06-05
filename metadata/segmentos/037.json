@@ -10,6 +10,7 @@
       "tipo": "apartado",
       "marca": "A",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado A",
       "texto": "A) Ningún mexicano por nacimiento podrá ser privado de su nacionalidad."
     },
@@ -18,6 +19,7 @@
       "tipo": "apartado",
       "marca": "B",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado B",
       "texto": "B) La nacionalidad mexicana por naturalización se perderá en los siguientes casos:"
     },
@@ -26,6 +28,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "B",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado B › Fracción I",
       "texto": "I. Por adquisición voluntaria de una nacionalidad extranjera, por hacerse pasar en cualquier instrumento público como extranjero, por usar un pasaporte extranjero, o por aceptar o usar títulos nobiliarios que impliquen sumisión a un Estado extranjero, y"
     },
@@ -34,6 +37,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "B",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado B › Fracción II",
       "texto": "II. Por residir durante cinco años continuos en el extranjero."
     },
@@ -42,6 +46,7 @@
       "tipo": "apartado",
       "marca": "C",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado C",
       "texto": "C) La ciudadanía mexicana se pierde:",
       "reformas": [
@@ -58,6 +63,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "C",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado C › Fracción I",
       "texto": "I. Por aceptar o usar títulos nobiliarios de gobiernos extranjeros;"
     },
@@ -66,6 +72,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "C",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado C › Fracción II",
       "texto": "II. Por prestar voluntariamente servicios o funciones oficiales a un gobierno extranjero, sin permiso del Ejecutivo Federal;",
       "reformas": [
@@ -82,6 +89,7 @@
       "tipo": "fraccion",
       "marca": "III",
       "apartado": "C",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado C › Fracción III",
       "texto": "III. Por aceptar o usar condecoraciones extranjeras sin permiso del Ejecutivo Federal.\n\nEl Presidente de la República, los senadores y diputados al Congreso de la Unión y los ministros de la Suprema Corte de Justicia de la Nación podrán libremente aceptar y usar condecoraciones extranjeras;",
       "reformas": [
@@ -98,6 +106,7 @@
       "tipo": "fraccion",
       "marca": "IV",
       "apartado": "C",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado C › Fracción IV",
       "texto": "IV. Por admitir del gobierno de otro país títulos o funciones sin previo permiso del Ejecutivo Federal, exceptuando los títulos literarios, científicos o humanitarios que pueden aceptarse libremente;",
       "reformas": [
@@ -114,6 +123,7 @@
       "tipo": "fraccion",
       "marca": "V",
       "apartado": "C",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado C › Fracción V",
       "texto": "V. Por ayudar, en contra de la Nación, a un extranjero, o a un gobierno extranjero, en cualquier reclamación diplomática o ante un tribunal internacional, y"
     },
@@ -122,6 +132,7 @@
       "tipo": "fraccion",
       "marca": "VI",
       "apartado": "C",
+      "fraccion": "",
       "ruta": "Artículo 37. › Apartado C › Fracción VI",
       "texto": "VI. En los demás casos que fijan las leyes.",
       "reformas": [

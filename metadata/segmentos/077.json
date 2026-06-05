@@ -10,6 +10,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 77. › párrafo 1",
       "texto": "Cada una de las Cámaras puede, sin intervención de la otra:"
     },
@@ -18,6 +19,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 77. › Fracción I",
       "texto": "I. Dictar resoluciones económicas relativas a su régimen interior."
     },
@@ -26,6 +28,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 77. › Fracción II",
       "texto": "II. Comunicarse en la Cámara colegisladora y con el Ejecutivo de la Unión, por medio de comisiones de su seno."
     },
@@ -34,6 +37,7 @@
       "tipo": "fraccion",
       "marca": "III",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 77. › Fracción III",
       "texto": "III. Nombrar los empleados de su secretaría y hacer el reglamento interior de la misma."
     },
@@ -42,6 +46,7 @@
       "tipo": "fraccion",
       "marca": "IV",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 77. › Fracción IV",
       "texto": "IV. Expedir convocatoria, dentro del término de 30 días a partir de que ocurra la vacante, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, con el fin de cubrir las vacantes de sus miembros a que se refiere el artículo 63 de esta Constitución, en el caso de vacantes de diputados y senadores del Congreso de la Unión por el principio de mayoría relativa, salvo que la vacante ocurra dentro del año final del ejercicio del legislador correspondiente.",
       "reformas": [
@@ -59,6 +64,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 77. › párrafo 2",
       "texto": "Sección IV De la Comisión Permanente"
     }

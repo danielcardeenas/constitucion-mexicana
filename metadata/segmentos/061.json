@@ -10,6 +10,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 61. › párrafo 1",
       "texto": "Los diputados y senadores son inviolables por las opiniones que manifiesten en el desempeño de sus cargos, y jamás podrán ser reconvenidos por ellas."
     },
@@ -18,6 +19,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 61. › párrafo 2",
       "texto": "El Presidente de cada Cámara velará por el respeto al fuero constitucional de los miembros de la misma y por la inviolabilidad del recinto donde se reúnan a sesionar.",
       "reformas": [

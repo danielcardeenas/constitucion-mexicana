@@ -10,6 +10,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 1",
       "texto": "Son derechos de la ciudadanía:",
       "reformas": [
@@ -33,6 +34,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › Fracción I",
       "texto": "I. Votar en las elecciones populares;"
     },
@@ -41,6 +43,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › Fracción II",
       "texto": "II. Poder ser votada en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;",
       "reformas": [
@@ -58,6 +61,7 @@
       "tipo": "fraccion",
       "marca": "III",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › Fracción III",
       "texto": "III. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del país;",
       "reformas": [
@@ -75,6 +79,7 @@
       "tipo": "fraccion",
       "marca": "IV",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › Fracción IV",
       "texto": "IV. Tomar las armas en la Fuerza Armada permanente o en los cuerpos de reserva, para la defensa de la República y de sus instituciones, en los términos que prescriben las leyes;",
       "reformas": [
@@ -92,6 +97,7 @@
       "tipo": "fraccion",
       "marca": "V",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › Fracción V",
       "texto": "V. Ejercer en toda clase de negocios el derecho de petición."
     },
@@ -100,6 +106,7 @@
       "tipo": "fraccion",
       "marca": "VI",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › Fracción VI",
       "texto": "VI. Poder ser nombrado para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la ley;",
       "reformas": [
@@ -116,6 +123,7 @@
       "tipo": "fraccion",
       "marca": "VII",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › Fracción VII",
       "texto": "VII. Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Nacional Electoral tendrá las facultades que en esta materia le otorgue la ley;",
       "reformas": [
@@ -134,6 +142,7 @@
       "tipo": "fraccion",
       "marca": "VIII",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › Fracción VIII",
       "texto": "VIII. Votar en las consultas populares sobre temas de trascendencia nacional o regional, las que se sujetarán a lo siguiente:\n\n1o. Serán convocadas por el Congreso de la Unión a petición de:",
       "reformas": [
@@ -150,6 +159,7 @@
       "tipo": "inciso",
       "marca": "a",
       "apartado": "",
+      "fraccion": "VIII",
       "ruta": "Artículo 35. › Fracción VIII › inciso a)",
       "texto": "a) El Presidente de la República;"
     },
@@ -158,6 +168,7 @@
       "tipo": "inciso",
       "marca": "b",
       "apartado": "",
+      "fraccion": "VIII",
       "ruta": "Artículo 35. › Fracción VIII › inciso b)",
       "texto": "b) El equivalente al treinta y tres por ciento de los integrantes de cualquiera de las Cámaras del Congreso de la Unión; o"
     },
@@ -166,6 +177,7 @@
       "tipo": "inciso",
       "marca": "c",
       "apartado": "",
+      "fraccion": "VIII",
       "ruta": "Artículo 35. › Fracción VIII › inciso c)",
       "texto": "c) Para el caso de las consultas populares de temas de trascendencia nacional, los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, en los términos que determine la ley.\n\nPara el caso de las consultas populares de temas de trascendencia regional competencia de la Federación, los ciudadanos de una o más entidades federativas, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores de la entidad o entidades federativas que correspondan, en los términos que determine la ley.",
       "reformas": [
@@ -182,6 +194,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 2",
       "texto": "Con excepción de las hipótesis previstas en el inciso c) anterior, la petición deberá ser aprobada por la mayoría de cada Cámara del Congreso de la Unión;",
       "reformas": [
@@ -198,6 +211,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 3",
       "texto": "2o. Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo federales y para las autoridades competentes;"
     },
@@ -206,6 +220,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 4",
       "texto": "3o. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, ni las garantías para su protección; los principios consagrados en el artículo 40 de la misma; la permanencia o continuidad en el cargo de los servidores públicos de elección popular; la materia electoral; el sistema financiero, ingresos, gastos y el Presupuesto de Egresos de la Federación; las obras de infraestructura en ejecución; la seguridad nacional y la organización, funcionamiento y disciplina de la Fuerza Armada permanente. La Suprema Corte de Justicia de la Nación resolverá, previo a la convocatoria que realice el Congreso de la Unión, sobre la constitucionalidad de la materia de la consulta;",
       "reformas": [
@@ -222,6 +237,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 5",
       "texto": "4o. El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1o. de la presente fracción, así como la organización, difusión, desarrollo, cómputo y declaración de resultados."
     },
@@ -230,6 +246,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 6",
       "texto": "El Instituto promoverá la participación de los ciudadanos en las consultas populares y será la única instancia a cargo de la difusión de las mismas. La promoción deberá ser imparcial y de ninguna manera podrá estar dirigida a influir en las preferencias de la ciudadanía, sino que deberá enfocarse en promover la discusión informada y la reflexión de los ciudadanos."
     },
@@ -238,6 +255,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 7",
       "texto": "Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos sobre las consultas populares."
     },
@@ -246,6 +264,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 8",
       "texto": "Durante el tiempo que comprende el proceso de consulta popular, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno, salvo aquellas que tengan como fin difundir campañas de información de las autoridades electorales, las relativas a los servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia;",
       "reformas": [
@@ -263,6 +282,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 9",
       "texto": "5o. Las consultas populares convocadas conforme a la presente fracción, se realizarán el primer domingo de agosto;",
       "reformas": [
@@ -279,6 +299,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 10",
       "texto": "6o. Las resoluciones del Instituto Nacional Electoral podrán ser impugnadas en los términos de lo dispuesto en la fracción VI del artículo 41, así como de la fracción III del artículo 99 de esta Constitución; y",
       "reformas": [
@@ -295,6 +316,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › párrafo 11",
       "texto": "7o. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción."
     },
@@ -303,6 +325,7 @@
       "tipo": "fraccion",
       "marca": "IX",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 35. › Fracción IX",
       "texto": "IX. Participar en los procesos de revocación de mandato.\n\nEl que se refiere a la revocación de mandato del Presidente de la República, se llevará a cabo conforme a lo siguiente:\n\n1o. Será convocado por el Instituto Nacional Electoral a petición de los ciudadanos y ciudadanas, en un número equivalente, al menos, al tres por ciento de los inscritos en la lista nominal de electores, siempre y cuando en la solicitud correspondan a por lo menos diecisiete entidades federativas y que representen, como mínimo, el tres por ciento de la lista nominal de electores de cada una de ellas.\n\nEl Instituto, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.\n\n2o. Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.\n\nLos ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.\n\n3o. Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el primer domingo de junio del cuarto año del periodo constitucional de forma coincidente con las jornadas electorales, federal o locales.\n\nNumeral reformado DOF 02-06-2026 4o. Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores. La revocación de mandato sólo procederá por mayoría absoluta.\n\n5o. El Instituto Nacional Electoral tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo Federal, los cuales podrán ser impugnados ante la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en los términos de lo dispuesto en la fracción VI del artículo 41, así como en la fracción III del artículo 99.\n\n6o. La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 84.\n\n7o. Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.\n\nEl Instituto y los organismos públicos locales, según corresponda, promoverán la participación ciudadana y serán la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos.\n\nNinguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas.\n\nDurante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno.\n\nLos poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.\n\n8o. El Congreso de la Unión emitirá la ley reglamentaria.",
       "reformas": [

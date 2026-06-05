@@ -10,6 +10,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 121. › párrafo 1",
       "texto": "En cada entidad federativa se dará entera fe y crédito de los actos públicos, registros y procedimientos judiciales de todas las otras. El Congreso de la Unión, por medio de leyes generales, prescribirá la manera de probar dichos actos, registros y procedimientos, y el efecto de ellos, sujetándose a las bases siguientes:",
       "reformas": [
@@ -26,6 +27,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 121. › Fracción I",
       "texto": "I. Las leyes de una entidad federativa sólo tendrán efecto en su propio territorio y, por consiguiente, no podrán ser obligatorias fuera de él.",
       "reformas": [
@@ -42,6 +44,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 121. › Fracción II",
       "texto": "II. Los bienes muebles e inmuebles se regirán por la ley del lugar de su ubicación."
     },
@@ -50,6 +53,7 @@
       "tipo": "fraccion",
       "marca": "III",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 121. › Fracción III",
       "texto": "III. Las sentencias pronunciadas por los tribunales de una entidad federativa sobre derechos reales o bienes inmuebles ubicados en otra entidad federativa, sólo tendrán fuerza ejecutoria en ésta, cuando así lo dispongan sus propias leyes.\n\nLas sentencias sobre derechos personales sólo serán ejecutadas en otra entidad federativa, cuando la persona condenada se haya sometido expresamente o por razón de domicilio, a la justicia que las pronunció, y siempre que haya sido citada personalmente para ocurrir al juicio.",
       "reformas": [
@@ -66,6 +70,7 @@
       "tipo": "fraccion",
       "marca": "IV",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 121. › Fracción IV",
       "texto": "IV. Los actos del estado civil ajustados a las leyes de una entidad federativa, tendrán validez en las otras.",
       "reformas": [
@@ -82,6 +87,7 @@
       "tipo": "fraccion",
       "marca": "V",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 121. › Fracción V",
       "texto": "V. Los títulos profesionales expedidos por las autoridades de una entidad federativa con sujeción a sus leyes, serán respetados en las otras.",
       "reformas": [

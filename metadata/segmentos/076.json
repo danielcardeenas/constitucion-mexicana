@@ -10,6 +10,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › párrafo 1",
       "texto": "Son facultades exclusivas del Senado:",
       "reformas": [
@@ -32,6 +33,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción I",
       "texto": "I. Analizar la política exterior desarrollada por la persona titular del Ejecutivo Federal con base en los informes anuales que las personas titulares de la Presidencia de la República y de la Secretaría del Despacho correspondiente rindan al Congreso.\n\nAdemás, aprobar los tratados internacionales y convenciones diplomáticas que el Ejecutivo Federal suscriba, así como su decisión de terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos;",
       "reformas": [
@@ -49,6 +51,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción II",
       "texto": "II. Ratificar los nombramientos que la persona titular de la Presidencia de la República haga de las personas titulares de las Secretarías de Estado, en caso de que ésta opte por un gobierno de coalición, con excepción de las correspondientes a los ramos de Defensa Nacional y Marina; de las nombradas como Secretario responsable del control interno del Ejecutivo Federal; de la Secretaría de Relaciones Exteriores; de las embajadas y de los consulados generales;\n\nempleadas superiores del ramo de Relaciones Exteriores, y Coroneles y demás jefes superiores del Ejército, Armada, Fuerza Aérea Nacionales y Guardia Nacional, en los términos que la ley disponga;",
       "reformas": [
@@ -72,6 +75,7 @@
       "tipo": "fraccion",
       "marca": "III",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción III",
       "texto": "III. Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas."
     },
@@ -80,6 +84,7 @@
       "tipo": "fraccion",
       "marca": "IV",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción IV",
       "texto": "IV. Analizar y aprobar el informe anual que el Ejecutivo Federal le presente sobre las actividades de la Guardia Nacional;",
       "reformas": [
@@ -98,6 +103,7 @@
       "tipo": "fraccion",
       "marca": "V",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción V",
       "texto": "V. Declarar, cuando hayan desaparecido todos los poderes constitucionales de una entidad federativa, que es llegado el caso de nombrarle una persona titular del poder ejecutivo provisional, quien convocará a elecciones conforme a las leyes constitucionales de la entidad federativa. El nombramiento de la persona titular del poder ejecutivo local se hará por el Senado a propuesta en terna de la persona titular de la Presidencia de la República con aprobación de las dos terceras partes de las personas integrantes presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. Quien fuere así nombrado, no podrá ser electa persona titular del poder ejecutivo en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de las entidades federativas no prevean el caso;",
       "reformas": [
@@ -115,6 +121,7 @@
       "tipo": "fraccion",
       "marca": "VI",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción VI",
       "texto": "VI. Resolver las cuestiones políticas que surjan entre los poderes de una entidad federativa cuando alguno de ellos ocurra con ese fin al Senado, o cuando con motivo de dichas cuestiones se haya interrumpido el orden constitucional, mediando un conflicto de armas. En este caso el Senado dictará su resolución, sujetándose a la Constitución General de la República y a la de la entidad federativa.\n\nLa ley reglamentará el ejercicio de esta facultad y el de la anterior.",
       "reformas": [
@@ -131,6 +138,7 @@
       "tipo": "fraccion",
       "marca": "VII",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción VII",
       "texto": "VII. Erigirse en Jurado de sentencia para conocer en juicio político de las faltas u omisiones que cometan las personas servidoras públicas y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 110 de esta Constitución;",
       "reformas": [
@@ -148,6 +156,7 @@
       "tipo": "fraccion",
       "marca": "VIII",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción VIII",
       "texto": "VIII. Otorgar o negar las solicitudes de licencia o renuncia de las personas servidoras públicas del Poder Judicial de la Federación conforme al artículo 98 de esta Constitución y en los términos que establezcan las leyes;",
       "reformas": [
@@ -166,6 +175,7 @@
       "tipo": "fraccion",
       "marca": "IX",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción IX",
       "texto": "IX. Se deroga.",
       "reformas": [
@@ -185,6 +195,7 @@
       "tipo": "fraccion",
       "marca": "X",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción X",
       "texto": "X. Autorizar mediante decreto aprobado por el voto de las dos terceras partes de las personas integrantes presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas;",
       "reformas": [
@@ -202,6 +213,7 @@
       "tipo": "fraccion",
       "marca": "XI",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción XI",
       "texto": "XI. Analizar y aprobar la Estrategia Nacional de Seguridad Pública, en el plazo que disponga la ley, previa comparecencia de la persona titular de la secretaría del ramo. En caso de que el Senado no se pronuncie en dicho plazo, ésta se entenderá aprobada;",
       "reformas": [
@@ -222,6 +234,7 @@
       "tipo": "fraccion",
       "marca": "XII",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción XII",
       "texto": "XII. Se deroga",
       "reformas": [
@@ -239,6 +252,7 @@
       "tipo": "fraccion",
       "marca": "XIII",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción XIII",
       "texto": "XIII. Integrar la lista de personas candidatas a ocupar la titularidad de la Fiscalía General de la República; nombrar a dicha persona servidora pública, y formular objeción a la remoción que de la misma haga el Ejecutivo Federal, de conformidad con el artículo 102, Apartado A, de esta Constitución, y",
       "reformas": [
@@ -256,6 +270,7 @@
       "tipo": "fraccion",
       "marca": "XIV",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 76. › Fracción XIV",
       "texto": "XIV. Las demás que la misma Constitución le atribuya.",
       "reformas": [

@@ -18,6 +18,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 34. › párrafo 1",
       "texto": "Son ciudadanos de la República los varones y mujeres que, teniendo la calidad de mexicanos, reúnan, además, los siguientes requisitos:"
     },
@@ -26,6 +27,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 34. › Fracción I",
       "texto": "I. Haber cumplido 18 años, y"
     },
@@ -34,6 +36,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 34. › Fracción II",
       "texto": "II. Tener un modo honesto de vivir."
     }

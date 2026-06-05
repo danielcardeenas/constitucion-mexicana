@@ -17,6 +17,7 @@
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 30. › párrafo 1",
       "texto": "La nacionalidad mexicana se adquiere por nacimiento o por naturalización."
     },
@@ -25,6 +26,7 @@
       "tipo": "apartado",
       "marca": "A",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 30. › Apartado A",
       "texto": "A) Son mexicanos por nacimiento:"
     },
@@ -33,6 +35,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "A",
+      "fraccion": "",
       "ruta": "Artículo 30. › Apartado A › Fracción I",
       "texto": "I. Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres."
     },
@@ -41,6 +44,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "A",
+      "fraccion": "",
       "ruta": "Artículo 30. › Apartado A › Fracción II",
       "texto": "II. Los que nazcan en el extranjero, hijos de padres mexicanos, de madre mexicana o de padre mexicano;",
       "reformas": [
@@ -59,6 +63,7 @@
       "tipo": "fraccion",
       "marca": "III",
       "apartado": "A",
+      "fraccion": "",
       "ruta": "Artículo 30. › Apartado A › Fracción III",
       "texto": "III. Los que nazcan en el extranjero, hijos de padres mexicanos por naturalización, de padre mexicano por naturalización, o de madre mexicana por naturalización, y",
       "reformas": [
@@ -75,6 +80,7 @@
       "tipo": "fraccion",
       "marca": "IV",
       "apartado": "A",
+      "fraccion": "",
       "ruta": "Artículo 30. › Apartado A › Fracción IV",
       "texto": "IV. Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.",
       "reformas": [
@@ -91,6 +97,7 @@
       "tipo": "apartado",
       "marca": "B",
       "apartado": "",
+      "fraccion": "",
       "ruta": "Artículo 30. › Apartado B",
       "texto": "B) Son mexicanos por naturalización:"
     },
@@ -99,6 +106,7 @@
       "tipo": "fraccion",
       "marca": "I",
       "apartado": "B",
+      "fraccion": "",
       "ruta": "Artículo 30. › Apartado B › Fracción I",
       "texto": "I. Los extranjeros que obtengan de la Secretaría de Relaciones carta de naturalización."
     },
@@ -107,6 +115,7 @@
       "tipo": "fraccion",
       "marca": "II",
       "apartado": "B",
+      "fraccion": "",
       "ruta": "Artículo 30. › Apartado B › Fracción II",
       "texto": "II. La mujer o el varón extranjeros que contraigan matrimonio con varón o con mujer mexicanos, que tengan o establezcan su domicilio dentro del territorio nacional y cumplan con los demás requisitos que al efecto señale la ley.",
       "reformas": [
