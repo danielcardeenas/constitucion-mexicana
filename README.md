@@ -1,11 +1,11 @@
-# constitucion-mexicana
+# Constitucion Mexicana 🇲🇽
 
 Texto vigente de la **Constitución Política de los Estados Unidos Mexicanos**,
 un archivo por artículo, versionado en git para dejar un **rastro auditable de
 las reformas**.
 
 > Repo de **datos**. La lógica que genera estos archivos vive en
-> [`constitucion-extractor`](../constitucion-extractor). Aquí no hay código:
+> [`constitucion-extractor`](https://github.com/danielcardeenas/constitucion-extractor). Aquí no hay código:
 > cada commit corresponde a una versión del texto (idealmente, a una reforma
 > publicada en el Diario Oficial de la Federación).
 
