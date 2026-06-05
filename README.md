@@ -9,30 +9,30 @@ las reformas**.
 > cada commit corresponde a una versión del texto (idealmente, a una reforma
 > publicada en el Diario Oficial de la Federación).
 
-## Estructura
+## Arquitectura: texto vs. metadata
+
+El principio es simple: **el texto es la fuente de verdad y git es el detector
+de cambios.** No usamos string matching para "detectar reformas"; eso lo hace
+git. Las fechas de reforma son metadata *derivada* y best-effort, y viven
+**aparte** para que nunca contaminen el historial del texto.
 
 ```
-articulos/
-  001.md   002.md   ...   136.md     # un artículo por archivo
-metadata/
-  articulos.json                     # índice: artículo → título/capítulo/reformas
-  reformas.json                      # fecha DOF → artículos afectados
+articulos/                    ← CAPA 1: TEXTO (fuente de verdad)
+  001.md  002.md ... 136.md   solo encabezado + texto fiel. Cambia SOLO con la ley.
+
+metadata/                     ← CAPA 3: DERIVADO (regenerable, no canónico)
+  articulos.json              artículo → título/capítulo/fechas de reforma
+  reformas.json               fecha DOF → artículos afectados
 ```
 
-Cada `articulos/NNN.md` lleva frontmatter con su metadata y el texto en
-párrafos. Las notas oficiales de reforma van en *cursiva*:
+Garantía: regenerar `metadata/` (p. ej. al mejorar la extracción de fechas)
+**no modifica ningún `.md`**. Un `git diff` en `articulos/` es siempre un
+cambio real en la ley.
+
+Cada `articulos/NNN.md` es texto puro, sin frontmatter. Las notas oficiales de
+reforma (que vienen en el PDF) se conservan en *cursiva*:
 
 ```markdown
----
-articulo: 1
-clave: "001"
-titulo: "Título Primero"
-capitulo: "Capítulo I"
-ultima_reforma: 2011-06-10
-reformas: [2001-08-14, 2006-12-04, 2011-06-10]
-fuente: "Diario Oficial de la Federación — CPEUM, H. Cámara de Diputados"
----
-
 # Artículo 1o.
 
 En los Estados Unidos Mexicanos todas las personas gozarán de los derechos
@@ -40,6 +40,8 @@ humanos reconocidos en esta Constitución...
 
 _Párrafo reformado DOF 10-06-2011_
 ```
+
+La metadata de ese artículo se consulta en `metadata/articulos.json`.
 
 ## Para qué sirve el historial de git
 
