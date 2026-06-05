@@ -1,0 +1,65 @@
+{
+  "clave": "103",
+  "etiqueta": "Artículo 103.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 31-12-1994, 06-06-2011",
+      "fechas": [
+        "1994-12-31",
+        "2011-06-06"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "103.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 103. › párrafo 1",
+      "texto": "Los Tribunales de la Federación resolverán toda controversia que se suscite"
+    },
+    {
+      "id": "103.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "ruta": "Artículo 103. › Fracción I",
+      "texto": "I. Por normas generales, actos u omisiones de la autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por esta Constitución, así como por los tratados internacionales de los que el Estado Mexicano sea parte;"
+    },
+    {
+      "id": "103.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "ruta": "Artículo 103. › Fracción II",
+      "texto": "II. Por normas generales o actos de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la autonomía de la Ciudad de México, y",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "103.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "ruta": "Artículo 103. › Fracción III",
+      "texto": "III. Por normas generales o actos de las autoridades de las entidades federativas que invadan la esfera de competencia de la autoridad federal.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    }
+  ]
+}

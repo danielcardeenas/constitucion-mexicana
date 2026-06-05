@@ -1,0 +1,89 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1o.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 14-08-2001",
+      "fechas": [
+        "2001-08-14"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 1o. › párrafo 1",
+      "texto": "En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos reconocidos en esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esta Constitución establece.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 10-06-2011",
+          "fechas": [
+            "2011-06-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 1o. › párrafo 2",
+      "texto": "Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 10-06-2011",
+          "fechas": [
+            "2011-06-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "001.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 1o. › párrafo 3",
+      "texto": "Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 10-06-2011",
+          "fechas": [
+            "2011-06-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "001.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 1o. › párrafo 4",
+      "texto": "Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por este solo hecho, su libertad y la protección de las leyes."
+    },
+    {
+      "id": "001.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 1o. › párrafo 5",
+      "texto": "Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 04-12-2006, 10-06-2011",
+          "fechas": [
+            "2006-12-04",
+            "2011-06-10"
+          ]
+        }
+      ]
+    }
+  ]
+}

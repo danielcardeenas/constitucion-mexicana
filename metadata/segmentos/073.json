@@ -1,0 +1,1182 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 1",
+      "texto": "El Congreso tiene facultad:",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 24-10-1942, 10-02-1944",
+          "fechas": [
+            "1942-10-24",
+            "1944-02-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción I",
+      "texto": "I. Para admitir nuevos Estados a la Unión Federal;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 08-10-1974",
+          "fechas": [
+            "1974-10-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción II",
+      "texto": "II. Derogada.",
+      "reformas": [
+        {
+          "nota": "Fracción derogada DOF 08-10-1974",
+          "fechas": [
+            "1974-10-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción III",
+      "texto": "III. Para formar nuevos Estados dentro de los límites de los existentes, siendo necesario al efecto:\n\n1o. Que la fracción o fracciones que pidan erigirse en Estados, cuenten con una población de ciento veinte mil habitantes, por lo menos.\n\n2o. Que se compruebe ante el Congreso que tiene los elementos bastantes para proveer a su existencia política.\n\n3o. Que sean oídas las Legislaturas de las entidades federativas de cuyo territorio se trate, sobre la conveniencia o inconveniencia de la erección del nuevo Estado, quedando obligadas a dar su informe dentro de seis meses, contados desde el día en que se les remita la comunicación respectiva.\n\nNumeral reformado DOF 29-01-2016 4o. Que igualmente se oiga al Ejecutivo de la Federación, el cual enviará su informe dentro de siete días contados desde la fecha en que le sea pedido.\n\n5o. Que sea votada la erección del nuevo Estado por dos terceras partes de los diputados y senadores presentes en sus respectivas Cámaras.\n\n6o. Que la resolución del Congreso sea ratificada por la mayoría de las Legislaturas de las entidades federativas, previo examen de la copia del expediente, siempre que hayan dado su consentimiento las Legislaturas de las entidades federativas de cuyo territorio se trate.\n\nNumeral reformado DOF 29-01-2016 7o. Si las Legislaturas de las entidades federativas de cuyo territorio se trate, no hubieren dado su consentimiento, la ratificación de que habla la fracción anterior, deberá ser hecha por las dos terceras partes del total de Legislaturas de las demás entidades federativas.\n\nNumeral reformado DOF 29-01-2016"
+    },
+    {
+      "id": "073.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción IV",
+      "texto": "IV. Derogada.",
+      "reformas": [
+        {
+          "nota": "Fe de erratas a la fracción DOF 06-02-1917. Derogada DOF 08-12-2005",
+          "fechas": [
+            "1917-02-06",
+            "2005-12-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción V",
+      "texto": "V. Para cambiar la residencia de los Supremos Poderes de la Federación."
+    },
+    {
+      "id": "073.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción VI",
+      "texto": "VI. Derogada;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 20-08-1928 (2 reformas), 15-12-1934, 14-12-1940, 21-09-1944, 19-02-1951. Fe de erratas DOF 14-03-1951.",
+          "fechas": [
+            "1928-08-20",
+            "1951-03-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 2",
+      "texto": "Reformada DOF 08-10-1974, 06-12-1977, 28-12-1982, 10-08-1987, 06-04-1990, 25-10-1993. Derogada DOF 22-08-1996",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 18-01-1934",
+          "fechas": [
+            "1934-01-18"
+          ]
+        },
+        {
+          "nota": "Párrafo reformado DOF 10-02-2014, 10-07-2015, 09-10-2025, 06-05-2026",
+          "fechas": [
+            "2014-02-10",
+            "2015-07-10",
+            "2025-10-09",
+            "2026-05-06"
+          ]
+        },
+        {
+          "nota": "Párrafo reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción VII",
+      "texto": "VII. Para imponer las contribuciones necesarias a cubrir el Presupuesto."
+    },
+    {
+      "id": "073.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción VIII",
+      "texto": "VIII. En materia de deuda pública, para:\n\n1o. Dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos y otorgar garantías sobre el crédito de la Nación, para aprobar esos mismos empréstitos y para reconocer y mandar pagar la deuda nacional. Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos o, en términos de la ley de la materia, los que se realicen con propósitos de regulación monetaria, las operaciones de refinanciamiento o reestructura de deuda que deberán realizarse bajo las mejores condiciones de mercado; así como los que se contraten durante alguna emergencia declarada por el Presidente de la República en los términos del artículo 29.\n\n2o. Aprobar anualmente los montos de endeudamiento que deberán incluirse en la ley de ingresos, que en su caso requiera el Gobierno del Distrito Federal y las entidades de su sector público, conforme a las bases de la ley correspondiente. El Ejecutivo Federal informará anualmente al Congreso de la Unión sobre el ejercicio de dicha deuda a cuyo efecto el Jefe de Gobierno le hará llegar el informe que sobre el ejercicio de los recursos correspondientes hubiere realizado. El Jefe de Gobierno informará igualmente a la Asamblea Legislativa del Distrito Federal, al rendir la cuenta pública.\n\n3o. Establecer en las leyes las bases generales, para que los Estados, el Distrito Federal y los Municipios puedan incurrir en endeudamiento; los límites y modalidades bajo los cuales dichos órdenes de gobierno podrán afectar sus respectivas participaciones para cubrir los empréstitos y obligaciones de pago que contraigan; la obligación de dichos órdenes de gobierno de inscribir y publicar la totalidad de sus empréstitos y obligaciones de pago en un registro público único, de manera oportuna y transparente; un sistema de alertas sobre el manejo de la deuda;\n\nasí como las sanciones aplicables a los servidores públicos que no cumplan sus disposiciones. Dichas leyes deberán discutirse primero en la Cámara de Diputados conforme a lo dispuesto por la fracción H del artículo 72 de esta Constitución.\n\n4o. El Congreso de la Unión, a través de la comisión legislativa bicameral competente, analizará la estrategia de ajuste para fortalecer las finanzas públicas de los Estados, planteada en los convenios que pretendan celebrar con el Gobierno Federal para obtener garantías y, en su caso, emitirá las observaciones que estime pertinentes en un plazo máximo de quince días hábiles, inclusive durante los períodos de receso del Congreso de la Unión. Lo anterior aplicará en el caso de los Estados que tengan niveles elevados de deuda en los términos de la ley. Asimismo, de manera inmediata a la suscripción del convenio correspondiente, será informado de la estrategia de ajuste para los Municipios que se encuentren en el mismo supuesto, así como de los convenios que, en su caso, celebren los Estados que no tengan un nivel elevado de deuda;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 30-12-1946, 25-10-1993, 26-05-2015",
+          "fechas": [
+            "1946-12-30",
+            "1993-10-25",
+            "2015-05-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción IX",
+      "texto": "IX. Para impedir que en el comercio entre entidades federativas se establezcan restricciones.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 24-10-1942, 29-01-2016",
+          "fechas": [
+            "1942-10-24",
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción X",
+      "texto": "X. Para legislar en toda la República sobre hidrocarburos, minería, sustancias químicas, explosivos, pirotecnia, industria cinematográfica, comercio, juegos con apuestas y sorteos, intermediación y servicios financieros, energía eléctrica y nuclear y para expedir las leyes del trabajo reglamentarias del artículo 123;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 06-09-1929, 27-04-1933, 18-01-1934, 18-01-1935, 14-12-1940, 24-10-1942, 18-11-1942, 29-12-1947, 06-02-1975, 17-11-1982, 20-08-1993, 20-07-2007",
+          "fechas": [
+            "1929-09-06",
+            "1933-04-27",
+            "1934-01-18",
+            "1935-01-18",
+            "1940-12-14",
+            "1942-10-24",
+            "1942-11-18",
+            "1947-12-29",
+            "1975-02-06",
+            "1982-11-17",
+            "1993-08-20",
+            "2007-07-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XI",
+      "texto": "XI. Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones."
+    },
+    {
+      "id": "073.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XII",
+      "texto": "XII. Para declarar la guerra, en vista de los datos que le presente el Ejecutivo."
+    },
+    {
+      "id": "073.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XIII",
+      "texto": "XIII. Para dictar leyes según las cuales deben declararse buenas o malas las presas de mar y tierra, y para expedir leyes relativas al derecho marítimo de paz y guerra.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 21-10-1966. Fe de erratas DOF 22-10-1966",
+          "fechas": [
+            "1966-10-21",
+            "1966-10-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XIV",
+      "texto": "XIV. Para levantar y sostener a las instituciones armadas de la Unión, a saber: Ejército, Marina de Guerra y Fuerza Aérea Nacionales, y para reglamentar su organización y servicio.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 10-02-1944",
+          "fechas": [
+            "1944-02-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XV",
+      "texto": "XV. Derogada.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 29-01-2016. Derogada DOF 26-03-2019",
+          "fechas": [
+            "2016-01-29",
+            "2019-03-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XVI",
+      "texto": "XVI. Para dictar leyes sobre nacionalidad, condición jurídica de los extranjeros, ciudadanía, naturalización, colonización, emigración e inmigración y salubridad general de la República.\n\n1a. El Consejo de Salubridad General dependerá directamente del Presidente de la República, sin intervención de ninguna Secretaría de Estado, y sus disposiciones generales serán obligatorias en el país.\n\n2a. En caso de epidemias de carácter grave o peligro de invasión de enfermedades exóticas en el país, la Secretaría de Salud tendrá obligación de dictar inmediatamente las medidas preventivas indispensables, a reserva de ser después sancionadas por el Presidente de la República.\n\nBase reformada DOF 02-08-2007 3a. La autoridad sanitaria será ejecutiva y sus disposiciones serán obedecidas por las autoridades administrativas del País.\n\n4a. Las medidas que el Consejo haya puesto en vigor en la Campaña contra el alcoholismo y la venta de sustancias que envenenan al individuo o degeneran la especie humana, así como las adoptadas para prevenir y combatir la contaminación ambiental, serán después revisadas por el Congreso de la Unión en los casos que le competan.\n\nBase reformada DOF 06-07-1971"
+    },
+    {
+      "id": "073.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XVII",
+      "texto": "XVII. Para dictar leyes sobre vías generales de comunicación, tecnologías de la información y la comunicación, radiodifusión, telecomunicaciones, incluida la banda ancha e Internet, postas y correos, y sobre el uso y aprovechamiento de las aguas de jurisdicción federal.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 11-06-2013",
+          "fechas": [
+            "2013-06-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XVIII",
+      "texto": "XVIII. Para establecer casas de moneda, fijar las condiciones que ésta deba tener, dictar reglas para determinar el valor relativo de la moneda extranjera y adoptar un sistema general de pesas y medidas;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 17-11-1982",
+          "fechas": [
+            "1982-11-17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XIX",
+      "texto": "XIX. Para fijar las reglas a que debe sujetarse la ocupación y enajenación de terrenos baldíos y el precio de estos."
+    },
+    {
+      "id": "073.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XX",
+      "texto": "XX. Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo Consular mexicano."
+    },
+    {
+      "id": "073.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXI",
+      "texto": "XXI. Para expedir:",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 03-07-1996, 28-11-2005, 18-06-2008, 04-05-2009, 14-07-2011, 25-06-2012, 08-10-2013",
+          "fechas": [
+            "1996-07-03",
+            "2005-11-28",
+            "2008-06-18",
+            "2009-05-04",
+            "2011-07-14",
+            "2012-06-25",
+            "2013-10-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXI.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXI › inciso a)",
+      "texto": "a) Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de feminicidio, secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, extorsión, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.\n\nLas leyes generales contemplarán también la distribución de competencias y las formas de coordinación entre la Federación, las entidades federativas y los Municipios;"
+    },
+    {
+      "id": "073.XXI.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXI › inciso b)",
+      "texto": "b) La legislación que establezca los delitos y las faltas contra la Federación y las penas y sanciones que por ellos deban imponerse; así como legislar en materia de delincuencia organizada;"
+    },
+    {
+      "id": "073.XXI.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXI › inciso c)",
+      "texto": "c) La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias en materia penal, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común.",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 02-07-2015, 05-02-2017",
+          "fechas": [
+            "2015-07-02",
+            "2017-02-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 3",
+      "texto": "Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta. También podrán conocer de las medidas u órdenes de protección que deriven de violencias de género en contra de las mujeres o de delitos del fuero común relacionados con las violencias de género contra las mujeres, en términos de las leyes correspondientes.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 15-11-2024",
+          "fechas": [
+            "2024-11-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 4",
+      "texto": "En las materias concurrentes previstas en esta Constitución, las leyes federales establecerán los supuestos en que las autoridades del fuero común podrán conocer y resolver sobre delitos federales;"
+    },
+    {
+      "id": "073.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXII",
+      "texto": "XXII. Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación."
+    },
+    {
+      "id": "073.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIII",
+      "texto": "XXIII. Para expedir leyes que, con respeto a los derechos humanos, establezcan las bases de coordinación entre la Federación, las entidades federativas y los Municipios; organicen la Guardia Nacional y las demás instituciones de seguridad pública en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución; así como la Ley Nacional sobre el Uso de la Fuerza, y la Ley Nacional del Registro de Detenciones;",
+      "reformas": [
+        {
+          "nota": "Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994. Reformada DOF 18-06-2008, 29-01-2016, 26-03-2019",
+          "fechas": [
+            "1977-12-06",
+            "1994-12-31",
+            "2008-06-18",
+            "2016-01-29",
+            "2019-03-26"
+          ]
+        },
+        {
+          "nota": "Fracción con incisos adicionada DOF 28-05-2021",
+          "fechas": [
+            "2021-05-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 5",
+      "texto": "XXIII Bis. Para expedir la ley general en materia de seguridad privada, que establezca:"
+    },
+    {
+      "id": "073.XXIII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIII › inciso a)",
+      "texto": "a) Las reglas y la autoridad facultada para autorizar y regular a los prestadores de servicios de seguridad privada en todo el territorio nacional;"
+    },
+    {
+      "id": "073.XXIII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIII › inciso b)",
+      "texto": "b) Las reglas de coordinación entre las personas autorizadas a prestar los servicios de seguridad privada y las autoridades correspondientes de la Federación, las entidades federativas y los municipios, para la adecuada organización y funcionamiento como auxiliares de la seguridad pública;"
+    },
+    {
+      "id": "073.XXIII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIII › inciso c)",
+      "texto": "c) La coordinación de esos prestadores con las instituciones de seguridad pública en situaciones de emergencia y desastre, y"
+    },
+    {
+      "id": "073.XXIII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIII › inciso d)",
+      "texto": "d) Los aspectos vinculados a la coordinación y supervisión de las policías complementarias en el país;"
+    },
+    {
+      "id": "073.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIV",
+      "texto": "XXIV. Para expedir las leyes que regulen la organización y facultades de la Auditoría Superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales; así como para expedir la ley general que establezca las bases de coordinación del Sistema Nacional Anticorrupción a que se refiere el artículo 113 de esta Constitución;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 30-07-1999, 27-05-2015",
+          "fechas": [
+            "1999-07-30",
+            "2015-05-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXV",
+      "texto": "XXV. De establecer el Sistema para la Carrera de las Maestras y los Maestros, en términos del artículo 3o. de esta Constitución; establecer, organizar y sostener en toda la República escuelas rurales, elementales, media superiores, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, las entidades federativas y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República, y para asegurar el cumplimiento de los fines de la educación y su mejora continua en un marco de inclusión y diversidad. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República.\n\nPara legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 08-07-1921. Recorrida (antes fracción XXVII) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Reformada DOF 13-12-1934, 13-01-1966, 21-09-2000, 30-04-2009, 26-02-2013, 29-01-2016, 15-05-2019",
+          "fechas": [
+            "1921-07-08",
+            "1928-08-20",
+            "1934-12-13",
+            "1966-01-13",
+            "2000-09-21",
+            "2009-04-30",
+            "2013-02-26",
+            "2016-01-29",
+            "2019-05-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXVI",
+      "texto": "XXVI. Para conceder licencia al Presidente de la República y para constituirse en Colegio Electoral y designar al ciudadano que deba substituir al Presidente de la República, ya sea con el carácter de interino o substituto, en los términos de los artículos 84 y 85 de esta Constitución;",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida (antes fracción XXVIII) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Reformada DOF 29-04-1933, 09-08-2012",
+          "fechas": [
+            "1928-08-20",
+            "1933-04-29",
+            "2012-08-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXVII",
+      "texto": "XXVII. Para aceptar la renuncia del cargo de Presidente de la República.",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida (antes fracción XXIX) por derogación de fracciones XXV y XXVI DOF 20-08-1928",
+          "fechas": [
+            "1928-08-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXVIII",
+      "texto": "XXVIII. Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, a fin de garantizar su armonización a nivel nacional;",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida (antes fracción XXX) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Derogada DOF 06-12-1977. Adicionada DOF 07-05-2008. Reformada DOF 29-01-2016",
+          "fechas": [
+            "1928-08-20",
+            "1977-12-06",
+            "2008-05-07",
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIX",
+      "texto": "XXIX. Para establecer contribuciones:\n\n1o. Sobre el comercio exterior;\n\n2o. Sobre el aprovechamiento y explotación de los recursos naturales comprendidos en los párrafos 4º y 5º del artículo 27;\n\n3o. Sobre instituciones de crédito y sociedades de seguros;\n\n4o. Sobre servicios públicos concesionados o explotados directamente por la Federación; y 5o. Especiales sobre:",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida (antes fracción XXXI) por derogación de fracciones XXV y XXVI DOF 20-08-1928. Fracción reformada DOF 24-10-1942",
+          "fechas": [
+            "1928-08-20",
+            "1942-10-24"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 05-02-2017",
+          "fechas": [
+            "2017-02-05"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 24-10-1967",
+          "fechas": [
+            "1967-10-24"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 06-02-1976. Reformada DOF 29-01-2016, 18-12-2020",
+          "fechas": [
+            "1976-02-06",
+            "2016-01-29",
+            "2020-12-18"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 03-02-1983. Reformada DOF 07-04-2006",
+          "fechas": [
+            "1983-02-03",
+            "2006-04-07"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 03-02-1983",
+          "fechas": [
+            "1983-02-03"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 03-02-1983. Reformada DOF 15-05-2019",
+          "fechas": [
+            "1983-02-03",
+            "2019-05-15"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 10-08-1987. Reformada DOF 29-01-2016, 02-12-2024",
+          "fechas": [
+            "1987-08-10",
+            "2016-01-29",
+            "2024-12-02"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 10-08-1987. Reformada DOF 25-10-1993, 28-06-1999, 04-12-2006, 27-05-2015",
+          "fechas": [
+            "1987-08-10",
+            "1993-10-25",
+            "1999-06-28",
+            "2006-12-04",
+            "2015-05-27"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 28-06-1999. Reformada DOF 29-01-2016",
+          "fechas": [
+            "1999-06-28",
+            "2016-01-29"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 28-06-1999. Reformada DOF 12-10-2011, 29-01-2016",
+          "fechas": [
+            "1999-06-28",
+            "2011-10-12",
+            "2016-01-29"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 29-09-2003. Reformada DOF 29-01-2016",
+          "fechas": [
+            "2003-09-29",
+            "2016-01-29"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 27-09-2004",
+          "fechas": [
+            "2004-09-27"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 05-04-2004",
+          "fechas": [
+            "2004-04-05"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 15-08-2007. Reformada DOF 29-01-2016",
+          "fechas": [
+            "2007-08-15",
+            "2016-01-29"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 30-04-2009. Reformada DOF 29-01-2016",
+          "fechas": [
+            "2009-04-30",
+            "2016-01-29"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 30-04-2009",
+          "fechas": [
+            "2009-04-30"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 12-10-2011. Reformada DOF 29-01-2016, 24-12-2020",
+          "fechas": [
+            "2011-10-12",
+            "2016-01-29",
+            "2020-12-24"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 09-08-2012",
+          "fechas": [
+            "2012-08-09"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 27-12-2013. Reformada DOF 05-02-2017",
+          "fechas": [
+            "2013-12-27",
+            "2017-02-05"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 07-02-2014",
+          "fechas": [
+            "2014-02-07"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 07-02-2014. Reformada DOF 29-01-2016",
+          "fechas": [
+            "2014-02-07",
+            "2016-01-29"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 10-02-2014",
+          "fechas": [
+            "2014-02-10"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 27-05-2015",
+          "fechas": [
+            "2015-05-27"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 26-05-2015",
+          "fechas": [
+            "2015-05-26"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 25-07-2016",
+          "fechas": [
+            "2016-07-25"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 05-02-2017. Reformada DOF 15-04-2025",
+          "fechas": [
+            "2017-02-05",
+            "2025-04-15"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DOF 05-02-2017",
+          "fechas": [
+            "2017-02-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXIX.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIX › inciso a)",
+      "texto": "a) Energía eléctrica;"
+    },
+    {
+      "id": "073.XXIX.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIX › inciso b)",
+      "texto": "b) Producción y consumo de tabacos labrados;"
+    },
+    {
+      "id": "073.XXIX.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIX › inciso c)",
+      "texto": "c) Gasolina y otros productos derivados del petróleo;"
+    },
+    {
+      "id": "073.XXIX.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIX › inciso d)",
+      "texto": "d) Cerillos y fósforos;"
+    },
+    {
+      "id": "073.XXIX.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIX › inciso e)",
+      "texto": "e) Aguamiel y productos de su fermentación; y"
+    },
+    {
+      "id": "073.XXIX.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIX › inciso f)",
+      "texto": "f) Explotación forestal."
+    },
+    {
+      "id": "073.XXIX.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXIX › inciso g)",
+      "texto": "g) Producción y consumo de cerveza.",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado DOF 10-02-1949",
+          "fechas": [
+            "1949-02-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 6",
+      "texto": "Las entidades federativas participarán en el rendimiento de estas contribuciones especiales, en la proporción que la ley secundaria federal determine. Las legislaturas locales fijarán el porcentaje correspondiente a los Municipios, en sus ingresos por concepto del impuesto sobre energía eléctrica."
+    },
+    {
+      "id": "073.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 7",
+      "texto": "XXIX-A. Para expedir la ley general que establezca los principios y bases en materia de mecanismos alternativos de solución de controversias, con excepción de la materia penal;"
+    },
+    {
+      "id": "073.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 8",
+      "texto": "XXIX-B. Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales."
+    },
+    {
+      "id": "073.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 9",
+      "texto": "XXIX-C. Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución, así como en materia de movilidad y seguridad vial;"
+    },
+    {
+      "id": "073.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 10",
+      "texto": "XXIX-D. Para expedir leyes sobre planeación nacional del desarrollo económico y social, así como en materia de información estadística y geográfica de interés nacional;"
+    },
+    {
+      "id": "073.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 11",
+      "texto": "XXIX-E. Para expedir leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente las referentes al abasto y otras que tengan como fin la producción suficiente y oportuna de bienes y servicios, social y nacionalmente necesarios."
+    },
+    {
+      "id": "073.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 12",
+      "texto": "XXIX-F. Para expedir leyes tendientes a la promoción de la inversión mexicana, la regulación de la inversión extranjera, la transferencia de tecnología y la generación, difusión y aplicación de los conocimientos científicos y tecnológicos que requiere el desarrollo nacional. Asimismo, para legislar en materia de ciencia, tecnología e innovación, estableciendo bases generales de coordinación entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado, con el objeto de consolidar el Sistema Nacional de Ciencia, Tecnología e Innovación;"
+    },
+    {
+      "id": "073.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 13",
+      "texto": "XXIX-G. Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de protección al ambiente, preservación y restauración del equilibrio ecológico; y de protección y bienestar de los animales;"
+    },
+    {
+      "id": "073.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 14",
+      "texto": "XXIX-H. Para expedir la ley que instituya el Tribunal Federal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y que establezca su organización, su funcionamiento y los recursos para impugnar sus resoluciones."
+    },
+    {
+      "id": "073.p15",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 15",
+      "texto": "El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre la administración pública federal y los particulares."
+    },
+    {
+      "id": "073.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 16",
+      "texto": "Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Federal o al patrimonio de los entes públicos federales."
+    },
+    {
+      "id": "073.p17",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 17",
+      "texto": "El Tribunal funcionará en Pleno o en Salas Regionales."
+    },
+    {
+      "id": "073.p18",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 18",
+      "texto": "La Sala Superior del Tribunal se compondrá de dieciséis Magistrados y actuará en Pleno o en Secciones, de las cuales a una corresponderá la resolución de los procedimientos a que se refiere el párrafo tercero de la presente fracción."
+    },
+    {
+      "id": "073.p19",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 19",
+      "texto": "Los Magistrados de la Sala Superior serán designados por el Presidente de la República y ratificados por el voto de las dos terceras partes de los miembros presentes del Senado de la República o, en sus recesos, por la Comisión Permanente. Durarán en su encargo quince años improrrogables."
+    },
+    {
+      "id": "073.p20",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 20",
+      "texto": "Los Magistrados de Sala Regional serán designados por el Presidente de la República y ratificados por mayoría de los miembros presentes del Senado de la República o, en sus recesos, por la Comisión Permanente. Durarán en su encargo diez años pudiendo ser considerados para nuevos nombramientos."
+    },
+    {
+      "id": "073.p21",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 21",
+      "texto": "Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la ley."
+    },
+    {
+      "id": "073.p22",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 22",
+      "texto": "XXIX-I. Para expedir leyes que establezcan las bases sobre las cuales la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coordinarán sus acciones en materia de protección civil;"
+    },
+    {
+      "id": "073.p23",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 23",
+      "texto": "XXIX-J. Para legislar en materia de cultura física y deporte con objeto de cumplir lo previsto en el artículo 4o. de esta Constitución, estableciendo la concurrencia entre la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias; así como la participación de los sectores social y privado;"
+    },
+    {
+      "id": "073.p24",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 24",
+      "texto": "XXIX-K. Para expedir leyes en materia de turismo, estableciendo las bases generales de coordinación de las facultades concurrentes entre la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado;"
+    },
+    {
+      "id": "073.p25",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 25",
+      "texto": "XXIX-L. Para expedir leyes que establezcan la concurrencia del gobierno federal, de los gobiernos de las entidades federativas y de los municipios, en el ámbito de sus respectivas competencias, en materia de pesca y acuacultura, así como la participación de los sectores social y privado, y"
+    },
+    {
+      "id": "073.p26",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 26",
+      "texto": "XXIX-M. Para expedir leyes en materia de seguridad nacional, estableciendo los requisitos y límites a las investigaciones correspondientes."
+    },
+    {
+      "id": "073.p27",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 27",
+      "texto": "XXIX-N. Para expedir leyes en materia de constitución, organización, funcionamiento y extinción de las sociedades cooperativas. Estas leyes establecerán las bases para la concurrencia en materia de fomento y desarrollo sustentable de la actividad cooperativa de la Federación, entidades federativas, Municipios y, en su caso, demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias;"
+    },
+    {
+      "id": "073.p28",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 28",
+      "texto": "XXIX-Ñ. Para expedir leyes que establezcan las bases sobre las cuales la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coordinarán sus acciones en materia de cultura, salvo lo dispuesto en la fracción XXV de este artículo. Asimismo, establecerán los mecanismos de participación de los sectores social y privado, con objeto de cumplir los fines previstos en el párrafo décimo segundo del artículo 4o. de esta Constitución."
+    },
+    {
+      "id": "073.p29",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 29",
+      "texto": "XXIX-O. Para legislar en materia de protección de datos personales en posesión de particulares."
+    },
+    {
+      "id": "073.p30",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 30",
+      "texto": "XXIX-P. Expedir leyes que establezcan la concurrencia de la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, así como en materia de formación y desarrollo integral de la juventud, cumpliendo con los tratados internacionales de la materia de los que México sea parte;"
+    },
+    {
+      "id": "073.p31",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 31",
+      "texto": "XXIX-Q. Para legislar sobre iniciativa ciudadana y consultas populares."
+    },
+    {
+      "id": "073.p32",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 32",
+      "texto": "XXIX-R. Para expedir las leyes generales que armonicen y homologuen la organización y el funcionamiento de los registros civiles, los registros públicos inmobiliarios y de personas morales de las entidades federativas y los catastros municipales;"
+    },
+    {
+      "id": "073.p33",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 33",
+      "texto": "XXIX-S. Para expedir las leyes generales reglamentarias que desarrollen los principios y bases en materia de transparencia gubernamental, acceso a la información y protección de datos personales en posesión de las autoridades, entidades, órganos y organismos gubernamentales de todos los niveles de gobierno."
+    },
+    {
+      "id": "073.p34",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 34",
+      "texto": "XXIX-T. Para expedir la ley general que establezca la organización y administración homogénea de los archivos de la Federación, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, y determine las bases de organización y funcionamiento del Sistema Nacional de Archivos."
+    },
+    {
+      "id": "073.p35",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 35",
+      "texto": "XXIX-U. Para expedir las leyes generales que distribuyan competencias entre la Federación y las entidades federativas en materias de partidos políticos; organismos electorales, y procesos electorales, conforme a las bases previstas en esta Constitución."
+    },
+    {
+      "id": "073.p36",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 36",
+      "texto": "XXIX-V. Para expedir la ley general que distribuya competencias entre los órdenes de gobierno para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación."
+    },
+    {
+      "id": "073.p37",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 37",
+      "texto": "XXIX-W. Para expedir leyes en materia de responsabilidad hacendaria que tengan por objeto el manejo sostenible de las finanzas públicas en la Federación, los Estados, Municipios y el Distrito Federal, con base en el principio establecido en el párrafo segundo del artículo 25;"
+    },
+    {
+      "id": "073.p38",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 38",
+      "texto": "XXIX-X. Para expedir la ley general que establezca la concurrencia de la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de las víctimas."
+    },
+    {
+      "id": "073.p39",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 39",
+      "texto": "XXIX-Y. Para expedir la ley nacional que establezca los principios y obligaciones a los que deberán sujetarse los órdenes de gobierno, en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas;"
+    },
+    {
+      "id": "073.p40",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 73. › párrafo 40",
+      "texto": "XXIX-Z. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de su respectiva competencia, en materia de justicia cívica e itinerante, y",
+      "reformas": [
+        {
+          "nota": "Reforma DOF 20-08-1928: Eliminó del artículo las entonces fracciones XXV y XXVI",
+          "fechas": [
+            "1928-08-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXX",
+      "texto": "XXX. Para expedir la legislación única en materia procesal civil y familiar, así como sobre extinción de dominio en los términos del artículo 22 de esta Constitución;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DOF 15-09-2017. Reformada DOF 14-03-2019, 30-09-2024",
+          "fechas": [
+            "2017-09-15",
+            "2019-03-14",
+            "2024-09-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXXI",
+      "texto": "XXXI. Para expedir leyes que regulen y establezcan requisitos y límites para la participación del Ejército, Armada y Fuerza Aérea en materia de seguridad interior y en tareas de apoyo a la seguridad pública, y",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DOF 30-09-2024",
+          "fechas": [
+            "2024-09-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "ruta": "Artículo 73. › Fracción XXXII",
+      "texto": "XXXII. Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DOF 24-10-1942. Recorrida DOF 15-09-2017, 30-09-2024",
+          "fechas": [
+            "1942-10-24",
+            "2017-09-15",
+            "2024-09-30"
+          ]
+        }
+      ]
+    }
+  ]
+}

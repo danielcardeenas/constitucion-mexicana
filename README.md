@@ -23,7 +23,36 @@ articulos/                    ← CAPA 1: TEXTO (fuente de verdad)
 metadata/                     ← CAPA 3: DERIVADO (regenerable, no canónico)
   articulos.json              artículo → título/capítulo/fechas de reforma
   reformas.json               fecha DOF → artículos afectados
+  segmentos/NNN.json          artículo descompuesto en bloques, con cada reforma
+                              ya ENLAZADA a su bloque (pensado para LLMs)
 ```
+
+### Para consumo por LLM: `metadata/segmentos/`
+
+En el `.md`, qué nota corresponde a qué párrafo se infiere por la posición (la
+nota va debajo del bloque que modifica) y por su primera palabra (`Párrafo`,
+`Fracción`, `Artículo`...). Para que un LLM **no tenga que inferir nada**, cada
+`segmentos/NNN.json` ya trae la asociación explícita:
+
+```json
+{
+  "reformas_articulo": [                       // notas de alcance "Artículo"
+    { "nota": "Artículo reformado DOF 14-08-2001", "fechas": ["2001-08-14"] }
+  ],
+  "bloques": [
+    { "id": "001.p1", "tipo": "parrafo",
+      "ruta": "Artículo 1o. › párrafo 1",
+      "texto": "En los Estados Unidos Mexicanos...",
+      "reformas": [ { "nota": "Párrafo reformado DOF 10-06-2011",
+                      "fechas": ["2011-06-10"] } ] }
+  ]
+}
+```
+
+Reglas que evitan la confusión típica: las notas de alcance **Artículo** van en
+`reformas_articulo` (no cuelgan de un párrafo); una nota de **Fracción** se ancla
+a la fracción completa aunque tenga sub-párrafos; cada bloque tiene `id` único y
+una `ruta` legible. El 100% de las notas quedan enlazadas.
 
 Garantía: regenerar `metadata/` (p. ej. al mejorar la extracción de fechas)
 **no modifica ningún `.md`**. Un `git diff` en `articulos/` es siempre un

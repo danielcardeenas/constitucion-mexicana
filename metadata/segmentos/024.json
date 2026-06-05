@@ -1,0 +1,48 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 28-01-1992",
+      "fechas": [
+        "1992-01-28"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 24. › párrafo 1",
+      "texto": "Toda persona tiene derecho a la libertad de convicciones éticas, de conciencia y de religión, y a tener o adoptar, en su caso, la de su agrado. Esta libertad incluye el derecho de participar, individual o colectivamente, tanto en público como en privado, en las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley. Nadie podrá utilizar los actos públicos de expresión de esta libertad con fines políticos, de proselitismo o de propaganda política.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 19-07-2013",
+          "fechas": [
+            "2013-07-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "024.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 24. › párrafo 2",
+      "texto": "El Congreso no puede dictar leyes que establezcan o prohiban religión alguna."
+    },
+    {
+      "id": "024.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 24. › párrafo 3",
+      "texto": "Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria."
+    }
+  ]
+}

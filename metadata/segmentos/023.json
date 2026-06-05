@@ -1,0 +1,24 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 23. › párrafo 1",
+      "texto": "Ningún juicio criminal deberá tener más de tres instancias. Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condene. Queda prohibida la práctica de absolver de la instancia."
+    }
+  ]
+}

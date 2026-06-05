@@ -1,0 +1,166 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127.",
+  "titulo": "Título Séptimo",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 28-12-1982, 10-08-1987, 24-08-2009",
+      "fechas": [
+        "1982-12-28",
+        "1987-08-10",
+        "2009-08-24"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 127. › párrafo 1",
+      "texto": "Los servidores públicos de la Federación, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 127. › párrafo 2",
+      "texto": "Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 10-04-2026",
+          "fechas": [
+            "2026-04-10"
+          ]
+        },
+        {
+          "nota": "Párrafo adicionado DOF 10-04-2026",
+          "fechas": [
+            "2026-04-10"
+          ]
+        },
+        {
+          "nota": "Párrafo con incisos adicionado DOF 10-04-2026",
+          "fechas": [
+            "2026-04-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "127.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción I",
+      "texto": "I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales."
+    },
+    {
+      "id": "127.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción II",
+      "texto": "II. Ninguna persona servidora pública podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para la persona titular del Ejecutivo Federal en el presupuesto correspondiente.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 10-04-2026",
+          "fechas": [
+            "2026-04-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "127.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción III",
+      "texto": "III. Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para la persona titular del Ejecutivo Federal en el presupuesto correspondiente.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 10-04-2026",
+          "fechas": [
+            "2026-04-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "127.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción IV",
+      "texto": "IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo.\n\nEstos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.\n\nEn cualquier caso, las jubilaciones o pensiones del personal de confianza a cargo de los organismos descentralizados, las empresas públicas del Estado, las sociedades nacionales de crédito, las empresas de participación estatal mayoritaria y los fideicomisos públicos constitutivos de entidades paraestatales, todos del Gobierno Federal, así como los organismos descentralizados, las empresas de participación estatal o municipal mayoritaria, las empresas públicas y los fideicomisos públicos, de las entidades federativas y de los municipios, no deberán exceder de la mitad de la remuneración establecida para la persona titular del Ejecutivo Federal en el presupuesto correspondiente.\n\nLas disposiciones e instrumentos jurídicos que regulen la relación laboral no podrán establecer condiciones que superen el límite establecido en el párrafo que antecede.\n\nQuedan excluidas de lo previsto en el segundo párrafo de esta fracción:"
+    },
+    {
+      "id": "127.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción IV › inciso a)",
+      "texto": "a) Las Fuerzas Armadas;"
+    },
+    {
+      "id": "127.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción IV › inciso b)",
+      "texto": "b) Las jubilaciones o pensiones que se constituyan a partir de las aportaciones voluntarias a los sistemas de ahorro para el retiro basados en cuentas individuales;"
+    },
+    {
+      "id": "127.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción IV › inciso c)",
+      "texto": "c) Las jubilaciones o pensiones constituidas a partir de aportaciones sindicales en los sistemas de ahorro complementarios, y"
+    },
+    {
+      "id": "127.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción IV › inciso d)",
+      "texto": "d) La pensión no contributiva a que se refiere el artículo 4o. de esta Constitución."
+    },
+    {
+      "id": "127.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción V",
+      "texto": "V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie."
+    },
+    {
+      "id": "127.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "ruta": "Artículo 127. › Fracción VI",
+      "texto": "VI. El Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus competencias, expedirán las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    }
+  ]
+}

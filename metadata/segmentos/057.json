@@ -1,0 +1,24 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "057.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 57. › párrafo 1",
+      "texto": "Por cada senador propietario se elegirá un suplente."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 20-12-2019",
+      "fechas": [
+        "2019-12-20"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 81. › párrafo 1",
+      "texto": "La elección del presidente será directa y en los términos que disponga la ley electoral. El cargo de presidente de los Estados Unidos Mexicanos puede ser revocado en los términos establecidos en esta Constitución."
+    }
+  ]
+}

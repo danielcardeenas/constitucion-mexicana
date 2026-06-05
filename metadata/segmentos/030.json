@@ -1,0 +1,123 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 18-01-1934",
+      "fechas": [
+        "1934-01-18"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 30. › párrafo 1",
+      "texto": "La nacionalidad mexicana se adquiere por nacimiento o por naturalización."
+    },
+    {
+      "id": "030.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "ruta": "Artículo 30. › Apartado A",
+      "texto": "A) Son mexicanos por nacimiento:"
+    },
+    {
+      "id": "030.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "ruta": "Artículo 30. › Apartado A › Fracción I",
+      "texto": "I. Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres."
+    },
+    {
+      "id": "030.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "ruta": "Artículo 30. › Apartado A › Fracción II",
+      "texto": "II. Los que nazcan en el extranjero, hijos de padres mexicanos, de madre mexicana o de padre mexicano;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 26-12-1969, 20-03-1997, 17-05-2021",
+          "fechas": [
+            "1969-12-26",
+            "1997-03-20",
+            "2021-05-17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.A.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "A",
+      "ruta": "Artículo 30. › Apartado A › Fracción III",
+      "texto": "III. Los que nazcan en el extranjero, hijos de padres mexicanos por naturalización, de padre mexicano por naturalización, o de madre mexicana por naturalización, y",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DOF 20-03-1997",
+          "fechas": [
+            "1997-03-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.A.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "A",
+      "ruta": "Artículo 30. › Apartado A › Fracción IV",
+      "texto": "IV. Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida DOF 20-03-1997",
+          "fechas": [
+            "1997-03-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "ruta": "Artículo 30. › Apartado B",
+      "texto": "B) Son mexicanos por naturalización:"
+    },
+    {
+      "id": "030.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "ruta": "Artículo 30. › Apartado B › Fracción I",
+      "texto": "I. Los extranjeros que obtengan de la Secretaría de Relaciones carta de naturalización."
+    },
+    {
+      "id": "030.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "ruta": "Artículo 30. › Apartado B › Fracción II",
+      "texto": "II. La mujer o el varón extranjeros que contraigan matrimonio con varón o con mujer mexicanos, que tengan o establezcan su domicilio dentro del territorio nacional y cumplan con los demás requisitos que al efecto señale la ley.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 31-12-1974, 20-03-1997",
+          "fechas": [
+            "1974-12-31",
+            "1997-03-20"
+          ]
+        }
+      ]
+    }
+  ]
+}

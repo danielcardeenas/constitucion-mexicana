@@ -1,0 +1,24 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 68. › párrafo 1",
+      "texto": "Las dos Cámaras residirán en un mismo lugar y no podrán trasladarse a otro sin que antes convengan en la traslación y en el tiempo y modo de verificarla, designando un mismo punto para la reunión de ambas. Pero si conviniendo las dos en la traslación, difieren en cuanto al tiempo, modo y lugar, el Ejecutivo terminará la diferencia, eligiendo uno de los dos extremos en cuestión. Ninguna Cámara podrá suspender sus sesiones por más de tres días, sin consentimiento de la otra."
+    }
+  ]
+}

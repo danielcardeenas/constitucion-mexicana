@@ -1,0 +1,24 @@
+{
+  "clave": "128",
+  "etiqueta": "Artículo 128.",
+  "titulo": "Título Séptimo",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "128.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 128. › párrafo 1",
+      "texto": "Todo funcionario público, sin excepción alguna, antes de tomar posesión de su encargo, prestará la protesta de guardar la Constitución y las leyes que de ella emanen."
+    }
+  ]
+}

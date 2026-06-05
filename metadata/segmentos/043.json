@@ -1,0 +1,31 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43.",
+  "titulo": "Título Segundo",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 07-02-1931, 19-12-1931, 16-01-1935, 16-01-1952, 08-10-1974, 13-04-2011, 29-01-2016, 17-05-2021",
+      "fechas": [
+        "1931-02-07",
+        "1931-12-19",
+        "1935-01-16",
+        "1952-01-16",
+        "1974-10-08",
+        "2011-04-13",
+        "2016-01-29",
+        "2021-05-17"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 43. › párrafo 1",
+      "texto": "Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán y Zacatecas; así como la Ciudad de México."
+    }
+  ]
+}

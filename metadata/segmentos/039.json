@@ -1,0 +1,24 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39.",
+  "titulo": "Título Segundo",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 39. › párrafo 1",
+      "texto": "La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder público dimana del pueblo y se instituye para beneficio de éste. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar la forma de su gobierno."
+    }
+  ]
+}

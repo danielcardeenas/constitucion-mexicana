@@ -1,0 +1,131 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 71. › párrafo 1",
+      "texto": "El derecho de iniciar leyes o decretos compete:"
+    },
+    {
+      "id": "071.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "ruta": "Artículo 71. › Fracción I",
+      "texto": "I. Al Presidente de la República;"
+    },
+    {
+      "id": "071.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "ruta": "Artículo 71. › Fracción II",
+      "texto": "II. A los Diputados y Senadores al Congreso de la Unión;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 09-08-2012",
+          "fechas": [
+            "2012-08-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "071.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "ruta": "Artículo 71. › Fracción III",
+      "texto": "III. A las Legislaturas de los Estados y de la Ciudad de México; y",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 09-08-2012, 29-01-2016",
+          "fechas": [
+            "2012-08-09",
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "071.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "ruta": "Artículo 71. › Fracción IV",
+      "texto": "IV. A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes.",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DOF 09-08-2012",
+          "fechas": [
+            "2012-08-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "071.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 71. › párrafo 2",
+      "texto": "La Ley del Congreso determinará el trámite que deba darse a las iniciativas.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 17-08-2011, 09-08-2012",
+          "fechas": [
+            "2011-08-17",
+            "2012-08-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "071.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 71. › párrafo 3",
+      "texto": "El día de la apertura de cada periodo ordinario de sesiones el Presidente de la República podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el Pleno de la Cámara de su origen en un plazo máximo de treinta días naturales."
+    },
+    {
+      "id": "071.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 71. › párrafo 4",
+      "texto": "Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno. En caso de ser aprobado o modificado por la Cámara de su origen, el respectivo proyecto de ley o decreto pasará de inmediato a la Cámara revisora, la cual deberá discutirlo y votarlo en el mismo plazo y bajo las condiciones antes señaladas.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 09-08-2012",
+          "fechas": [
+            "2012-08-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "071.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 71. › párrafo 5",
+      "texto": "No podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 09-08-2012",
+          "fechas": [
+            "2012-08-09"
+          ]
+        }
+      ]
+    }
+  ]
+}

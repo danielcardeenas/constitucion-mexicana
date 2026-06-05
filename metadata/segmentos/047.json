@@ -1,0 +1,24 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47.",
+  "titulo": "Título Segundo",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "047.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 47. › párrafo 1",
+      "texto": "El Estado del (sic DOF 05-02-1917) Nayarit tendrá la extensión territorial y límites que comprende actualmente el Territorio de Tepic."
+    }
+  ]
+}

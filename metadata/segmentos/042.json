@@ -1,0 +1,73 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42.",
+  "titulo": "Título Segundo",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 18-01-1934, 20-01-1960",
+      "fechas": [
+        "1934-01-18",
+        "1960-01-20"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 42. › párrafo 1",
+      "texto": "El territorio nacional comprende:"
+    },
+    {
+      "id": "042.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "ruta": "Artículo 42. › Fracción I",
+      "texto": "I. El de las partes integrantes de la Federación;"
+    },
+    {
+      "id": "042.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "ruta": "Artículo 42. › Fracción II",
+      "texto": "II. El de las islas, incluyendo los arrecifes y cayos en los mares adyacentes;"
+    },
+    {
+      "id": "042.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "ruta": "Artículo 42. › Fracción III",
+      "texto": "III. El de las islas de Guadalupe y las de Revillagigedo situadas en el Océano Pacífico;"
+    },
+    {
+      "id": "042.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "ruta": "Artículo 42. › Fracción IV",
+      "texto": "IV. La plataforma continental y los zócalos submarinos de las islas, cayos y arrecifes;"
+    },
+    {
+      "id": "042.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "ruta": "Artículo 42. › Fracción V",
+      "texto": "V. Las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional y las marítimas interiores;"
+    },
+    {
+      "id": "042.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "ruta": "Artículo 42. › Fracción VI",
+      "texto": "VI. El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional."
+    }
+  ]
+}

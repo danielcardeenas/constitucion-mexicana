@@ -1,0 +1,52 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 06-12-1977, 07-04-1986",
+      "fechas": [
+        "1977-12-06",
+        "1986-04-07"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "065.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 65. › párrafo 1",
+      "texto": "El Congreso se reunirá a partir del 1o. de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, y a partir del 1o. de febrero para celebrar un segundo periodo de sesiones ordinarias.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 03-09-1993, 02-08-2004, 10-02-2014, 24-01-2024",
+          "fechas": [
+            "1993-09-03",
+            "2004-08-02",
+            "2014-02-10",
+            "2024-01-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "065.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 65. › párrafo 2",
+      "texto": "En ambos Períodos de Sesiones el Congreso se ocupará del estudio, discusión y votación de las Iniciativas de Ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución."
+    },
+    {
+      "id": "065.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 65. › párrafo 3",
+      "texto": "En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica."
+    }
+  ]
+}

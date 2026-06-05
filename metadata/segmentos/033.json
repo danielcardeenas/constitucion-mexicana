@@ -1,0 +1,57 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 33. › párrafo 1",
+      "texto": "Son personas extranjeras las que no posean las calidades determinadas en el artículo 30 constitucional y gozarán de los derechos humanos y garantías que reconoce esta Constitución.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 10-06-2011",
+          "fechas": [
+            "2011-06-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "033.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 33. › párrafo 2",
+      "texto": "El Ejecutivo de la Unión, previa audiencia, podrá expulsar del territorio nacional a personas extranjeras con fundamento en la ley, la cual regulará el procedimiento administrativo, así como el lugar y tiempo que dure la detención.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 10-06-2011",
+          "fechas": [
+            "2011-06-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "033.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 33. › párrafo 3",
+      "texto": "Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país."
+    },
+    {
+      "id": "033.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 33. › párrafo 4",
+      "texto": "De los Ciudadanos Mexicanos"
+    }
+  ]
+}

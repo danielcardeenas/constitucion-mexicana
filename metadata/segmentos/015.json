@@ -1,0 +1,24 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 10-06-2011",
+      "fechas": [
+        "2011-06-10"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 15. › párrafo 1",
+      "texto": "No se autoriza la celebración de tratados para la extradición de reos políticos, ni para la de aquellos delincuentes del orden común que hayan tenido en el país donde cometieron el delito, la condición de esclavos; ni de convenios o tratados en virtud de los que se alteren los derechos humanos reconocidos por esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte."
+    }
+  ]
+}

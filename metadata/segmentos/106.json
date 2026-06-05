@@ -1,0 +1,26 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 07-04-1986, 31-12-1994, 29-01-2016",
+      "fechas": [
+        "1986-04-07",
+        "1994-12-31",
+        "2016-01-29"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "106.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 106. › párrafo 1",
+      "texto": "Corresponde al Poder Judicial de la Federación, en los términos de la ley respectiva, dirimir las controversias que, por razón de competencia, se susciten entre los Tribunales de la Federación, entre éstos y los de las entidades federativas o entre los de una entidad federativa y otra."
+    }
+  ]
+}

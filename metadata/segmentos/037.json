@@ -1,0 +1,139 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "ruta": "Artículo 37. › Apartado A",
+      "texto": "A) Ningún mexicano por nacimiento podrá ser privado de su nacionalidad."
+    },
+    {
+      "id": "037.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "ruta": "Artículo 37. › Apartado B",
+      "texto": "B) La nacionalidad mexicana por naturalización se perderá en los siguientes casos:"
+    },
+    {
+      "id": "037.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "ruta": "Artículo 37. › Apartado B › Fracción I",
+      "texto": "I. Por adquisición voluntaria de una nacionalidad extranjera, por hacerse pasar en cualquier instrumento público como extranjero, por usar un pasaporte extranjero, o por aceptar o usar títulos nobiliarios que impliquen sumisión a un Estado extranjero, y"
+    },
+    {
+      "id": "037.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "ruta": "Artículo 37. › Apartado B › Fracción II",
+      "texto": "II. Por residir durante cinco años continuos en el extranjero."
+    },
+    {
+      "id": "037.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "ruta": "Artículo 37. › Apartado C",
+      "texto": "C) La ciudadanía mexicana se pierde:",
+      "reformas": [
+        {
+          "nota": "Reforma DOF 30-09-2013: Derogó del Apartado C el entonces último párrafo",
+          "fechas": [
+            "2013-09-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "037.C.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "C",
+      "ruta": "Artículo 37. › Apartado C › Fracción I",
+      "texto": "I. Por aceptar o usar títulos nobiliarios de gobiernos extranjeros;"
+    },
+    {
+      "id": "037.C.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "C",
+      "ruta": "Artículo 37. › Apartado C › Fracción II",
+      "texto": "II. Por prestar voluntariamente servicios o funciones oficiales a un gobierno extranjero, sin permiso del Ejecutivo Federal;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 30-09-2013",
+          "fechas": [
+            "2013-09-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "037.C.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "C",
+      "ruta": "Artículo 37. › Apartado C › Fracción III",
+      "texto": "III. Por aceptar o usar condecoraciones extranjeras sin permiso del Ejecutivo Federal.\n\nEl Presidente de la República, los senadores y diputados al Congreso de la Unión y los ministros de la Suprema Corte de Justicia de la Nación podrán libremente aceptar y usar condecoraciones extranjeras;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 30-09-2013",
+          "fechas": [
+            "2013-09-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "037.C.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "C",
+      "ruta": "Artículo 37. › Apartado C › Fracción IV",
+      "texto": "IV. Por admitir del gobierno de otro país títulos o funciones sin previo permiso del Ejecutivo Federal, exceptuando los títulos literarios, científicos o humanitarios que pueden aceptarse libremente;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 30-09-2013",
+          "fechas": [
+            "2013-09-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "037.C.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "C",
+      "ruta": "Artículo 37. › Apartado C › Fracción V",
+      "texto": "V. Por ayudar, en contra de la Nación, a un extranjero, o a un gobierno extranjero, en cualquier reclamación diplomática o ante un tribunal internacional, y"
+    },
+    {
+      "id": "037.C.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "C",
+      "ruta": "Artículo 37. › Apartado C › Fracción VI",
+      "texto": "VI. En los demás casos que fijan las leyes.",
+      "reformas": [
+        {
+          "nota": "Fe de erratas al artículo DOF 06-02-1917. Artículo reformado DOF 18-01-1934, 20-03-1997",
+          "fechas": [
+            "1917-02-06",
+            "1934-01-18",
+            "1997-03-20"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "clave": "055",
+  "etiqueta": "Artículo 55.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "055.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 55. › párrafo 1",
+      "texto": "Para ser diputado se requiere:",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        },
+        {
+          "nota": "Párrafo reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        },
+        {
+          "nota": "Párrafo reformado DOF 10-02-2014",
+          "fechas": [
+            "2014-02-10"
+          ]
+        },
+        {
+          "nota": "Párrafo reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        },
+        {
+          "nota": "Párrafo reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "ruta": "Artículo 55. › Fracción I",
+      "texto": "I. Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos."
+    },
+    {
+      "id": "055.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "ruta": "Artículo 55. › Fracción II",
+      "texto": "II. Tener dieciocho años cumplidos el día de la elección;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 14-02-1972, 06-06-2023",
+          "fechas": [
+            "1972-02-14",
+            "2023-06-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "ruta": "Artículo 55. › Fracción III",
+      "texto": "III. Ser originario de la entidad federativa en que se haga la elección o vecino de esta con residencia efectiva de más de seis meses anteriores a la fecha de ella.\n\nPara poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere ser originario de alguna de las entidades federativas que comprenda la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.\n\nLa vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 08-10-1974, 06-12-1977",
+          "fechas": [
+            "1974-10-08",
+            "1977-12-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "ruta": "Artículo 55. › Fracción IV",
+      "texto": "IV. No estar en servicio activo en el Ejército, Fuerza Aérea, Armada o Guardia Nacional, ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 30-09-2024",
+          "fechas": [
+            "2024-09-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "ruta": "Artículo 55. › Fracción V",
+      "texto": "V. No ser titular de alguno de los organismos a los que esta Constitución otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública federal, a menos que se separe definitivamente de sus funciones 90 días antes del día de la elección.\n\nNo ser Ministro de la Suprema Corte de Justicia de la Nación, ni Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación, ni Consejero Presidente o consejero electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección.\n\nLos Gobernadores de los Estados y el Jefe de Gobierno de la Ciudad de México no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el periodo de su encargo, aun cuando se separen definitivamente de sus puestos.\n\nLos Secretarios del Gobierno de las entidades federativas, los Magistrados y Jueces Federales y locales, así como los Presidentes Municipales y Alcaldes en el caso de la Ciudad de México, no podrán ser electos en las entidades de sus respectivas jurisdicciones, si no se separan definitivamente de sus cargos noventa días antes del día de la elección;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 29-04-1933, 31-12-1994, 19-06-2007",
+          "fechas": [
+            "1933-04-29",
+            "1994-12-31",
+            "2007-06-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "ruta": "Artículo 55. › Fracción VI",
+      "texto": "VI. No ser persona ministra de algún culto religioso;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 29-04-1933, 01-04-2025",
+          "fechas": [
+            "1933-04-29",
+            "2025-04-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "ruta": "Artículo 55. › Fracción VII",
+      "texto": "VII. No estar comprendido en alguno de los impedimentos que señala el artículo 59 de esta Constitución, y",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DOF 29-04-1933. Reformada DOF 01-04-2025",
+          "fechas": [
+            "1933-04-29",
+            "2025-04-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "ruta": "Artículo 55. › Fracción VIII",
+      "texto": "VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DOF 01-04-2025",
+          "fechas": [
+            "2025-04-01"
+          ]
+        }
+      ]
+    }
+  ]
+}

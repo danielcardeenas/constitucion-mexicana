@@ -1,0 +1,24 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 64. › párrafo 1",
+      "texto": "Los diputados y senadores que no concurran a una sesión, sin causa justificada o sin permiso de la Cámara respectiva, no tendrán derecho a la dieta correspondiente al día en que falten."
+    }
+  ]
+}

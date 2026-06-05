@@ -1,0 +1,24 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 06-06-2023",
+      "fechas": [
+        "2023-06-06"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 91. › párrafo 1",
+      "texto": "Para ser Secretario de Estado se requiere: ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener veinticinco años cumplidos."
+    }
+  ]
+}

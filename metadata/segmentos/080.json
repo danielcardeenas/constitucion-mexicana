@@ -1,0 +1,24 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 80. › párrafo 1",
+      "texto": "Se deposita el ejercicio del Supremo Poder Ejecutivo de la Unión en un solo individuo, que se denominará \"Presidente de los Estados Unidos Mexicanos.\""
+    }
+  ]
+}

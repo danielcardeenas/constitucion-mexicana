@@ -1,0 +1,24 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "086.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 86. › párrafo 1",
+      "texto": "El cargo de Presidente de la República sólo es renunciable por causa grave, que calificará el Congreso de la Unión, ante el que se presentará la renuncia."
+    }
+  ]
+}

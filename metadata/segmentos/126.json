@@ -1,0 +1,24 @@
+{
+  "clave": "126",
+  "etiqueta": "Artículo 126.",
+  "titulo": "Título Séptimo",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "126.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "ruta": "Artículo 126. › párrafo 1",
+      "texto": "No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o determinado por la ley posterior."
+    }
+  ]
+}
