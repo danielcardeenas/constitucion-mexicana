@@ -1,0 +1,38 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a73481a1f3886083",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Restricciones a las entidades",
+  "temas": [
+    "derechos de tonelaje",
+    "puertos",
+    "contribuciones",
+    "importaciones",
+    "exportaciones",
+    "tropa permanente",
+    "buques de guerra",
+    "guerra",
+    "invasión"
+  ],
+  "terminos_coloquiales": [
+    "impuestos de puertos",
+    "tarifas comerciales",
+    "soldados permanentes",
+    "barcos militares",
+    "hacer la guerra",
+    "defenderse de invasiones"
+  ],
+  "resumen": "Este artículo prohíbe a ciertas entidades establecer impuestos relacionados con puertos y comercio, mantener tropas permanentes o barcos de guerra, y declarar guerra sin avisar primero al Presidente, salvo en situaciones de invasión.",
+  "preguntas_ejemplo": [
+    "¿Quién puede imponer impuestos sobre importaciones?",
+    "¿Está permitido tener un ejército permanente?",
+    "¿Qué acciones se pueden tomar ante una invasión?",
+    "¿Cómo se manejan las contribuciones en los puertos?",
+    "¿Qué prohibiciones hay sobre la guerra?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0ae76b9d1103261a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Obligaciones del ciudadano",
+  "temas": [
+    "Inscripción en catastro",
+    "Registro Nacional de Ciudadanos",
+    "Voto en elecciones",
+    "Cargos de elección popular",
+    "Cuerpos de reserva"
+  ],
+  "terminos_coloquiales": [
+    "¿Qué tengo que hacer como ciudadano?",
+    "Obligaciones de los ciudadanos",
+    "Requisitos para votar",
+    "Cómo inscribirme en el Registro Nacional",
+    "Cargos públicos que puedo desempeñar"
+  ],
+  "resumen": "Los ciudadanos deben inscribirse en el catastro y en el Registro Nacional de Ciudadanos. También tienen la obligación de votar y pueden asumir distintos cargos públicos.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son mis obligaciones como ciudadano?",
+    "¿Cómo me inscribo en el catastro?",
+    "¿Qué documentos necesito para votar?",
+    "¿Puedo ser jurado en elecciones?",
+    "¿Qué es el Registro Nacional de Ciudadanos?"
+  ]
+}

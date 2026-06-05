@@ -1,0 +1,44 @@
+{
+  "clave": "004",
+  "etiqueta": "Artículo 4o.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2b08c7139f6175e3",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Igualdad y derechos humanos",
+  "temas": [
+    "igualdad de género",
+    "derecho a la salud",
+    "derecho a la alimentación",
+    "derecho a un medio ambiente sano",
+    "derecho al agua",
+    "derecho a la vivienda",
+    "derecho a la identidad",
+    "derecho a la educación",
+    "derecho a la cultura",
+    "derechos de la niñez"
+  ],
+  "terminos_coloquiales": [
+    "igualdad entre hombres y mujeres",
+    "salud para todos",
+    "comida sana",
+    "agua potable",
+    "vivienda digna",
+    "registro de nacimiento",
+    "derechos de los niños",
+    "acceso a la cultura",
+    "pensión para discapacitados",
+    "derechos de los ancianos"
+  ],
+  "resumen": "Este artículo establece que hombres y mujeres son iguales ante la ley y garantiza diversos derechos, como la salud, la alimentación, el agua, la vivienda y la identidad. También protege los derechos de los niños y promueve el bienestar social y cultural de la población.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tienen las mujeres en México?",
+    "¿Cómo se protege el derecho a la salud?",
+    "¿Qué hacer si no tengo acceso a agua potable?",
+    "¿Cuáles son mis derechos si soy un niño?",
+    "¿Qué dice la ley sobre la igualdad entre hombres y mujeres?",
+    "¿Qué beneficios hay para las personas con discapacidad?"
+  ]
+}

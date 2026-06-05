@@ -1,0 +1,35 @@
+{
+  "clave": "055",
+  "etiqueta": "Artículo 55.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:81e3eae81a426f02",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Requisitos para ser diputado",
+  "temas": [
+    "ciudadanía",
+    "edad",
+    "residencia",
+    "servicio público",
+    "vínculos familiares",
+    "imparcialidad",
+    "religión"
+  ],
+  "terminos_coloquiales": [
+    "¿Qué necesito para ser diputado?",
+    "Requisitos para ser legislador",
+    "¿Cuándo puedo postularme a diputado?",
+    "Condiciones para ser candidato",
+    "¿Quién no puede ser diputado?"
+  ],
+  "resumen": "Este artículo establece los requisitos que deben cumplir las personas para postularse como diputados, incluyendo ser ciudadano, tener cierta edad y cumplir con normas de residencia y vínculos familiares. También menciona prohibiciones relacionadas con cargos públicos y religión.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los requisitos para ser diputado?",
+    "¿Qué documentos necesito para ser candidato a diputado?",
+    "¿Puedo ser diputado si tengo un familiar en el cargo?",
+    "¿Qué edad debo tener para postularme a diputado?",
+    "¿Existen impedimentos por servicio en el ejército para ser diputado?"
+  ]
+}

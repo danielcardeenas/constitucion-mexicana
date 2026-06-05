@@ -1,0 +1,35 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4520f08566501ded",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Composición del Senado",
+  "temas": [
+    "senadores",
+    "mujeres",
+    "hombres",
+    "representación proporcional",
+    "primera minoría",
+    "votación mayoritaria",
+    "elecciones"
+  ],
+  "terminos_coloquiales": [
+    "cómo se eligen a los senadores",
+    "representación en el Senado",
+    "senadores de mi estado",
+    "sentido de la votación",
+    "elecciones del Senado"
+  ],
+  "resumen": "El Senado se compone de 128 senadores elegidos mayoritariamente y por representación proporcional. Esto incluye senadores elegidos en cada estado y uno asignado a la primera minoría, además de garantizar la paridad entre hombres y mujeres.",
+  "preguntas_ejemplo": [
+    "¿Cuántos senadores hay en total?",
+    "¿Cómo se eligen los senadores en mi estado?",
+    "¿Qué es la representación proporcional en el Senado?",
+    "¿Cómo se asigna la senaduría de primera minoría?",
+    "¿Cuáles son las reglas para la paridad en el Senado?"
+  ]
+}

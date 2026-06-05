@@ -1,0 +1,34 @@
+{
+  "clave": "079",
+  "etiqueta": "Artículo 79.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f41c0c95c50084fe",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Auditoría Superior de la Federación",
+  "temas": [
+    "autonomía",
+    "fiscalización",
+    "informes de auditoría",
+    "sanciones",
+    "responsabilidades",
+    "recursos federales"
+  ],
+  "terminos_coloquiales": [
+    "auditoría federal",
+    "chequeo de cuentas",
+    "revisión de gastos",
+    "fiscalización del Gobierno",
+    "informe de auditoría"
+  ],
+  "resumen": "Este artículo establece la autonomía de la Auditoría Superior de la Federación para fiscalizar el uso de recursos públicos y determinar sus propias decisiones organizativas. Además, señala cómo debe llevar a cabo la fiscalización y la entrega de informes sobre su desempeño a la Cámara de Diputados.",
+  "preguntas_ejemplo": [
+    "¿Qué hace la Auditoría Superior de la Federación?",
+    "¿Cómo se fiscalizan los recursos federales?",
+    "¿Qué informes entrega la Auditoría a la Cámara de Diputados?",
+    "¿Qué pasa si no cumplen con las auditorías?",
+    "¿Quién designa al titular de la Auditoría Superior?"
+  ]
+}

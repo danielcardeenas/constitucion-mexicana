@@ -1,0 +1,37 @@
+{
+  "clave": "115",
+  "etiqueta": "Artículo 115.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:54af92dccf5d0ecd",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Gobierno Municipal",
+  "temas": [
+    "Ayuntamientos",
+    "Elecciones municipales",
+    "Funciones públicas",
+    "Personalidad jurídica municipal",
+    "Hacienda municipal",
+    "Desarrollo urbano",
+    "Seguridad pública",
+    "Participación ciudadana"
+  ],
+  "terminos_coloquiales": [
+    "cómo se elige al presidente municipal",
+    "regidores y su función",
+    "leyes de los municipios",
+    "qué hace un ayuntamiento",
+    "gastos del municipio",
+    "cuidado y mantenimiento de la ciudad"
+  ],
+  "resumen": "El artículo establece las reglas para el funcionamiento de los municipios en México, incluyendo cómo se eligen sus autoridades, sus funciones y servicios públicos, y cómo manejan su presupuesto. También aborda la organización y la participación ciudadana en el gobierno local.",
+  "preguntas_ejemplo": [
+    "¿Cómo se elige al alcalde de mi municipio?",
+    "¿Qué facultades tienen los ayuntamientos?",
+    "¿Qué servicios deben proporcionar los municipios?",
+    "¿Cuáles son las reglas sobre la reelección de los presidentes municipales?",
+    "¿Qué responsabilidades tienen los regidores?"
+  ]
+}

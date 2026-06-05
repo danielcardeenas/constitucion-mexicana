@@ -1,0 +1,32 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:74453d05adf5558b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Títulos de nobleza",
+  "temas": [
+    "títulos de nobleza",
+    "prerrogativas",
+    "honores hereditarios",
+    "sistema nobiliario"
+  ],
+  "terminos_coloquiales": [
+    "nobleza en México",
+    "títulos nobiliarios",
+    "honores",
+    "privilegios de nobleza"
+  ],
+  "resumen": "En México no se permiten títulos de nobleza ni privilegios hereditarios, y tampoco se reconoce a los que provengan de otros países.",
+  "preguntas_ejemplo": [
+    "¿Se permiten los títulos de nobleza en México?",
+    "¿Qué dice la Constitución sobre la nobleza?",
+    "¿México reconoce títulos nobiliarios de otros países?",
+    "¿Existen privilegios hereditarios en México?",
+    "¿Se puede ser noble en México?",
+    "¿Qué honores heredados son válidos en México?"
+  ]
+}

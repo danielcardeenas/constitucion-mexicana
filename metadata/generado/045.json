@@ -1,0 +1,31 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:983863bf96a0167a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Límites de los Estados",
+  "temas": [
+    "extensión territorial",
+    "límites estatales",
+    "federación",
+    "integridad territorial"
+  ],
+  "terminos_coloquiales": [
+    "cómo se dividen los estados",
+    "límites entre estados",
+    "tamaño de los estados",
+    "territorio de los estados"
+  ],
+  "resumen": "Cada uno de los Estados de la Federación mantiene el tamaño y límites que tienen hasta ahora, siempre que no haya problemas al respecto.",
+  "preguntas_ejemplo": [
+    "¿Los límites de los estados pueden cambiar?",
+    "¿Qué pasa si hay discusiones sobre los límites de un estado?",
+    "¿Cómo se determina el tamaño de un estado en México?",
+    "¿Pueden los estados crecer o reducir su territorio?",
+    "¿La Federación cobra por los límites de los estados?"
+  ]
+}

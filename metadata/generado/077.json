@@ -1,0 +1,36 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c81c682eec54a60a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Poderes de las Cámaras",
+  "temas": [
+    "resoluciones económicas",
+    "comunicaciones",
+    "nombramientos",
+    "convocatorias",
+    "elecciones extraordinarias",
+    "vacantes",
+    "reglamento interior"
+  ],
+  "terminos_coloquiales": [
+    "decisiones del Congreso",
+    "comunicarse con el Ejecutivo",
+    "nombrar personal",
+    "elecciones rápidas",
+    "cubrir vacantes",
+    "cómo funcionan las Cámaras"
+  ],
+  "resumen": "El artículo describe las facultades que cada Cámara del Congreso tiene para actuar de manera independiente en temas económicos, nombramientos, comunicaciones y elecciones extraordinarias para cubrir vacantes. También establece un procedimiento para convocar elecciones en caso de que haya vacantes entre sus miembros.",
+  "preguntas_ejemplo": [
+    "¿Qué puede hacer cada Cámara sin la otra?",
+    "¿Cómo manejan las elecciones extraordinarias?",
+    "¿Qué poderes tienen las Cámaras del Congreso?",
+    "¿Cómo se comunican las Cámaras con el Ejecutivo?",
+    "¿Qué pasa si hay una vacante en el Congreso?"
+  ]
+}

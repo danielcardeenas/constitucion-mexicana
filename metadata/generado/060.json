@@ -1,0 +1,34 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4242d07dec0fc76d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Validez de elecciones",
+  "temas": [
+    "elecciones",
+    "diputados",
+    "senadores",
+    "representación proporcional",
+    "impugnación",
+    "constancias electorales"
+  ],
+  "terminos_coloquiales": [
+    "cómo se validan las elecciones",
+    "qué pasa con los resultados de las elecciones",
+    "impugnar elecciones",
+    "elecciones de diputados y senadores",
+    "constancias de elecciones"
+  ],
+  "resumen": "El artículo establece que un organismo declara la validez de las elecciones de diputados y senadores y otorga constancias a los ganadores. También se pueden impugnar estas decisiones ante el Tribunal Electoral si se cree que hubo errores en el proceso.",
+  "preguntas_ejemplo": [
+    "¿Quién valida las elecciones de diputados y senadores?",
+    "¿Qué hago si no estoy de acuerdo con el resultado de una elección?",
+    "¿Cómo se asignan los diputados por representación proporcional?",
+    "¿Qué son las constancias electorales?",
+    "¿Puedo impugnar la validez de una elección?"
+  ]
+}

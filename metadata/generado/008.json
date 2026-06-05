@@ -1,0 +1,31 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8o.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fd41ae5752d22a94",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho de Petición",
+  "temas": [
+    "funcionarios públicos",
+    "derechos de los ciudadanos",
+    "peticiones",
+    "respuesta de autoridades"
+  ],
+  "terminos_coloquiales": [
+    "pedir algo al gobierno",
+    "hacer una solicitud",
+    "derecho a pedir",
+    "queja ante autoridades"
+  ],
+  "resumen": "El artículo establece que los funcionarios públicos deben respetar el derecho de los ciudadanos a hacer peticiones por escrito y de forma pacífica. Además, obliga a la autoridad a responder a estas peticiones de manera formal y en un tiempo razonable.",
+  "preguntas_ejemplo": [
+    "¿Qué es el derecho de petición?",
+    "¿Cómo puedo hacer una solicitud al gobierno?",
+    "¿Los ciudadanos tienen derecho a que les respondan sus peticiones?",
+    "¿Qué deben hacer las autoridades con mis peticiones?",
+    "¿Puedo pedir algo a la autoridad política?"
+  ]
+}

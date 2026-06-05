@@ -1,0 +1,39 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b326935d694afefa",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Prisión y sistema penitenciario",
+  "temas": [
+    "prisión preventiva",
+    "derechos humanos",
+    "sistema penitenciario",
+    "reinserción social",
+    "justicia para adolescentes",
+    "delincuencia organizada",
+    "centros penitenciarios",
+    "traslado de reclusos"
+  ],
+  "terminos_coloquiales": [
+    "cárceles",
+    "juzgados de adolescentes",
+    "traslados de presos",
+    "justicia juvenil",
+    "centros de readaptación",
+    "delitos menores",
+    "detención preventiva"
+  ],
+  "resumen": "El artículo establece que la prisión preventiva solo se aplicará por delitos graves y que el sistema penitenciario debe enfocarse en la reinserción social a través de la educación y el trabajo, además de garantizar los derechos humanos. También aborda las disposiciones para la justicia de adolescentes y el traslado de sentenciados entre países.",
+  "preguntas_ejemplo": [
+    "¿Cuándo se puede aplicar la prisión preventiva?",
+    "¿Cómo se organiza el sistema penitenciario en México?",
+    "¿Qué derechos tienen los adolescentes en el sistema de justicia?",
+    "¿Se pueden trasladar presos a otros países?",
+    "¿Cuáles son las medidas para la reinserción social de los reclusos?",
+    "¿Cómo se manejan los delitos en menores de edad?"
+  ]
+}

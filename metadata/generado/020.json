@@ -1,0 +1,39 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bc4357926867227c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Proceso Penal",
+  "temas": [
+    "Juicio Oral",
+    "Derecho a la Defensa",
+    "Presunción de Inocencia",
+    "Derechos de la Víctima",
+    "Carga de la Prueba",
+    "Prisión Preventiva",
+    "Reparación del Daño",
+    "Pruebas en Juicio"
+  ],
+  "terminos_coloquiales": [
+    "juicio justo",
+    "derecho a defenderse",
+    "no ser culpable hasta que se demuestre lo contrario",
+    "apoyo a las víctimas",
+    "probar la culpabilidad",
+    "estar en prisión sin juicio",
+    "compensación por daños",
+    "evidencias en el juicio"
+  ],
+  "resumen": "El artículo establece que el proceso penal debe ser oral y acusatorio, protegiendo los derechos de los imputados y las víctimas. Se asegura que todas las partes tengan igualdad en el juicio y se prohíbe cualquier prueba obtenida de manera ilegal.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son mis derechos si soy acusado de un delito?",
+    "¿Qué puede pasar si la policía no me informa de mis derechos al ser detenido?",
+    "¿Cómo se garantiza que un juicio sea justo?",
+    "¿Qué derechos tienen las víctimas en un proceso penal?",
+    "¿Qué sucede si se recopilan pruebas sin respeto a la ley?"
+  ]
+}

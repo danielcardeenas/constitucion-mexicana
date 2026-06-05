@@ -1,0 +1,35 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9o.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:82e6a6e16f1d4c4d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho de reunión",
+  "temas": [
+    "asociación",
+    "reunión pacífica",
+    "ciudadanía",
+    "derechos políticos",
+    "protestas",
+    "peticiones"
+  ],
+  "terminos_coloquiales": [
+    "reuniones",
+    "juntadas",
+    "protestar",
+    "manifestaciones",
+    "hacer peticiones"
+  ],
+  "resumen": "El artículo establece que las personas tienen derecho a reunirse pacíficamente para propósitos legales, pero solo los ciudadanos pueden involucrarse en asuntos políticos. Las reuniones para presentar peticiones o protestas no se consideran ilegales si se realizan sin violencia o insultos.",
+  "preguntas_ejemplo": [
+    "¿Puedo reunirme con amigos para hablar de política?",
+    "¿Es legal hacer una protesta pacífica?",
+    "¿Quiénes pueden organizar una asamblea en el país?",
+    "¿Qué tipo de reuniones están prohibidas?",
+    "¿Se puede disolver una asamblea si hay insultos?",
+    "¿Cuáles son los derechos de los ciudadanos al reunirse?"
+  ]
+}

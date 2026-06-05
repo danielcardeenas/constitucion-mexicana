@@ -1,0 +1,33 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e06d83f797e71139",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Firmas en documentos del Presidente",
+  "temas": [
+    "reglamentos",
+    "decretos",
+    "acuerdos",
+    "órdenes del Presidente",
+    "Secretario de Estado"
+  ],
+  "terminos_coloquiales": [
+    "papeles del Presidente",
+    "firmas necesarias",
+    "documentos oficiales",
+    "órdenes que no se cumplen",
+    "quién firma"
+  ],
+  "resumen": "El Presidente necesita el respaldo del Secretario de Estado para que sus documentos oficiales sean válidos. Sin la firma, esos documentos no se obedecen.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un decreto del Presidente no está firmado?",
+    "¿Quién firma el reglamento del Presidente?",
+    "¿Por qué es importante la firma del Secretario de Estado?",
+    "¿Qué documentos necesita el Presidente para que sean válidos?",
+    "¿Cuáles son los requisitos para los acuerdos del Presidente?"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clave": "128",
+  "etiqueta": "Artículo 128.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9f97b345b38eda70",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Protesta de Funcionarios Públicos",
+  "temas": [
+    "funcionarios públicos",
+    "protesta",
+    "Constitución",
+    "leyes"
+  ],
+  "terminos_coloquiales": [
+    "juramento",
+    "promesa de lealtad",
+    "compromiso de respetar la Constitución",
+    "deber de cumplir la ley"
+  ],
+  "resumen": "Todos los funcionarios públicos deben hacer una promesa para respetar la Constitución y las leyes relacionadas antes de comenzar su trabajo. Esto asegura que sigan y defiendan las normas del país.",
+  "preguntas_ejemplo": [
+    "¿Qué deben hacer los funcionarios antes de asumir su cargo?",
+    "¿Es obligatorio que los funcionarios juren lealtad a la Constitución?",
+    "¿Qué implica la protesta de los funcionarios públicos?",
+    "¿Los funcionarios pueden omitir este juramento?",
+    "¿Qué sucede si un funcionario no respeta la Constitución?",
+    "¿Cómo se asegura que los funcionarios cumplan con la ley?"
+  ]
+}

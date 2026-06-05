@@ -1,0 +1,31 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8468836086df9e9d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Ciudad de México",
+  "temas": [
+    "sede de los Poderes",
+    "entidad federativa",
+    "territorio",
+    "Estado de la Unión"
+  ],
+  "terminos_coloquiales": [
+    "dónde están los poderes",
+    "capital de México",
+    "territorio de la ciudad",
+    "qué pasa si se trasladan los poderes"
+  ],
+  "resumen": "El artículo establece que la Ciudad de México es la sede de los Poderes de la Unión y su territorio actual será su límite. Si los poderes se trasladan, se convertiría en un Estado de la Unión.",
+  "preguntas_ejemplo": [
+    "¿Cuál es la capital de México?",
+    "¿Qué significa que la Ciudad de México sea la sede de los poderes?",
+    "¿Qué pasaría si los poderes federales se mudan?",
+    "¿La Ciudad de México es un estado?",
+    "¿Qué define el territorio de la Ciudad de México?"
+  ]
+}

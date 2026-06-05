@@ -1,0 +1,31 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0e47622a45d2f73b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Ciudadanía",
+  "temas": [
+    "requisitos para ser ciudadano",
+    "edad",
+    "modo honesto de vivir",
+    "derechos de ciudadanía"
+  ],
+  "terminos_coloquiales": [
+    "ser ciudadano",
+    "cómo ser ciudadano",
+    "requisitos de ciudadanía",
+    "qué se necesita para ser ciudadano"
+  ],
+  "resumen": "El artículo establece que para ser ciudadano en México se necesita ser mexicano, tener al menos 18 años y llevar una vida honesta.",
+  "preguntas_ejemplo": [
+    "¿Qué se necesita para ser ciudadano en México?",
+    "¿Cuáles son los requisitos para ser considerado ciudadano?",
+    "¿A qué edad puedo ser ciudadano?",
+    "¿Qué significa tener un modo honesto de vivir?",
+    "¿Todo mexicano es ciudadano automáticamente?"
+  ]
+}

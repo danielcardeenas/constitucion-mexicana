@@ -1,0 +1,38 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:59f4c7a82800081f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "No retroactividad de la ley",
+  "temas": [
+    "efecto retroactivo de las leyes",
+    "debido proceso",
+    "juicio justo",
+    "privación de libertad",
+    "propiedades",
+    "derechos",
+    "sentencias civiles",
+    "principios del derecho"
+  ],
+  "terminos_coloquiales": [
+    "no pueden cambiar las leyes de la noche a la mañana",
+    "no me pueden quitar lo que tengo sin juicio",
+    "no puedo ser detenido sin un proceso",
+    "justicia en las decisiones",
+    "leyes que no aplican",
+    "derechos garantizados"
+  ],
+  "resumen": "Ninguna ley puede afectar a una persona de manera retroactiva. Nadie puede ser privado de su libertad o bienes sin un juicio legal adecuado y respetando los procedimientos establecidos.",
+  "preguntas_ejemplo": [
+    "¿Pueden cambiar las leyes y afectar a personas que ya cometieron un delito?",
+    "¿Me pueden quitar mis propiedades sin un juicio?",
+    "¿Qué derechos tengo si me arrestan?",
+    "¿Cómo funciona el debido proceso en juicios?",
+    "¿Las penas se pueden imponer sin una ley clara?",
+    "¿Qué pasa si una sentencia no sigue la ley vigente?"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:dc1b3baefc9e7718",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Soberanía y Elecciones",
+  "temas": [
+    "soberanía",
+    "poderes de la unión",
+    "partidos políticos",
+    "paridad de género",
+    "financiamiento de partidos",
+    "elecciones libres",
+    "sufragio",
+    "Instituto Nacional Electoral",
+    "procesos electorales",
+    "derechos políticos"
+  ],
+  "terminos_coloquiales": [
+    "soberanía del pueblo",
+    "cómo se eligen los políticos",
+    "elecciones en México",
+    "financiamiento de partidos",
+    "no más candidatos independientes",
+    "paridad de género",
+    "elección de gobernantes",
+    "cómo funcionan las elecciones",
+    "partidos políticos en México"
+  ],
+  "resumen": "Este artículo establece cómo el pueblo ejerce su soberanía a través de los poderes públicos y la organización de elecciones. También menciona la importancia de los partidos políticos, el principio de paridad de género en las candidaturas y el papel del Instituto Nacional Electoral en los procesos electorales.",
+  "preguntas_ejemplo": [
+    "¿Cómo se eligen a los presidentes y senadores en México?",
+    "¿Qué es la paridad de género en elecciones?",
+    "¿Quién regula el financiamiento de los partidos políticos?",
+    "¿Cuál es el papel del Instituto Nacional Electoral?",
+    "¿Qué derechos tienen los ciudadanos para participar en la política?",
+    "¿Por qué son importantes las elecciones libres y auténticas?"
+  ]
+}

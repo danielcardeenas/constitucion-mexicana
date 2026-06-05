@@ -1,0 +1,31 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:27b052f514601882",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Requisitos para ser senador",
+  "temas": [
+    "requisitos",
+    "senador",
+    "edad",
+    "diputado"
+  ],
+  "terminos_coloquiales": [
+    "¿Qué se necesita para ser senador?",
+    "requisitos para senadores",
+    "edad para ser senador",
+    "ser senador"
+  ],
+  "resumen": "Para ser senador hay que cumplir con los mismos requisitos que para ser diputado, a excepción de la edad, que debe ser de al menos 25 años cumplidos el día de la elección.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los requisitos para ser senador?",
+    "¿Qué edad se necesita para ser senador?",
+    "¿Es igual el proceso para senadores y diputados?",
+    "¿Qué se necesita para postularse como senador?",
+    "¿Se requiere lo mismo para ser senador que para ser diputado?"
+  ]
+}

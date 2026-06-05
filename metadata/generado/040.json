@@ -1,0 +1,34 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2125b14dd8b0192a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Forma de Gobierno",
+  "temas": [
+    "República",
+    "Democracia",
+    "Laicidad",
+    "Federalismo",
+    "Soberanía",
+    "Integridad Territorial"
+  ],
+  "terminos_coloquiales": [
+    "cómo se organiza el país",
+    "gobierno de México",
+    "república mexicana",
+    "federación",
+    "soberanía de México"
+  ],
+  "resumen": "El pueblo mexicano decidió ser una República democrática y laica, unida en una federación. No aceptará ninguna intervención extranjera que afecte su independencia y soberanía.",
+  "preguntas_ejemplo": [
+    "¿Qué tipo de gobierno tiene México?",
+    "¿Cuáles son los principios de la federación mexicana?",
+    "¿Qué dice la Constitución sobre la soberanía del país?",
+    "¿México puede ser intervenido por otros países?",
+    "¿Qué significa ser una república laica?"
+  ]
+}

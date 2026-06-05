@@ -1,0 +1,37 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2f8869dc11a19972",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades de la Cámara de Diputados",
+  "temas": [
+    "Presupuesto de Egresos",
+    "Ley de Ingresos",
+    "Revisión de Cuenta Pública",
+    "Fiscalización",
+    "Responsabilidades de servidores públicos",
+    "Plan Nacional de Desarrollo",
+    "Designación de órganos de control"
+  ],
+  "terminos_coloquiales": [
+    "qué hace la Cámara de Diputados",
+    "presupuesto del gobierno",
+    "revisión de cuentas",
+    "auditoría a la cuenta pública",
+    "responsabilidad de funcionarios",
+    "plan de desarrollo",
+    "control de recursos públicos"
+  ],
+  "resumen": "El artículo establece las facultades exclusivas que tiene la Cámara de Diputados, como aprobar el presupuesto, revisar las cuentas públicas y ratificar nombramientos importantes. También se encarga de evaluar la labor de la Auditoría Superior de la Federación y decidir sobre responsabilidades de servidores públicos.",
+  "preguntas_ejemplo": [
+    "¿Qué puede hacer la Cámara de Diputados con el presupuesto?",
+    "¿Cómo revisan las cuentas públicas?",
+    "¿Qué responsabilidades tienen los servidores públicos según este artículo?",
+    "¿Qué pasa si la Cámara no aprueba el Plan Nacional de Desarrollo?",
+    "¿Quién designa a los órganos de control en el gobierno?"
+  ]
+}

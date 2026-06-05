@@ -1,0 +1,36 @@
+{
+  "clave": "134",
+  "etiqueta": "Artículo 134.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5eb6976d0aaceee0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Administración de recursos públicos",
+  "temas": [
+    "eficiencia",
+    "transparencia",
+    "honradez",
+    "licitaciones",
+    "responsabilidad",
+    "evaluación de recursos",
+    "imparcialidad",
+    "propaganda institucional"
+  ],
+  "terminos_coloquiales": [
+    "cómo se manejan los recursos",
+    "control de gasto público",
+    "licitaciones públicas",
+    "responsabilidad de funcionarios",
+    "propaganda del gobierno"
+  ],
+  "resumen": "El artículo establece cómo deben administrarse los recursos económicos del gobierno con transparencia y eficacia, asegurando que se utilicen de manera responsable y sin duplicidades. También regula las licitaciones para asegurar las mejores condiciones en las contrataciones públicas.",
+  "preguntas_ejemplo": [
+    "¿Cómo se asegura que el dinero público se use bien?",
+    "¿Qué es una licitación pública y cómo funciona?",
+    "¿Cuáles son mis derechos sobre la transparencia del gasto público?",
+    "¿Los funcionarios pueden hacer propaganda personal con recursos del gobierno?",
+    "¿Qué pasa si un servidor público no cumple con la ley en el uso de recursos?"
+  ]
+}

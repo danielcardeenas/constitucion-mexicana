@@ -1,0 +1,34 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:07546022d6ab10fd",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Extranjería",
+  "temas": [
+    "derechos humanos",
+    "garantías",
+    "expulsión",
+    "asuntos políticos",
+    "detención",
+    "procedimiento administrativo"
+  ],
+  "terminos_coloquiales": [
+    "extranjeros",
+    "expulsión de extranjeros",
+    "derechos de extranjeros",
+    "no meterse en política",
+    "procedimientos para extranjeros"
+  ],
+  "resumen": "El artículo establece que las personas extranjeras tienen derechos humanos reconocidos por la Constitución, pero no pueden participar en asuntos políticos. Además, el Ejecutivo puede expulsarlas siguiendo un proceso legal.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tienen los extranjeros en México?",
+    "¿Puede el gobierno expulsar a un extranjero?",
+    "¿Los extranjeros pueden involucrarse en la política mexicana?",
+    "¿Cómo se regula la expulsión de extranjeros?",
+    "¿Qué pasa si un extranjero comete un delito en México?"
+  ]
+}

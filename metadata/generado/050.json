@@ -1,0 +1,33 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:283a5a9984c94381",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Congreso de la Unión",
+  "temas": [
+    "poder legislativo",
+    "Congreso",
+    "Cámaras",
+    "diputados",
+    "senadores"
+  ],
+  "terminos_coloquiales": [
+    "quiénes son los diputados",
+    "quiénes son los senadores",
+    "cómo funciona el Congreso",
+    "qué hace el Congreso",
+    "elección de diputados y senadores"
+  ],
+  "resumen": "El poder legislativo de México está compuesto por un Congreso que tiene dos Cámaras: una de diputados y otra de senadores. Esto establece cómo se organiza el Congreso.",
+  "preguntas_ejemplo": [
+    "¿Qué es el Congreso de la Unión?",
+    "¿Cuántas Cámaras tiene el Congreso?",
+    "¿Cuál es la función de los diputados?",
+    "¿Qué hacen los senadores?",
+    "¿Cómo se eligen los miembros del Congreso?"
+  ]
+}

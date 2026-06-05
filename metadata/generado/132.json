@@ -1,0 +1,32 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3209a465f9774558",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Jurisdicción de bienes inmuebles",
+  "temas": [
+    "jurisdicción",
+    "bienes inmuebles",
+    "poderes federales",
+    "gobierno",
+    "consentimiento legislativo"
+  ],
+  "terminos_coloquiales": [
+    "quién manda sobre los bienes del gobierno",
+    "bienes raíces del gobierno",
+    "manera en que se usan los terrenos",
+    "autoridad sobre propiedades públicas"
+  ],
+  "resumen": "Este artículo trata sobre cómo los bienes inmuebles que el gobierno usa para el servicio público deben estar bajo la jurisdicción de los poderes federales. Además, para que los nuevos bienes que se adquieran en un estado también estén bajo esta jurisdicción, se necesita el permiso de la legislatura del estado.",
+  "preguntas_ejemplo": [
+    "¿Quién controla los terrenos del gobierno?",
+    "¿Qué pasa con los bienes inmuebles del estado?",
+    "¿Se necesita permiso para usar propiedades públicas?",
+    "¿Cómo se gestionan las propiedades del gobierno?",
+    "¿Qué dice la ley sobre los cuarteles del gobierno?"
+  ]
+}

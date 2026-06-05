@@ -1,0 +1,39 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3o.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0e2741add8fe7fce",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho a la Educación",
+  "temas": [
+    "educación inicial",
+    "educación básica",
+    "educación media superior",
+    "educación superior",
+    "educación laica",
+    "inclusión educativa",
+    "derechos humanos",
+    "formación docente",
+    "acceso gratuito a educación",
+    "educación intercultural"
+  ],
+  "terminos_coloquiales": [
+    "tener derecho a estudiar",
+    "escuelas gratis",
+    "educación para todos",
+    "escuelas laicas",
+    "maestros capacitados",
+    "igualdad en educación"
+  ],
+  "resumen": "El Artículo 3o. establece que toda persona tiene derecho a la educación, que debe ser gratuita, laica e inclusiva. El Estado es responsable de garantizar acceso y calidad en todos los niveles educativos, desde la educación inicial hasta la superior.",
+  "preguntas_ejemplo": [
+    "¿Todos tienen derecho a la educación?",
+    "¿Qué tipo de educación ofrece el Estado?",
+    "¿La educación es gratuita en México?",
+    "¿Qué significa que la educación sea laica?",
+    "¿Cómo se asegura la inclusión en la educación?"
+  ]
+}

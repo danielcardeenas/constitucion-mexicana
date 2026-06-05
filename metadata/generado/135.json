@@ -1,0 +1,35 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:df8eae8eccc0246d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Reformas a la Constitución",
+  "temas": [
+    "adiciones",
+    "reformas",
+    "Congreso de la Unión",
+    "legislaturas estatales",
+    "voto",
+    "mayoría",
+    "inviolabilidad"
+  ],
+  "terminos_coloquiales": [
+    "cambios a la Constitución",
+    "modificaciones constitucionales",
+    "como se cambia la Constitución",
+    "aprobación de reformas",
+    "votación en el Congreso"
+  ],
+  "resumen": "Este artículo establece cómo se puede modificar la Constitución. Para que una reforma sea válida, debe ser aprobada por el Congreso con una mayoría específica y también por las legislaturas de los Estados.",
+  "preguntas_ejemplo": [
+    "¿Cómo se puede cambiar la Constitución?",
+    "¿Qué se necesita para reformar la Constitución?",
+    "¿Quién aprueba las reformas constitucionales?",
+    "¿Qué significa que la Constitución sea inviolable?",
+    "¿Cuántas votaciones se requieren para modificar la Constitución?"
+  ]
+}

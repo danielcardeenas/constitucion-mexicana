@@ -1,0 +1,37 @@
+{
+  "clave": "093",
+  "etiqueta": "Artículo 93.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6dab78460d1e28f9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Rendición de cuentas de Secretarios",
+  "temas": [
+    "transparencia",
+    "responsabilidad",
+    "informes gubernamentales",
+    "comisiones de investigación",
+    "poderes del Congreso",
+    "interpelaciones",
+    "dependencias del gobierno"
+  ],
+  "terminos_coloquiales": [
+    "control del gobierno",
+    "rendir cuentas",
+    "investigaciones del Congreso",
+    "que expliquen su trabajo",
+    "informes de secretarios",
+    "preguntas al gabinete"
+  ],
+  "resumen": "El artículo establece que los Secretarios del Despacho deben informar al Congreso sobre sus actividades. Las Cámaras pueden convocar a estos funcionarios y crear comisiones para investigar su trabajo y solicitar información.",
+  "preguntas_ejemplo": [
+    "¿Cómo informa el gobierno al Congreso?",
+    "¿Qué puede hacer el Congreso con los Secretarios?",
+    "¿Cómo se realizan las investigaciones en el gobierno?",
+    "¿Qué pasa si los Secretarios no responden?",
+    "¿Cuándo debe responder un Secretario al Congreso?",
+    "¿Qué facultades tiene el Congreso sobre las entidades paraestatales?"
+  ]
+}

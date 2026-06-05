@@ -1,0 +1,39 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f9d1d34872fd3795",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Propiedad de la tierra y recursos naturales",
+  "temas": [
+    "propiedad privada",
+    "expropiación",
+    "recursos naturales",
+    "agua",
+    "ejidos",
+    "desarrollo rural",
+    "indemnización",
+    "tierra indígena"
+  ],
+  "terminos_coloquiales": [
+    "quién puede ser dueño de la tierra",
+    "expropiación de terrenos",
+    "derechos sobre el agua",
+    "tierras ejidales",
+    "expropiación forzosa",
+    "recursos naturales de México",
+    "concesiones de tierra"
+  ],
+  "resumen": "Este artículo establece que la tierra y el agua en México son propiedad de la Nación, que puede otorgar derechos de uso a particulares. También regula la expropiación por interés público y asegura la protección de tierras ejidales y de comunidades indígenas.",
+  "preguntas_ejemplo": [
+    "¿Quién es el dueño de las tierras en México?",
+    "¿Qué es la expropiación y cómo funciona?",
+    "¿Los extranjeros pueden comprar tierras en México?",
+    "¿Qué derechos tienen los ejidatarios sobre la tierra?",
+    "¿Cómo se protege el agua en el país?",
+    "¿Qué se considera propiedad privada en México?"
+  ]
+}

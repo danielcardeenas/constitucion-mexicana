@@ -1,0 +1,33 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9fc70430b4a8904b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Informe del Presidente",
+  "temas": [
+    "informe de gobierno",
+    "sesiones ordinarias",
+    "análisis del informe",
+    "comparecencia de secretarios",
+    "Estrategia Nacional de Seguridad"
+  ],
+  "terminos_coloquiales": [
+    "informe del presidente",
+    "sesiones del congreso",
+    "análisis de gobierno",
+    "comparecencias",
+    "seguridad pública"
+  ],
+  "resumen": "El artículo establece que el Presidente de la República debe presentar un informe sobre el estado de la administración pública al iniciar el Congreso. Además, las cámaras pueden solicitar más información y citar a secretarios para que comparezcan.",
+  "preguntas_ejemplo": [
+    "¿Cuándo presenta el presidente su informe?",
+    "¿Qué ocurre si el congreso necesita más información del presidente?",
+    "¿Quién comparece ante el congreso durante el informe del presidente?",
+    "¿Qué es la Estrategia Nacional de Seguridad Pública?",
+    "¿Qué se hace con el informe presentado por el presidente?"
+  ]
+}

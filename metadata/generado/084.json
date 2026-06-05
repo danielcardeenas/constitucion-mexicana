@@ -1,0 +1,36 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d3602f0ffada79f1",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Suplencia del Presidente",
+  "temas": [
+    "falta absoluta del Presidente",
+    "presidente interino",
+    "presidente substituto",
+    "Congreso de la Unión",
+    "Comisión Permanente",
+    "convocatoria a elecciones",
+    "informe de labores"
+  ],
+  "terminos_coloquiales": [
+    "qué pasa si el Presidente se va",
+    "quién dirige si no hay Presidente",
+    "elecciones anticipadas",
+    "quién elige al nuevo Presidente",
+    "reemplazo del Presidente",
+    "Gobernación en funciones"
+  ],
+  "resumen": "Este artículo explica qué sucede si el Presidente de la República se va o muere. Un Secretario de Gobernación asume provisionalmente hasta que el Congreso elija un nuevo Presidente, ya sea interino o substituto, dependiendo de cuándo ocurra la falta. También menciona la necesidad de convocar a elecciones y los requisitos para hacerlo.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si el Presidente deja de serlo?",
+    "¿Quién se encarga del país si el Presidente se va?",
+    "¿Cómo elige el Congreso a un nuevo Presidente?",
+    "¿Qué debe hacer el Secretario de Gobernación en esa situación?",
+    "¿Qué pasa con las elecciones si se va el Presidente?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3de5c91f584db172",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Administración Pública Federal",
+  "temas": [
+    "administración pública",
+    "federalismo",
+    "entidades paraestatales",
+    "Ejecutivo Federal",
+    "relaciones gubernamentales"
+  ],
+  "terminos_coloquiales": [
+    "gobierno federal",
+    "órganos de gobierno",
+    "secretarías",
+    "funciones del gobierno",
+    "entidades públicas"
+  ],
+  "resumen": "El artículo establece que la Administración Pública Federal se organiza de manera centralizada y paraestatal, y que se regirá por leyes que definan su funcionamiento y relaciones. También menciona la función del Consejero Jurídico del Gobierno y la representación del Ejecutivo en asuntos federales.",
+  "preguntas_ejemplo": [
+    "¿Cómo está organizada la administración pública del país?",
+    "¿Qué son las entidades paraestatales?",
+    "¿Quién representa al gobierno en temas legales?",
+    "¿Qué papel juegan las secretarías en el gobierno federal?",
+    "¿Cómo se regulan las relaciones entre el Ejecutivo y las entidades paraestatales?"
+  ]
+}

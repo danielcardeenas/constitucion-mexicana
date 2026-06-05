@@ -1,0 +1,38 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f2ce67b1dedb3da5",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Proceso legislativo",
+  "temas": [
+    "proyecto de ley",
+    "Cámaras del Congreso",
+    "Poder Ejecutivo",
+    "votaciones",
+    "promulgación",
+    "observaciones",
+    "iniciativas de ley",
+    "reformas legislativas"
+  ],
+  "terminos_coloquiales": [
+    "cómo se hace una ley",
+    "cómo se aprueba un decreto",
+    "qué pasa con las leyes en México",
+    "quién promulga una ley",
+    "votaciones en el Congreso",
+    "proceso de las leyes"
+  ],
+  "resumen": "Este artículo explica cómo se discuten y aprueban los proyectos de ley y decretos en el Congreso. Detalla el procedimiento que deben seguir las Cámaras y el Poder Ejecutivo para que una propuesta se convierta en ley.",
+  "preguntas_ejemplo": [
+    "¿Cómo se aprueba un proyecto de ley en el Congreso?",
+    "¿Qué pasa si el Ejecutivo no está de acuerdo con una ley?",
+    "¿Cuánto tiempo tiene el Ejecutivo para observar un proyecto?",
+    "¿Qué sucede si una ley es desechada por una Cámara?",
+    "¿Quién puede presentar iniciativas de ley?",
+    "¿Cuáles son los pasos para que un decreto sea promulgado?"
+  ]
+}

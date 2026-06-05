@@ -1,0 +1,32 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e85d6b4f595cadb6",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Cámara de Diputados",
+  "temas": [
+    "representación",
+    "elección",
+    "diputados",
+    "suplentes"
+  ],
+  "terminos_coloquiales": [
+    "quién elige a los diputados",
+    "cómo se eligen los diputados",
+    "diputados y suplentes",
+    "elecciones en la cámara",
+    "representación en el congreso"
+  ],
+  "resumen": "La Cámara de Diputados está formada por representantes que son elegidos cada tres años. Cada diputado tiene un suplente que lo reemplaza si es necesario.",
+  "preguntas_ejemplo": [
+    "¿Cómo se eligen los diputados en México?",
+    "¿Qué es un suplente de diputado?",
+    "¿Cada cuánto se elige a la Cámara de Diputados?",
+    "¿Cuántos diputados hay en la Cámara?",
+    "¿Qué función tienen los diputados suplentes?"
+  ]
+}

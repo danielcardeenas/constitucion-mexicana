@@ -1,0 +1,33 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8afb739b3654e3d7",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Fuero y tribunales especiales",
+  "temas": [
+    "tribunales",
+    "fuero",
+    "leyes privativas",
+    "autoridad civil",
+    "jurisdicción militar"
+  ],
+  "terminos_coloquiales": [
+    "juicios especiales",
+    "fuero de guerra",
+    "juzgar a civiles",
+    "leyes para unos y otros",
+    "juicios militares"
+  ],
+  "resumen": "Este artículo prohíbe juzgar a personas por leyes que solo aplican a ciertos grupos o por tribunales especiales. También aclara que los militares no pueden juzgar a civiles en casos relacionados con delitos del orden militar.",
+  "preguntas_ejemplo": [
+    "¿Pueden los militares juzgar a un civil?",
+    "¿Qué es el fuero y a quiénes aplica?",
+    "¿Existen leyes especiales para ciertos grupos?",
+    "¿Quién tiene la autoridad para juzgar en caso de delitos militares?",
+    "¿Se puede tener juicios especiales en México?"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "clave": "126",
+  "etiqueta": "Artículo 126.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:684d7a67d5745d55",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Pagos del Presupuesto",
+  "temas": [
+    "presupuesto",
+    "pagos",
+    "ley",
+    "finanzas públicas"
+  ],
+  "terminos_coloquiales": [
+    "pagos permitidos",
+    "gastos legales",
+    "pago autorizado"
+  ],
+  "resumen": "Este artículo dice que no se puede hacer ningún pago que no esté incluido en el presupuesto o que no esté estipulado por una ley. Es decir, los pagos tienen que estar claramente autorizados.",
+  "preguntas_ejemplo": [
+    "¿Qué pagos se pueden hacer?",
+    "¿Se pueden hacer pagos sin estar en el presupuesto?",
+    "¿Qué dice la ley sobre los pagos de dinero?",
+    "¿Cómo se autorizan los gastos públicos?",
+    "¿Qué pasa si un pago no está en el presupuesto?"
+  ]
+}

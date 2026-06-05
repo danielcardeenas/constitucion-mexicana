@@ -1,0 +1,41 @@
+{
+  "clave": "122",
+  "etiqueta": "Artículo 122.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:df5aef480272f082",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Gobierno de la Ciudad de México",
+  "temas": [
+    "autonomía",
+    "organización política",
+    "Gobierno local",
+    "poderes públicos",
+    "Legislatura",
+    "Poder Ejecutivo",
+    "Poder Judicial",
+    "Alcaldías",
+    "fiscalización",
+    "derechos humanos"
+  ],
+  "terminos_coloquiales": [
+    "cómo funciona el gobierno de la ciudad",
+    "quién manda en la Ciudad de México",
+    "poderes de la ciudad",
+    "cómo se elige al jefe de gobierno",
+    "qué hace la legislatura",
+    "cómo se manejan los presupuestos",
+    "qué son las alcaldías"
+  ],
+  "resumen": "Este artículo habla sobre el gobierno de la Ciudad de México, cómo se organiza y qué poderes tiene. Establece que la ciudad tiene sus propias leyes y normas para asegurar el funcionamiento de su administración pública y la protección de derechos humanos.",
+  "preguntas_ejemplo": [
+    "¿Qué poderes existen en la Ciudad de México?",
+    "¿Cómo se elige al jefe de gobierno de la ciudad?",
+    "¿Qué hace la legislatura local?",
+    "¿Cuáles son las funciones de las alcaldías?",
+    "¿Cómo se maneja el presupuesto en la ciudad?",
+    "¿Qué autonomía tiene la Ciudad de México?"
+  ]
+}

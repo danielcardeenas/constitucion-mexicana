@@ -1,0 +1,38 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e93f3310d8ddc22e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Desarrollo Nacional",
+  "temas": [
+    "Rectoría del desarrollo",
+    "Desarrollo sustentable",
+    "Empleo",
+    "Distribución del ingreso",
+    "Competitividad",
+    "Estabilidad financiera",
+    "Sector público",
+    "Sector privado"
+  ],
+  "terminos_coloquiales": [
+    "Crecimiento económico",
+    "Oportunidades de trabajo",
+    "Mejores sueldos",
+    "Inversión estatal",
+    "Ayuda a empresas",
+    "Políticas de desarrollo",
+    "Apoyo a negocios"
+  ],
+  "resumen": "El Estado tiene la responsabilidad de promover un desarrollo económico que sea sostenible y equitativo, asegurando la creación de empleo y una distribución justa de la riqueza. Todos los sectores, tanto públicos como privados, deben colaborar para alcanzar estos objetivos y cuidar el medio ambiente.",
+  "preguntas_ejemplo": [
+    "¿Qué hace el Estado por el desarrollo económico?",
+    "¿Cómo se garantiza el empleo en el país?",
+    "¿Qué es la rectoría del desarrollo nacional?",
+    "¿Cuáles son las responsabilidades del sector público en la economía?",
+    "¿Cuánto influye el sector privado en el desarrollo nacional?"
+  ]
+}

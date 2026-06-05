@@ -1,0 +1,31 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:067dfba3355ea43e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Requisitos para Secretario de Estado",
+  "temas": [
+    "ciudadanía",
+    "derechos",
+    "edad",
+    "Secretario de Estado"
+  ],
+  "terminos_coloquiales": [
+    "quién puede ser Secretario de Estado",
+    "requisitos para el Secretario",
+    "edad mínima para Secretario",
+    "ciudadano mexicano para ser Secretario"
+  ],
+  "resumen": "Para ser Secretario de Estado en México, una persona debe ser ciudadano por nacimiento, estar en el ejercicio de sus derechos y tener al menos 25 años. Es una norma que establece quién puede ocupar ese cargo.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los requisitos para ser Secretario de Estado?",
+    "¿Qué edad necesito para ser Secretario de Estado?",
+    "¿Puedo ser Secretario si no soy ciudadano por nacimiento?",
+    "¿Qué derechos debo tener para ser Secretario?",
+    "¿Quién puede ocupar el cargo de Secretario de Estado?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bcc0073638cdccaa",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Traslación de Cámaras",
+  "temas": [
+    "sesiones",
+    "traslado",
+    "Cámaras",
+    "consenso",
+    "Ejecutivo",
+    "diferencias"
+  ],
+  "terminos_coloquiales": [
+    "dónde se reúnen las Cámaras",
+    "traslado de las Cámaras",
+    "suspensión de sesiones",
+    "acuerdo entre las Cámaras"
+  ],
+  "resumen": "El artículo establece que las Cámaras del Congreso deben reunirse en un solo lugar y no pueden trasladarse sin acuerdo mutuo. Si no se ponen de acuerdo en el traslado, el Ejecutivo decidirá. Además, ninguna Cámara puede suspender sus sesiones por más de tres días sin el consentimiento de la otra.",
+  "preguntas_ejemplo": [
+    "¿Cómo se decide el lugar de reunión de las Cámaras?",
+    "¿Qué pasa si las Cámaras no se ponen de acuerdo en el traslado?",
+    "¿Cuánto tiempo pueden suspender sus sesiones las Cámaras?",
+    "¿Qué rol tiene el Ejecutivo en las decisiones de traslado?",
+    "¿Se puede trasladar una Cámara sin el consentimiento de la otra?"
+  ]
+}

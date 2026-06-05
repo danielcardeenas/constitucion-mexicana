@@ -1,0 +1,35 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:601ac8a531281b5b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Reelección de legisladores",
+  "temas": [
+    "congreso",
+    "reelección",
+    "diputados",
+    "senadores",
+    "mandato",
+    "suplencia"
+  ],
+  "terminos_coloquiales": [
+    "senadores",
+    "diputados",
+    "elecciones",
+    "reelección",
+    "mandatos",
+    "períodos de elección"
+  ],
+  "resumen": "Los senadores y diputados no pueden volver a ser elegidos inmediatamente después de su mandato. Los suplentes pueden ser elegidos como propietarios si no han ejercido su función antes.",
+  "preguntas_ejemplo": [
+    "¿Pueden los senadores ser reelectos inmediatamente?",
+    "¿Qué pasa con los diputados suplentes?",
+    "¿Cuánto tiempo deben esperar los legisladores para ser reelectos?",
+    "¿Las personas que han sido suplentes pueden ser elegidas nuevamente?",
+    "¿Qué restricciones tienen los senadores y diputados sobre la reelección?"
+  ]
+}

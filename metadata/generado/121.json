@@ -1,0 +1,33 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8993898fd3f7481e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Fe y crédito de actos públicos",
+  "temas": [
+    "actos públicos",
+    "registros judiciales",
+    "validez de sentencias",
+    "estado civil",
+    "títulos profesionales"
+  ],
+  "terminos_coloquiales": [
+    "validez de documentos",
+    "actos legales",
+    "sentencias entre estados",
+    "credenciales de trabajo",
+    "registro civil"
+  ],
+  "resumen": "Este artículo regula cómo se reconocen y validan los actos públicos y registros de un estado en otros estados de México. También establece que las sentencias y los títulos profesionales deben ser respetados entre entidades federativas.",
+  "preguntas_ejemplo": [
+    "¿Los documentos de un estado son válidos en otro?",
+    "¿Cómo se aplican las sentencias de un estado en otro?",
+    "¿Qué ocurre con los títulos profesionales de distintas entidades?",
+    "¿Se reconocen los actos del estado civil en todo México?",
+    "¿Las leyes de un estado pueden aplicarse en otro?"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:96caf8e39aa1292c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Límites del Estado de Nayarit",
+  "temas": [
+    "extensión territorial",
+    "límites del estado",
+    "territorio",
+    "Nayarit"
+  ],
+  "terminos_coloquiales": [
+    "dónde termina Nayarit",
+    "tamaño de Nayarit",
+    "límites de Tepic",
+    "territorio de Nayarit"
+  ],
+  "resumen": "Este artículo define los límites y la extensión territorial del Estado de Nayarit, especificando que incluye actualmente el territorio de Tepic.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los límites del estado de Nayarit?",
+    "¿Qué territorio abarca Nayarit?",
+    "¿Nayarit incluye Tepic?",
+    "¿Qué extensión tiene el estado de Nayarit?"
+  ]
+}

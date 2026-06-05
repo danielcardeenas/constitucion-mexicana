@@ -1,0 +1,35 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5ab1bc274db7f265",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Remuneraciones de servidores públicos",
+  "temas": [
+    "remuneración",
+    "servidores públicos",
+    "presupuestos de egresos",
+    "jubilaciones y pensiones",
+    "transparencia",
+    "máximos salarios",
+    "condiciones laborales"
+  ],
+  "terminos_coloquiales": [
+    "sueldos de funcionarios",
+    "pagos a servidores públicos",
+    "jubilaciones",
+    "sueldos del gobierno",
+    "transparencia en salarios"
+  ],
+  "resumen": "Este artículo establece que los servidores públicos deben recibir un salario justo que sea proporcional a su trabajo y responsabilidades. También limita los sueldos para que nadie gane más que el presidente y regula las jubilaciones y pensiones.",
+  "preguntas_ejemplo": [
+    "¿Cuál es el salario máximo que puede recibir un servidor público?",
+    "¿Cómo se determina el sueldo de los funcionarios?",
+    "¿Se pueden dar jubilaciones a los servidores públicos?",
+    "¿Qué sucede si un funcionario gana más que su superior?",
+    "¿Cómo se publican los sueldos de los servidores públicos?"
+  ]
+}

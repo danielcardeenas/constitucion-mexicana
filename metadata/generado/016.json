@@ -1,0 +1,38 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:194a0c903311657c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Protección de derechos y procedimientos legales",
+  "temas": [
+    "detenciones",
+    "aprehensiones",
+    "protección de datos personales",
+    "cateos",
+    "comunicaciones privadas",
+    "derechos humanos",
+    "juicios",
+    "flagrancia"
+  ],
+  "terminos_coloquiales": [
+    "mis derechos",
+    "detención",
+    "proceso legal",
+    "datos personales",
+    "intervención de llamadas",
+    "cateo",
+    "protegido por la ley"
+  ],
+  "resumen": "Este artículo establece que nadie puede ser molestado en su persona o bienes sin un mandamiento escrito de la autoridad. También garantiza la protección de datos personales y regula las detenciones y cateos, protegiendo los derechos de las personas involucradas en procedimientos legales.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son mis derechos si me detienen?",
+    "¿Qué condiciones se necesitan para un cateo?",
+    "¿Cómo puedo proteger mis datos personales?",
+    "¿Qué pasa si alguien invade mi privacidad en comunicaciones?",
+    "¿Quién puede autorizar una detención?"
+  ]
+}

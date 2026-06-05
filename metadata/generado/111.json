@@ -1,0 +1,34 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:979c7e9b2180c5f7",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Procedimiento penal contra funcionarios",
+  "temas": [
+    "delitos federales",
+    "procedimiento penal",
+    "responsabilidad de funcionarios",
+    "sanciones económicas",
+    "separación del cargo"
+  ],
+  "terminos_coloquiales": [
+    "juicio a políticos",
+    "delitos de funcionarios",
+    "sanciones para diputados",
+    "procesos a senadores",
+    "responsabilidad de ministros"
+  ],
+  "resumen": "Este artículo establece cómo se deben llevar a cabo los procesos penales contra ciertos funcionarios públicos, incluido el Presidente de la República. Si se acusa a un funcionario, se requiere la aprobación de la Cámara de Diputados o Senadores para proceder.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un diputado comete un delito?",
+    "¿Cómo se juzga al Presidente de la República?",
+    "¿Los senadores pueden ser procesados penalmente?",
+    "¿Qué sucede si un magistrado es acusado de un delito?",
+    "¿Cuáles son las consecuencias de un juicio a un funcionario público?",
+    "¿Se pueden sancionar económicamente a los responsables de delitos?"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d7e540e460ce3a35",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos Laborales",
+  "temas": [
+    "trabajo digno",
+    "salario mínimo",
+    "jornada laboral",
+    "vacaciones",
+    "descansos",
+    "seguridad social",
+    "huelga",
+    "sindicatos",
+    "capacitación"
+  ],
+  "terminos_coloquiales": [
+    "derechos de los trabajadores",
+    "salario justo",
+    "horas de trabajo",
+    "vacaciones pagadas",
+    "dia de descanso",
+    "seguro social",
+    "paros y huelgas",
+    "sindicatos",
+    "cursos de capacitación"
+  ],
+  "resumen": "El Artículo 123 garantiza a todas las personas el derecho a un trabajo digno, justo y seguro, regulando aspectos como la jornada laboral, el salario mínimo y otros derechos laborales. También establece la protección de ciertas condiciones laborales, así como la posibilidad de organizarse en sindicatos y hacer huelgas.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo como trabajador?",
+    "¿Cuál es el salario mínimo que debo recibir?",
+    "¿Cuántas horas debo trabajar a la semana?",
+    "¿Tengo derecho a vacaciones?",
+    "¿Qué debo hacer si no me pagan mi salario?",
+    "¿Puedo hacer huelga si no estoy de acuerdo con mi trabajo?"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "109",
+  "etiqueta": "Artículo 109.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:94b0d325c1e093ac",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Responsabilidades de servidores públicos",
+  "temas": [
+    "responsabilidad administrativa",
+    "juicio político",
+    "hechos de corrupción",
+    "sanciones económicas",
+    "indemnización",
+    "fiscalización",
+    "órganos de control"
+  ],
+  "terminos_coloquiales": [
+    "castigo a servidores públicos",
+    "corrupción en el gobierno",
+    "mala actuación de funcionarios",
+    "denunciar a un funcionario",
+    "sanciones a funcionarios",
+    "problemas de corrupción"
+  ],
+  "resumen": "Este artículo establece cómo se sanciona a los servidores públicos y a particulares que incumplen con sus responsabilidades frente al Estado, incluyendo juicios políticos y sanciones por actos de corrupción. También menciona que los ciudadanos pueden denunciar estas conductas.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un servidor público roba dinero?",
+    "¿Cómo se sanciona a un funcionario por corrupción?",
+    "¿Qué es el juicio político?",
+    "¿Únicamente los funcionarios pueden ser castigados por corrupción?",
+    "¿Qué puede hacer un ciudadano si ve corrupción en el gobierno?"
+  ]
+}

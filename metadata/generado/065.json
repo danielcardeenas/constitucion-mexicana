@@ -1,0 +1,32 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:58cf52a0d800c210",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Períodos de sesiones del Congreso",
+  "temas": [
+    "Congreso",
+    "sesiones ordinarias",
+    "iniciativas de ley",
+    "resolución de asuntos",
+    "Ley Orgánica"
+  ],
+  "terminos_coloquiales": [
+    "reuniones del Congreso",
+    "sesiones del Congreso",
+    "cuando se reúne el Congreso",
+    "debates del Congreso"
+  ],
+  "resumen": "El Congreso se reúne en dos periodos de sesiones cada año para discutir y votar iniciativas de ley y otros asuntos. Durante estas sesiones, también se enfocan en los temas que su Ley Orgánica les indique.",
+  "preguntas_ejemplo": [
+    "¿Cuándo se reúne el Congreso cada año?",
+    "¿Qué hace el Congreso durante sus sesiones ordinarias?",
+    "¿Cómo se manejan las iniciativas de ley en el Congreso?",
+    "¿Qué asuntos prioritarios trata el Congreso en sus sesiones?",
+    "¿Cuántos periodos de sesiones tiene el Congreso?"
+  ]
+}

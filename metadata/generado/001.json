@@ -2,47 +2,36 @@
   "clave": "001",
   "etiqueta": "Artículo 1o.",
   "_generado": {
-    "modelo": "claude-sonnet-4-6 (muestra vía subagente)",
+    "modelo": "openai:gpt-4o-mini",
     "schema": 1,
     "hash_texto": "sha256:82102d949c5f7348",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derechos humanos y no discriminación",
+  "denominacion_comun": "Derechos humanos",
   "temas": [
     "Derechos humanos",
-    "Tratados internacionales de derechos humanos",
-    "Garantías de protección",
-    "Principio pro persona",
-    "Obligaciones de las autoridades",
-    "Prohibición de la esclavitud",
-    "Prohibición de la discriminación",
-    "Igualdad y dignidad humana"
+    "Tratados internacionales",
+    "Esclavitud",
+    "Discriminación",
+    "Protección de derechos",
+    "Obligaciones del Estado",
+    "Libertades",
+    "Dignidad humana"
   ],
   "terminos_coloquiales": [
-    "derechos humanos",
-    "mis derechos",
-    "no discriminación",
-    "discriminación",
-    "igualdad",
-    "trato igual",
-    "esclavitud prohibida",
-    "libertad",
-    "tratados internacionales",
-    "derechos de todas las personas",
-    "racismo",
-    "discriminación por género",
-    "discriminación por edad",
-    "discriminación por religión",
-    "preferencias sexuales",
-    "dignidad"
+    "Derechos de las personas",
+    "Derecho a la igualdad",
+    "Derechos básicos",
+    "Libre expresión",
+    "Prohibición de la esclavitud",
+    "No a la discriminación"
   ],
-  "resumen": "Establece que todas las personas en México gozan de los derechos humanos reconocidos en la Constitución y en los tratados internacionales, así como de las garantías para protegerlos, interpretándolos siempre de la forma más favorable a la persona. Obliga a todas las autoridades a promover, respetar, proteger y garantizar esos derechos, prohíbe la esclavitud y prohíbe toda discriminación que atente contra la dignidad humana.",
+  "resumen": "Todas las personas en México tienen derechos humanos que deben ser protegidos. Está prohibida la esclavitud y la discriminación, y el Estado debe garantizar estos derechos y proteger a todos sin importar sus características personales.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tengo como persona en México?",
-    "¿La Constitución prohíbe la discriminación?",
-    "¿Está prohibida la esclavitud en México?",
-    "¿Pueden discriminarme por mi género, edad o religión?",
-    "¿Qué obligaciones tienen las autoridades respecto a mis derechos humanos?",
-    "¿Los tratados internacionales de derechos humanos aplican en México?"
+    "¿Qué derechos tengo como ciudadano mexicano?",
+    "¿Está prohibida la discriminación en México?",
+    "¿Qué hacer si mis derechos humanos son violados?",
+    "¿Qué significa que el Estado deba proteger mis derechos?",
+    "¿Qué pasa si alguien es esclavo en otro país y llega a México?"
   ]
 }

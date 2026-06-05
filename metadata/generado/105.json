@@ -1,0 +1,35 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5fb1e2d6b43aad1d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Controversias y acciones de inconstitucionalidad",
+  "temas": [
+    "Suprema Corte",
+    "Controversias constitucionales",
+    "Acciones de inconstitucionalidad",
+    "Normas generales",
+    "Derechos humanos",
+    "Leyes electorales"
+  ],
+  "terminos_coloquiales": [
+    "juicios de leyes",
+    "pleitos legales",
+    "disputas constitucionales",
+    "recursos legales",
+    "problemas de leyes",
+    "derechos en la ley"
+  ],
+  "resumen": "Este artículo establece que la Suprema Corte de Justicia se encarga de resolver controversias sobre la constitucionalidad de normas generales. También detalla cómo se pueden presentar acciones de inconstitucionalidad y quiénes pueden hacerlo.",
+  "preguntas_ejemplo": [
+    "¿Qué hace la Suprema Corte con las controversias constitucionales?",
+    "¿Quién puede presentar una acción de inconstitucionalidad?",
+    "¿Qué pasa si una norma es declarada inconstitucional?",
+    "¿Cómo se resuelven los conflictos entre la Federación y los estados?",
+    "¿Se pueden impugnar leyes electorales ante la Suprema Corte?"
+  ]
+}

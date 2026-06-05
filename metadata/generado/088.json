@@ -1,0 +1,32 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5e7d5ab68d6fd728",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Ausencias del Presidente",
+  "temas": [
+    "presidencia",
+    "ausencias",
+    "Cámara de Senadores",
+    "Comisión Permanente",
+    "permisos"
+  ],
+  "terminos_coloquiales": [
+    "cuando el presidente se va",
+    "licencia del presidente",
+    "salida del presidente",
+    "¿qué pasa si el presidente no está?"
+  ],
+  "resumen": "El Presidente puede ausentarse del país por hasta siete días sin permiso, pero debe informar a la Cámara de Senadores. Si la ausencia es más larga, necesita autorización.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo puede estar ausente el presidente?",
+    "¿Necesita permiso el presidente para salir del país?",
+    "¿A quién le tiene que informar el presidente si se va?",
+    "¿Qué sucede si el presidente se ausenta más de una semana?",
+    "¿Qué dice la ley sobre las ausencias del presidente?"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8152b89f695e5b8c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Prohibición de penas crueles",
+  "temas": [
+    "penas de muerte",
+    "mutilación",
+    "confiscación de bienes",
+    "multas excesivas",
+    "proporcionalidad de penas",
+    "extinción de dominio",
+    "derechos de defensa",
+    "delitos de corrupción"
+  ],
+  "terminos_coloquiales": [
+    "castigos severos",
+    "penas inusuales",
+    "robo de bienes",
+    "quitar propiedades",
+    "defensa legal",
+    "delitos graves"
+  ],
+  "resumen": "Este artículo prohíbe castigos extremos y asegura que las penas sean proporcionales a los delitos. También regula la confiscación de bienes y la extinción de dominio en casos de delitos graves.",
+  "preguntas_ejemplo": [
+    "¿Qué castigos están prohibidos en México?",
+    "¿Es legal confiscación de propiedades?",
+    "¿Cómo se determina la pena en un juicio?",
+    "¿Qué significa extinción de dominio?",
+    "¿Qué hacer si me quitan mis bienes?"
+  ]
+}

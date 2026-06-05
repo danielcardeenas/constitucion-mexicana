@@ -1,0 +1,40 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3249ab380d9e59e9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos de la ciudadanía",
+  "temas": [
+    "voto",
+    "candidatos",
+    "asociación política",
+    "revocación de mandato",
+    "consultas populares",
+    "derecho de petición",
+    "participación ciudadana",
+    "empleos públicos",
+    "defensa de la República"
+  ],
+  "terminos_coloquiales": [
+    "cómo votar",
+    "ser candidato",
+    "hacer una consulta popular",
+    "revocar a un presidente",
+    "derecho a peticionar",
+    "participación en política",
+    "empleos en el gobierno"
+  ],
+  "resumen": "El artículo establece los derechos de los ciudadanos, como votar, ser votados, participar en consultas populares y solicitar revocaciones de mandato. También garantiza la libertad de asociación y el derecho de petición en asuntos públicos.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo como ciudadano?",
+    "¿Cómo puedo votar en elecciones?",
+    "¿Qué es una consulta popular?",
+    "¿Puedo revocar al presidente?",
+    "¿Cómo me puedo postular para un cargo público?",
+    "¿Qué es el derecho de petición?"
+  ]
+}

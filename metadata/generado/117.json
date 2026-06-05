@@ -1,0 +1,35 @@
+{
+  "clave": "117",
+  "etiqueta": "Artículo 117.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:69a00085280d1f35",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Limitaciones de los Estados",
+  "temas": [
+    "tratados",
+    "moneda",
+    "impuestos",
+    "entrada y salida de mercancías",
+    "deuda pública",
+    "gasto corriente",
+    "prohibiciones fiscales"
+  ],
+  "terminos_coloquiales": [
+    "gobernadores no pueden hacer tratados",
+    "Estados no pueden imprimir dinero",
+    "no hay impuestos locales a mercancías",
+    "no pueden endeudarse sin control",
+    "los estados no pueden cobrar impuestos raros"
+  ],
+  "resumen": "El artículo establece qué acciones no pueden realizar los estados, como hacer tratados, acuñar moneda, imponer impuestos a mercancías o endeudarse sin control. También se regula cómo deben manejar sus finanzas y deudas.",
+  "preguntas_ejemplo": [
+    "¿Pueden los estados hacer tratados con otros países?",
+    "¿Los estados pueden imprimir su propia moneda?",
+    "¿Los estados pueden cobrar impuestos por mercancías que pasan por su territorio?",
+    "¿Qué limitaciones tienen los estados sobre deudas?",
+    "¿Los estados pueden dar préstamos para gastos corrientes?"
+  ]
+}

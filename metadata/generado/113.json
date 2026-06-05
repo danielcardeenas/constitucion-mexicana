@@ -1,0 +1,37 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:17f7f78b2063b2f4",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Sistema Nacional Anticorrupción",
+  "temas": [
+    "prevención de la corrupción",
+    "sanciones administrativas",
+    "fiscalización de recursos públicos",
+    "transparencia",
+    "rendición de cuentas",
+    "coordinación gubernamental",
+    "comité ciudadano"
+  ],
+  "terminos_coloquiales": [
+    "lucha contra la corrupción",
+    "control de recursos",
+    "quién supervisa el gasto público",
+    "qué hace el sistema anticorrupción",
+    "sanciones por corrupción",
+    "recomendaciones anticorrupción"
+  ],
+  "resumen": "El Sistema Nacional Anticorrupción se encarga de coordinar a las autoridades para prevenir y sancionar la corrupción y controlar los recursos públicos. Tiene un Comité Coordinador y un Comité de Participación Ciudadana que ayudan a promover la transparencia y la rendición de cuentas.",
+  "preguntas_ejemplo": [
+    "¿Qué es el Sistema Nacional Anticorrupción?",
+    "¿Cómo se combate la corrupción en México?",
+    "¿Quiénes forman parte del Comité Coordinador?",
+    "¿Cuáles son las funciones del Comité de Participación Ciudadana?",
+    "¿Qué hace el informe anual del Sistema Nacional Anticorrupción?",
+    "¿Qué son las recomendaciones no vinculantes?"
+  ]
+}

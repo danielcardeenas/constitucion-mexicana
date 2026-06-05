@@ -1,0 +1,36 @@
+{
+  "clave": "089",
+  "etiqueta": "Artículo 89.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8cda1a2d0c8f822a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades del Presidente",
+  "temas": [
+    "promulgación de leyes",
+    "nombramientos",
+    "seguridad nacional",
+    "política exterior",
+    "gobierno de coalición",
+    "tratados internacionales",
+    "indultos",
+    "puertos y aduanas"
+  ],
+  "terminos_coloquiales": [
+    "poderes del presidente",
+    "que hace el presidente",
+    "funciones del presidente",
+    "lo que puede hacer el presidente",
+    "nombramientos del presidente"
+  ],
+  "resumen": "El artículo describe las facultades que tiene el Presidente de la República, como promulgar leyes, hacer nombramientos, proteger la seguridad nacional y dirigir la política exterior. También menciona la posibilidad de un gobierno de coalición y su papel en los tratados internacionales.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son las responsabilidades del presidente?",
+    "¿Qué puede hacer el presidente en términos de seguridad?",
+    "¿Cómo se manejan los nombramientos de funcionarios?",
+    "¿Qué poder tiene el presidente sobre la política exterior?",
+    "¿Qué es un gobierno de coalición?"
+  ]
+}

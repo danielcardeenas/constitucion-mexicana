@@ -1,0 +1,31 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:993d52bcd75f3b37",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "ocupación de diputados y senadores",
+  "temas": [
+    "funciones públicas",
+    "compromisos legislativos",
+    "licencias",
+    "sanciones"
+  ],
+  "terminos_coloquiales": [
+    "trabajos de políticos",
+    "empleos de diputados",
+    "licencia para trabajar",
+    "sanción por incumplimiento"
+  ],
+  "resumen": "Los diputados y senadores no pueden tener otros trabajos que paguen durante su mandato sin un permiso. Si deciden trabajar en otro lugar, deben dejar su función como representantes. Si no cumplen con esta regla, pueden perder su puesto.",
+  "preguntas_ejemplo": [
+    "¿Pueden los diputados tener otro trabajo?",
+    "¿Qué pasa si un senador no pide permiso para trabajar en otro lado?",
+    "¿Cuáles son las reglas para los suplentes?",
+    "¿Qué consecuencias hay por infringir esta norma?",
+    "¿Necesitan los diputados una licencia para otros empleos?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "clave": "120",
+  "etiqueta": "Artículo 120.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6da972edae0f7986",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Cumplimiento de leyes federales",
+  "temas": [
+    "poderes ejecutivos",
+    "entidades federativas",
+    "publicación de leyes",
+    "cumplimiento de leyes"
+  ],
+  "terminos_coloquiales": [
+    "lo que deben hacer los gobernadores",
+    "publicar leyes federales",
+    "leyes en los estados",
+    "cumplimiento legal"
+  ],
+  "resumen": "Los gobernadores de los estados deben dar a conocer y seguir las leyes que vienen a nivel federal. Esto asegura que las normas se apliquen en todo el país.",
+  "preguntas_ejemplo": [
+    "¿Qué deben hacer los gobernadores respecto a las leyes federales?",
+    "¿Cómo se aseguran los estados de seguir las leyes del país?",
+    "¿Qué pasa si un estado no publica las leyes federales?",
+    "¿Los gobernadores tienen responsabilidad sobre las leyes federales?",
+    "¿Qué implica la obligación de los poderes ejecutivos?"
+  ]
+}

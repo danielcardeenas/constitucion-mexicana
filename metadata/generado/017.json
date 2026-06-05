@@ -1,0 +1,37 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ce1798b828b36b3c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho a la Justicia",
+  "temas": [
+    "justicia",
+    "debido proceso",
+    "defensoría pública",
+    "acciones colectivas",
+    "mecanismos alternativos de resolución",
+    "sentencias",
+    "costas judiciales"
+  ],
+  "terminos_coloquiales": [
+    "recibir justicia",
+    "abogado gratis",
+    "juicio justo",
+    "resolver problemas legales",
+    "sin costo en juicio",
+    "no a las deudas civiles",
+    "defensor público"
+  ],
+  "resumen": "Este artículo establece que nadie debe hacerse justicia por su cuenta y garantiza el derecho a una justicia pronta y gratuita. También prohíbe las deudas civiles que lleven a la prisión y asegura un servicio de defensoría pública de calidad.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo obtener justicia sin costo?",
+    "¿Puedo ir a prisión por deudas civiles?",
+    "¿Qué hacer si no me resuelven mi juicio a tiempo?",
+    "¿Qué es la defensoría pública y cómo la obtengo?",
+    "¿Qué son las acciones colectivas en tribunales?"
+  ]
+}
