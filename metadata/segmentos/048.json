@@ -1,0 +1,34 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48.",
+  "titulo": "Título Segundo",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 20-01-1960",
+      "fechas": [
+        "1960-01-20"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "048.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48. › párrafo 1",
+      "texto": "Las islas, los cayos y arrecifes de los mares adyacentes que pertenezcan al territorio nacional, la plataforma continental, los zócalos submarinos de las islas, de los cayos y arrecifes, los mares territoriales, las aguas marítimas interiores y el espacio situado sobre el territorio nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas islas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados."
+    },
+    {
+      "id": "048.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48. › párrafo 2",
+      "texto": "De la División de Poderes"
+    }
+  ]
+}

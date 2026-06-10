@@ -1,0 +1,26 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133.",
+  "titulo": "Título Séptimo",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 18-01-1934, 29-01-2016",
+      "fechas": [
+        "1934-01-18",
+        "2016-01-29"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133. › párrafo 1",
+      "texto": "Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y todos los tratados que estén de acuerdo con la misma, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema de toda la Unión. Los jueces de cada entidad federativa se arreglarán a dicha Constitución, leyes y tratados, a pesar de las disposiciones en contrario que pueda haber en las Constituciones o leyes de las entidades federativas."
+    }
+  ]
+}

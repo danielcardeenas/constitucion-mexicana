@@ -1,0 +1,26 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 21-10-1966, 29-08-2008",
+      "fechas": [
+        "1966-10-21",
+        "2008-08-29"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "088.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88. › párrafo 1",
+      "texto": "El Presidente de la República podrá ausentarse del territorio nacional hasta por siete días, informando previamente de los motivos de la ausencia a la Cámara de Senadores o a la Comisión Permanente en su caso, así como de los resultados de las gestiones realizadas. En ausencias mayores a siete días, se requerirá permiso de la Cámara de Senadores o de la Comisión Permanente."
+    }
+  ]
+}

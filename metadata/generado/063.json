@@ -1,0 +1,37 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a18e0d206e946176",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Asistencia de legisladores",
+  "temas": [
+    "quórum",
+    "vacantes",
+    "suplentes",
+    "responsabilidad",
+    "elecciones extraordinarias",
+    "presentación de diputados",
+    "senadores",
+    "principio de representación"
+  ],
+  "terminos_coloquiales": [
+    "¿Qué pasa si no se presentan los diputados?",
+    "vacantes en el congreso",
+    "falta de quórum",
+    "suplentes en el congreso",
+    "sanciones a legisladores",
+    "elecciones para cubrir vacantes"
+  ],
+  "resumen": "Los legisladores deben presentarse para que las Cámaras funcionen correctamente. Si no asisten, se les llamará a los suplentes y pueden enfrentar sanciones. También se regulan las elecciones extraordinarias para cubrir vacantes.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un diputado no se presenta a la sesión?",
+    "¿Cómo se cubren las vacantes en el Congreso?",
+    "¿Qué se hace si no hay quórum en la Cámara?",
+    "¿Qué sanciones enfrentan los legisladores por no presentarse?",
+    "¿Cómo se eligen a los suplentes en el Congreso?"
+  ]
+}

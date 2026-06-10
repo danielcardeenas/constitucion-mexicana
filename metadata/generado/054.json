@@ -1,0 +1,36 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0f0713ca3a16cd60",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Elección de diputados",
+  "temas": [
+    "diputados",
+    "partidos políticos",
+    "representación proporcional",
+    "votación",
+    "circunscripciones",
+    "listados regionales"
+  ],
+  "terminos_coloquiales": [
+    "cómo se eligen los diputados",
+    "partidos en las elecciones",
+    "diputados por representación",
+    "cuántos diputados tiene un partido",
+    "votación y representación",
+    "candidatos a diputados"
+  ],
+  "resumen": "Este artículo establece cómo se eligen diputados en representación proporcional y las condiciones que deben cumplir los partidos políticos para recibir estos diputados. También regula la cantidad máxima de diputados que puede tener un partido y cómo se distribuyen las diputaciones restantes.",
+  "preguntas_ejemplo": [
+    "¿Cómo se eligen los diputados en México?",
+    "¿Qué requisitos deben cumplir los partidos para obtener diputados?",
+    "¿Cuántos diputados puede tener un partido político?",
+    "¿Qué es la representación proporcional en las elecciones?",
+    "¿Cómo se distribuyen los diputados entre los partidos?",
+    "¿Qué pasa si un partido no cumple con el porcentaje de votación?"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a839ca5334ad9008",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Planeación democrática",
+  "temas": [
+    "desarrollo nacional",
+    "planeación democrática",
+    "información estadística",
+    "participación ciudadana",
+    "evaluación de programas",
+    "pobreza",
+    "transparencia",
+    "gobernanza"
+  ],
+  "terminos_coloquiales": [
+    "plan del país",
+    "cómo se planea el desarrollo",
+    "información de la economía",
+    "datos oficiales",
+    "cómo se mide la pobreza"
+  ],
+  "resumen": "El artículo establece que el Estado debe organizar un sistema de planeación democrática que involucre a la sociedad. También menciona la creación de un sistema nacional de información estadística que debe ser utilizado de manera oficial para evaluar programas y medir la pobreza.",
+  "preguntas_ejemplo": [
+    "¿Cómo se organiza el desarrollo del país?",
+    "¿Qué es la planeación democrática?",
+    "¿Quién mide la pobreza en México?",
+    "¿Para qué se utiliza la información estadística?",
+    "¿Cómo se garantiza la participación ciudadana en la planeación?"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f93ac38882b2c5e6",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Sesiones Extraordinarias del Congreso",
+  "temas": [
+    "Congreso",
+    "Cámaras",
+    "Sesiones",
+    "Comisión Permanente",
+    "Convocatorias"
+  ],
+  "terminos_coloquiales": [
+    "reuniones del Congreso",
+    "sesiones extraordinarias",
+    "convocatorias del Congreso",
+    "asuntos del Congreso"
+  ],
+  "resumen": "El Congreso se puede reunir en sesiones extraordinarias cuando la Comisión Permanente lo convoque. Solo se discutirán los temas que se mencionen en la convocatoria.",
+  "preguntas_ejemplo": [
+    "¿Cuándo se reúnen las Cámaras en sesiones extraordinarias?",
+    "¿Quién convoca las sesiones extraordinarias del Congreso?",
+    "¿Qué temas se tratan en las sesiones extraordinarias?",
+    "¿Es lo mismo una sesión ordinaria que una extraordinaria?",
+    "¿Qué es la Comisión Permanente?"
+  ]
+}

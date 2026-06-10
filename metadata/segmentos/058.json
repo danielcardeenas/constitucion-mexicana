@@ -1,0 +1,27 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 29-04-1933, 14-02-1972, 29-07-1999",
+      "fechas": [
+        "1933-04-29",
+        "1972-02-14",
+        "1999-07-29"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58. › párrafo 1",
+      "texto": "Para ser senador se requieren los mismos requisitos que para ser diputado, excepto el de la edad, que será la de 25 años cumplidos el día de la elección."
+    }
+  ]
+}

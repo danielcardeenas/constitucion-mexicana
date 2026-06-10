@@ -1,0 +1,34 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4132b1200e99bd4f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "División de Poderes",
+  "temas": [
+    "Supremo Poder",
+    "Poder Legislativo",
+    "Poder Ejecutivo",
+    "Poder Judicial",
+    "Facultades extraordinarias",
+    "Separación de poderes"
+  ],
+  "terminos_coloquiales": [
+    "poderes del gobierno",
+    "quién manda en el país",
+    "división del gobierno",
+    "responsabilidades del gobierno",
+    "quién hace las leyes"
+  ],
+  "resumen": "El artículo establece que el poder del gobierno mexicano se divide en tres ramas: el Legislativo, el Ejecutivo y el Judicial. No se permite que una sola persona controle más de un poder, a excepción de casos específicos de facultades extraordinarias para el Ejecutivo.",
+  "preguntas_ejemplo": [
+    "¿Cómo se organizan los poderes del gobierno en México?",
+    "¿Quién puede reunirse en el poder ejecutivo?",
+    "¿Qué son las facultades extraordinarias?",
+    "¿Qué pasa si un poder se une a otro?",
+    "¿Cuáles son los tres poderes del gobierno?"
+  ]
+}

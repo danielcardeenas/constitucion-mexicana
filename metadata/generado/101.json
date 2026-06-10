@@ -1,0 +1,37 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:55f61fd12609eafb",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Inhabilitación de jueces y magistrados",
+  "temas": [
+    "Suprema Corte de Justicia",
+    "Magistrados de Circuito",
+    "Jueces de Distrito",
+    "Impedimentos laborales",
+    "Sanciones laborales",
+    "Pérdida de cargo",
+    "Funciones judiciales",
+    "Cargos no remunerados"
+  ],
+  "terminos_coloquiales": [
+    "jueces",
+    "magistrados",
+    "suprema corte",
+    "trabajo de jueces",
+    "prohibiciones para jueces",
+    "sanciones a magistrados"
+  ],
+  "resumen": "Este artículo establece que jueces y magistrados no pueden aceptar ciertos empleos después de dejar su cargo y prohíbe que actúen como abogados en juicios por un tiempo específico. También se mencionan las sanciones por incumplir estas normas.",
+  "preguntas_ejemplo": [
+    "¿Qué trabajos no pueden hacer los jueces después de dejar su cargo?",
+    "¿Cuánto tiempo no pueden representar a nadie los magistrados?",
+    "¿Qué sucede si un juez incumple estas prohibiciones?",
+    "¿Puede un magistrado trabajar en una ONG después de renunciar?",
+    "¿Qué sanciones hay para los jueces que violan las normas de este artículo?"
+  ]
+}

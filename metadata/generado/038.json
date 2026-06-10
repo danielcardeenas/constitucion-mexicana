@@ -1,0 +1,37 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:56642bcdbd930eb8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Suspensión de derechos ciudadanos",
+  "temas": [
+    "suspensión de derechos",
+    "proceso criminal",
+    "pena corporal",
+    "vagancia",
+    "deudores alimentarios",
+    "violencia de género",
+    "justicia"
+  ],
+  "terminos_coloquiales": [
+    "perder derechos",
+    "suspenden mis derechos",
+    "no puedo votar",
+    "problemas legales",
+    "ser deudor alimentario",
+    "ser encarcelado"
+  ],
+  "resumen": "El artículo establece las condiciones bajo las cuales se pueden suspender los derechos de los ciudadanos, como estar en un proceso criminal o ser declarado deudor alimentario. Estas suspensiones pueden afectar la capacidad de candidaturas y empleos públicos.",
+  "preguntas_ejemplo": [
+    "¿Cuándo se me pueden suspender mis derechos como ciudadano?",
+    "¿Qué pasa si estoy en un proceso penal?",
+    "¿Cómo afecta ser deudor alimentario a mis derechos?",
+    "¿Puedo votar si tengo una pena corporal?",
+    "¿Qué delitos provocan la suspensión de mis derechos?",
+    "¿Cuánto tiempo pueden durar suspendidos mis derechos?"
+  ]
+}

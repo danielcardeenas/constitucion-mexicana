@@ -1,0 +1,31 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:365724ef2cccc165",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Requisitos para ser Presidente",
+  "temas": [
+    "ciudadanía",
+    "edad",
+    "residencia",
+    "impedimentos"
+  ],
+  "terminos_coloquiales": [
+    "qué se necesita para ser Presidente",
+    "requisitos para la candidatura presidencial",
+    "quién puede ser Presidente",
+    "condiciones para ser Presidente de México"
+  ],
+  "resumen": "Para ser Presidente de México, debes ser ciudadano por nacimiento, tener al menos 35 años, vivir en el país durante el año previo a la elección y cumplir con ciertos impedimentos como no ser miembro del clero o estar en servicio activo en las fuerzas armadas. También hay restricciones sobre vínculos familiares con el actual Presidente.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los requisitos para ser Presidente?",
+    "¿Qué edad se necesita para postularse a la presidencia?",
+    "¿Es necesario haber vivido en México para ser Presidente?",
+    "¿Quién no puede ser candidato a Presidente?",
+    "¿Cuáles son los impedimentos para ser Presidente?"
+  ]
+}

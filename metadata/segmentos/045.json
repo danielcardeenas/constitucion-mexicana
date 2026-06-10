@@ -1,0 +1,30 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45.",
+  "titulo": "Título Segundo",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 07-02-1931, 19-12-1931, 22-03-1934, 16-01-1935, 16-01-1952, 08-10-1974",
+      "fechas": [
+        "1931-02-07",
+        "1931-12-19",
+        "1934-03-22",
+        "1935-01-16",
+        "1952-01-16",
+        "1974-10-08"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45. › párrafo 1",
+      "texto": "Los Estados de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos."
+    }
+  ]
+}

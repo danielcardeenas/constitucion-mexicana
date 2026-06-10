@@ -1,0 +1,31 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a2dc84479327c0cd",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Períodos de sesiones",
+  "temas": [
+    "períodos de sesiones",
+    "Cámaras del Congreso",
+    "Presidencia",
+    "decisiones legislativas"
+  ],
+  "terminos_coloquiales": [
+    "sesiones del Congreso",
+    "tiempo de sesiones",
+    "Cámaras en desacuerdo",
+    "decisiones del Presidente"
+  ],
+  "resumen": "Este artículo habla sobre la duración de los períodos de sesiones ordinarias en el Congreso. También indica qué sucede si las Cámaras no se ponen de acuerdo para terminar las sesiones.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo duran las sesiones del Congreso?",
+    "¿Qué pasa si las Cámaras no se ponen de acuerdo?",
+    "¿Quién decide al final sobre el tiempo de las sesiones?",
+    "¿Hasta cuándo pueden extenderse las sesiones ordinarias?",
+    "¿Cuándo empieza el primer período de sesiones?"
+  ]
+}

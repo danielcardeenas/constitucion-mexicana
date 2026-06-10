@@ -1,0 +1,31 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ba9b946329ec2b8b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Extradición de reos",
+  "temas": [
+    "derechos humanos",
+    "extradición",
+    "delitos políticos",
+    "esclavitud"
+  ],
+  "terminos_coloquiales": [
+    "sacar a alguien del país",
+    "enviar delincuente a otro país",
+    "trapear con reos políticos",
+    "no se puede extraditar"
+  ],
+  "resumen": "Este artículo dice que no se pueden hacer tratados para extraditar a personas que son reos políticos ni a aquellos que fueron esclavos en otro país. También protege los derechos humanos de las personas según la Constitución y tratados internacionales.",
+  "preguntas_ejemplo": [
+    "¿Se puede extraditar a un reo político?",
+    "¿Qué pasa con los derechos humanos en la extradición?",
+    "¿Se pueden enviar delincuentes que fueron esclavos a otro país?",
+    "¿Cuáles son las restricciones para extraditar personas?",
+    "¿Qué dice la Constitución sobre la extradición?"
+  ]
+}

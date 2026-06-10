@@ -1,0 +1,31 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1fabf34bdc970ceb",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Elección del presidente",
+  "temas": [
+    "elección",
+    "presidente",
+    "revocación",
+    "ley electoral"
+  ],
+  "terminos_coloquiales": [
+    "cómo se elige al presidente",
+    "revocación del presidente",
+    "votar por el presidente",
+    "qué dice la ley sobre el presidente"
+  ],
+  "resumen": "El presidente se elige directamente según las reglas de la ley electoral. Además, la Constitución establece cómo se puede revocar el cargo de presidente.",
+  "preguntas_ejemplo": [
+    "¿Cómo se elige al presidente de México?",
+    "¿Qué es la revocación del presidente?",
+    "¿Cuáles son los requisitos para elegir al presidente?",
+    "¿Puede un presidente ser destituido?",
+    "¿Qué dice la ley electoral sobre la elección del presidente?"
+  ]
+}

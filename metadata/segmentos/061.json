@@ -1,0 +1,35 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61. › párrafo 1",
+      "texto": "Los diputados y senadores son inviolables por las opiniones que manifiesten en el desempeño de sus cargos, y jamás podrán ser reconvenidos por ellas."
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61. › párrafo 2",
+      "texto": "El Presidente de cada Cámara velará por el respeto al fuero constitucional de los miembros de la misma y por la inviolabilidad del recinto donde se reúnan a sesionar.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 06-12-1977",
+          "fechas": [
+            "1977-12-06"
+          ]
+        }
+      ]
+    }
+  ]
+}

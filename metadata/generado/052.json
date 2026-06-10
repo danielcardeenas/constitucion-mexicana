@@ -1,0 +1,33 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2664abbee2326ab8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Cámara de Diputados",
+  "temas": [
+    "electores",
+    "diputados",
+    "representación proporcional",
+    "distritos electorales",
+    "votación mayoritaria"
+  ],
+  "terminos_coloquiales": [
+    "cómo se eligen a los diputados",
+    "diputados en México",
+    "votación para diputados",
+    "sistema electoral",
+    "distritos electorales en México"
+  ],
+  "resumen": "El artículo establece cómo se integra la Cámara de Diputados en México, con un número específico de diputados elegidos por voto mayoritario y otros por representación proporcional. Se detalla el sistema de distritos y listas regionales para las elecciones.",
+  "preguntas_ejemplo": [
+    "¿Cuántos diputados hay en la Cámara?",
+    "¿Cómo se eligen los diputados en México?",
+    "¿Qué es la representación proporcional?",
+    "¿Qué son los distritos electorales?",
+    "¿Cómo funciona el sistema de listas regionales?"
+  ]
+}

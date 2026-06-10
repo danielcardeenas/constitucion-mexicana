@@ -1,0 +1,39 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3d53a97c1c82fd20",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Fiscalía General de la República",
+  "temas": [
+    "Ministerio Público",
+    "Fiscal General",
+    "derechos humanos",
+    "designación de fiscales",
+    "remoción de fiscales",
+    "organismos de protección",
+    "recomendaciones públicas",
+    "responsabilidad de servidores públicos"
+  ],
+  "terminos_coloquiales": [
+    "fiscal",
+    "Ministerio Público",
+    "quién elige al fiscal",
+    "remoción del fiscal",
+    "derechos humanos en México",
+    "quejas contra el gobierno",
+    "fiscalía para delitos electorales"
+  ],
+  "resumen": "El artículo establece la organización y funciones de la Fiscalía General de la República, así como los requisitos y el proceso de designación y remoción del Fiscal General. También aborda la creación de organismos para la protección de derechos humanos y sus competencias.",
+  "preguntas_ejemplo": [
+    "¿Cómo se elige al Fiscal General?",
+    "¿Qué hace la Fiscalía General de la República?",
+    "¿Cuáles son los requisitos para ser Fiscal General?",
+    "¿Qué organismos protegen los derechos humanos en México?",
+    "¿Qué pasa si el fiscal no hace su trabajo?",
+    "¿Cuál es el papel del Senado en la designación del fiscal?"
+  ]
+}

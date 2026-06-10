@@ -1,0 +1,32 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:582e251ea57f8469",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Soberanía nacional",
+  "temas": [
+    "soberanía",
+    "poder público",
+    "pueblo",
+    "gobierno",
+    "derechos del pueblo"
+  ],
+  "terminos_coloquiales": [
+    "soberanía del pueblo",
+    "poder del pueblo",
+    "derecho a modificar el gobierno",
+    "quién manda en el país"
+  ],
+  "resumen": "El artículo establece que la soberanía nacional pertenece al pueblo y que todo poder público surge de él. Además, el pueblo tiene el derecho de cambiar su forma de gobierno cuando lo considere necesario.",
+  "preguntas_ejemplo": [
+    "¿Quién tiene el poder en el país?",
+    "¿Puede cambiar el pueblo su gobierno?",
+    "¿Qué dice la Constitución sobre la soberanía?",
+    "¿De dónde proviene el poder público?",
+    "¿El pueblo puede decidir sobre su gobierno?"
+  ]
+}

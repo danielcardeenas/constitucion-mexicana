@@ -1,0 +1,31 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:7630cb6982ba3d11",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Renuncia del Presidente",
+  "temas": [
+    "renuncia",
+    "causas graves",
+    "Congreso de la Unión",
+    "Presidencia"
+  ],
+  "terminos_coloquiales": [
+    "dejar el cargo",
+    "renunciar",
+    "salir del puesto",
+    "causas para renunciar"
+  ],
+  "resumen": "El Presidente de la República solo puede presentar su renuncia por razones serias que serán evaluadas por el Congreso de la Unión.",
+  "preguntas_ejemplo": [
+    "¿Cuándo puede renunciar un presidente?",
+    "¿Qué pasa si el presidente quiere dejar su puesto?",
+    "¿Quién aprueba la renuncia del presidente?",
+    "¿Qué significa renuncia por causa grave?",
+    "¿Cómo se presenta la renuncia del presidente?"
+  ]
+}

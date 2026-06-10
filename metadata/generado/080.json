@@ -1,0 +1,31 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d621801cece88be9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Presidencia de México",
+  "temas": [
+    "Supremo Poder Ejecutivo",
+    "Presidente",
+    "Ejercicio del poder",
+    "Gobierno"
+  ],
+  "terminos_coloquiales": [
+    "Presidente de México",
+    "quién es el presidente",
+    "poder ejecutivo",
+    "cómo se elige al presidente"
+  ],
+  "resumen": "El poder ejecutivo en México está a cargo de una sola persona, que es el Presidente de los Estados Unidos Mexicanos. Este individuo tiene la responsabilidad de ejercer el poder en la unión.",
+  "preguntas_ejemplo": [
+    "¿Quién tiene el poder ejecutivo en México?",
+    "¿Qué es el presidente de México?",
+    "¿Cómo se llama al líder del gobierno mexicano?",
+    "¿Qué significa ser presidente en México?",
+    "¿Cuál es el rol del presidente en el gobierno?"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c4966cb09ef14baf",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Controversias entre tribunales",
+  "temas": [
+    "Poder Judicial",
+    "Tribunales de la Federación",
+    "Controversias",
+    "Competencia judicial"
+  ],
+  "terminos_coloquiales": [
+    "disputas entre tribunales",
+    "conflictos judiciales",
+    "problemas legales entre cortes",
+    "competencia de jueces"
+  ],
+  "resumen": "Este artículo establece que el Poder Judicial de la Federación se encarga de resolver los conflictos de competencia que surgen entre tribunales federales, estatales o entre tribunales de diferentes estados.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si hay un conflicto entre tribunales?",
+    "¿Quién resuelve las disputas judiciales entre estados?",
+    "¿Cómo se manejan las controversias entre diferentes cortes?",
+    "¿Qué hace el Poder Judicial en caso de conflictos de competencias?",
+    "¿Cuáles tribunales pueden entrar en controversia?",
+    "¿Qué tipo de problemas legales se entre los tribunales federales y estatales?"
+  ]
+}

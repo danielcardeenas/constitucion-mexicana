@@ -1,0 +1,39 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5o.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fa230e54787cbf4f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Libertad de trabajo",
+  "temas": [
+    "libertad de profesión",
+    "derechos laborales",
+    "contratos de trabajo",
+    "retribución justa",
+    "profesiones reguladas",
+    "obligación de servicios públicos",
+    "consentimiento en el trabajo",
+    "prohibición de destierro"
+  ],
+  "terminos_coloquiales": [
+    "derecho a trabajar",
+    "libertad para ejercer un trabajo",
+    "no me pueden despedir sin razón",
+    "contrato de trabajo",
+    "trabajo con retribución",
+    "quien determina mi profesión",
+    "servicios públicos obligatorios"
+  ],
+  "resumen": "Este artículo protege el derecho de las personas a dedicarse a cualquier profesión o trabajo lícito que deseen, siempre que no afecten a los derechos de otros. Nadie puede ser obligado a trabajar sin recibir una compensación justa y no se puede impedir a alguien que ejerza su libertad laboral.",
+  "preguntas_ejemplo": [
+    "¿Pueden obligarme a trabajar sin pago?",
+    "¿Qué derechos tengo si no me dejan trabajar?",
+    "¿Necesito un título para ejercer mi profesión?",
+    "¿Pueden despedirme sin una razón válida?",
+    "¿Qué debo hacer si mi contrato de trabajo no se respeta?",
+    "¿Qué obligaciones tengo en el servicio público?"
+  ]
+}

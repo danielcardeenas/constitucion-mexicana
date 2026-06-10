@@ -1,0 +1,34 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:763b083f686ced66",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Distritos electorales",
+  "temas": [
+    "demarcación territorial",
+    "distritos electorales",
+    "representación proporcional",
+    "diputados",
+    "circunscripciones electorales",
+    "paridad de género"
+  ],
+  "terminos_coloquiales": [
+    "división de distritos",
+    "cómo se eligen los diputados",
+    "representación en el congreso",
+    "circuitos electorales",
+    "elecciones y distritos"
+  ],
+  "resumen": "El artículo habla sobre cómo se dividen los distritos electorales en el país, asegurando que cada estado tenga al menos dos representantes. También menciona la creación de circunscripciones para la elección de diputados de manera proporcional y en paridad de género.",
+  "preguntas_ejemplo": [
+    "¿Cómo se distribuyen los distritos electorales en México?",
+    "¿Cuántos diputados hay por estado?",
+    "¿Qué es la representación proporcional?",
+    "¿Cómo se eligen los diputados plurinominales?",
+    "¿Qué significa paridad de género en las elecciones?"
+  ]
+}

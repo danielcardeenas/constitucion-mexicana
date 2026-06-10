@@ -1,0 +1,37 @@
+{
+  "clave": "130",
+  "etiqueta": "Artículo 130.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6620971b8df838d9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Separación Iglesia-Estado",
+  "temas": [
+    "personalidad jurídica",
+    "culto público",
+    "ministros de culto",
+    "asociaciones religiosas",
+    "injerencia del Estado",
+    "prohibiciones políticas",
+    "herencias",
+    "estad civil"
+  ],
+  "terminos_coloquiales": [
+    "relación iglesia y gobierno",
+    "libertad religiosa",
+    "derechos de la iglesia",
+    "culto en México",
+    "prohibiciones para ministros",
+    "temas políticos en templos"
+  ],
+  "resumen": "Este artículo establece que hay una separación entre el Estado y las iglesias, regulando la forma en que las agrupaciones religiosas pueden operar en el país. También prohíbe a los ministros de culto participar en política y estipula cómo se deben manejar legalmente las asociaciones religiosas.",
+  "preguntas_ejemplo": [
+    "¿Pueden los ministros de la iglesia desempeñar cargos públicos?",
+    "¿Cómo se registra una asociación religiosa en México?",
+    "¿Cuáles son las limitaciones de los ministros de culto?",
+    "¿Qué dice la ley sobre la injerencia del Estado en asuntos religiosos?",
+    "¿Las iglesias pueden realizar actividades políticas?"
+  ]
+}

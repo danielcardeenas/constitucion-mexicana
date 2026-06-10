@@ -1,0 +1,25 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12. › párrafo 1",
+      "texto": "En los Estados Unidos Mexicanos no se concederán títulos de nobleza, ni prerrogativas y honores hereditarios, ni se dará efecto alguno a los otorgados por cualquier otro país."
+    }
+  ]
+}

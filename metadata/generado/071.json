@@ -1,0 +1,31 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1e42bb82d66a1442",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Iniciativa de Ley",
+  "temas": [
+    "derecho a legislar",
+    "iniciativas de ley",
+    "Cámara de origen",
+    "Cámara revisora"
+  ],
+  "terminos_coloquiales": [
+    "quién puede hacer leyes",
+    "cómo se hacen las leyes",
+    "iniciativas de leyes",
+    "proyectos de ley"
+  ],
+  "resumen": "Este artículo establece quiénes pueden proponer leyes en México, como el Presidente y los legisladores. También indica el proceso que deben seguir estas iniciativas en el Congreso.",
+  "preguntas_ejemplo": [
+    "¿Quién puede iniciar una ley en México?",
+    "¿Cómo se presentan las iniciativas de ley?",
+    "¿Qué pasa si no se discute una iniciativa en 30 días?",
+    "¿Cuántas iniciativas puede presentar el Presidente?",
+    "¿Qué es una Cámara revisora?"
+  ]
+}

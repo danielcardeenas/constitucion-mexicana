@@ -1,0 +1,37 @@
+{
+  "clave": "107",
+  "etiqueta": "Artículo 107.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d1a5b0b0615341a5",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Juicio de Amparo",
+  "temas": [
+    "procedimientos legales",
+    "defensa de derechos",
+    "inconstitucionalidad",
+    "sentencias",
+    "tribunales",
+    "derechos agrarios",
+    "suspensión de actos",
+    "falta de cumplimiento"
+  ],
+  "terminos_coloquiales": [
+    "cómo puedo defender mis derechos",
+    "qué hacer si me violan mis derechos",
+    "recursos legales para reclamar",
+    "juicio en caso de injusticia",
+    "proceso de amparo",
+    "como reclamar una sentencia"
+  ],
+  "resumen": "El artículo habla sobre el juicio de amparo, un proceso que permite a las personas defender sus derechos cuando sienten que han sido violados. Establece los procedimientos que se deben seguir y las condiciones bajo las cuales se pueden reclamar actos de autoridades o tribunales.",
+  "preguntas_ejemplo": [
+    "¿Qué es un juicio de amparo?",
+    "¿Cuáles son los pasos para interponer un amparo?",
+    "¿En qué casos se puede solicitar un amparo?",
+    "¿Quién puede ser parte en un juicio de amparo?",
+    "¿Qué sucede si la autoridad no cumple con lo ordenado en un amparo?"
+  ]
+}

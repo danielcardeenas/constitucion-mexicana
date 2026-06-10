@@ -1,0 +1,40 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2o.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0f39e8279546f4fb",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos de los pueblos indígenas",
+  "temas": [
+    "pluriculturalidad",
+    "libre determinación",
+    "autonomía",
+    "patrimonio cultural",
+    "identidad indígena",
+    "jurisdicción indígena",
+    "educación intercultural",
+    "salud tradicional",
+    "consulta indígena",
+    "derechos político-electorales"
+  ],
+  "terminos_coloquiales": [
+    "derechos indígenas",
+    "cultura indígena",
+    "comunidades indígenas",
+    "autonomía indígena",
+    "ser consultados",
+    "identidad afromexicana"
+  ],
+  "resumen": "Este artículo establece que la Nación Mexicana es única e indivisible, y reconoce los derechos de los pueblos indígenas y afromexicanos a la libre determinación y autonomía. Se promueve el respeto a su cultura, lengua, y la participación en decisiones que les afecten.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tienen las comunidades indígenas?",
+    "¿Cómo se protege la cultura indígena en México?",
+    "¿Qué es la autonomía indígena?",
+    "¿Cómo se consultan a los pueblos indígenas sobre medidas que les afectan?",
+    "¿Qué se reconoce sobre los pueblos afromexicanos en la Constitución?",
+    "¿Cuál es el papel de la mujer indígena en sus comunidades?"
+  ]
+}

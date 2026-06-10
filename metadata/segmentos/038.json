@@ -1,0 +1,123 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › párrafo 1",
+      "texto": "Los derechos o prerrogativas de los ciudadanos se suspenden:"
+    },
+    {
+      "id": "038.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › Fracción I",
+      "texto": "I. Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que impone el artículo 36. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la ley;"
+    },
+    {
+      "id": "038.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › Fracción II",
+      "texto": "II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión;"
+    },
+    {
+      "id": "038.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › Fracción III",
+      "texto": "III. Durante la extinción de una pena corporal;"
+    },
+    {
+      "id": "038.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › Fracción IV",
+      "texto": "IV. Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes;"
+    },
+    {
+      "id": "038.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › Fracción V",
+      "texto": "V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 29-05-2023",
+          "fechas": [
+            "2023-05-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "038.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › Fracción VI",
+      "texto": "VI. Por sentencia ejecutoria que imponga como pena esa suspensión, y",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 29-05-2023",
+          "fechas": [
+            "2023-05-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "038.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › Fracción VII",
+      "texto": "VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.\n\nPor ser declarada como persona deudora alimentaria morosa.\n\nEn los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DOF 29-05-2023",
+          "fechas": [
+            "2023-05-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "038.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › párrafo 2",
+      "texto": "La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación."
+    },
+    {
+      "id": "038.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38. › párrafo 3",
+      "texto": "De la Soberanía Nacional y de la Forma de Gobierno"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1c7713fa629f2a33",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Límites territoriales",
+  "temas": [
+    "entidades federativas",
+    "límites",
+    "convenios amistosos",
+    "Cámara de Senadores",
+    "Suprema Corte",
+    "controvenciones",
+    "resolución de conflictos"
+  ],
+  "terminos_coloquiales": [
+    "límites entre estados",
+    "acuerdos entre estados",
+    "arreglo de límites",
+    "disputas entre entidades",
+    "quién decide los límites"
+  ],
+  "resumen": "Las entidades federativas pueden acordar sus límites, pero necesitan la aprobación de la Cámara de Senadores. Si no logran un acuerdo, la Suprema Corte resolverá las disputas sobre límites territoriales.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si dos estados no se ponen de acuerdo sobre sus límites?",
+    "¿Quién aprueba los acuerdos de límites entre estados?",
+    "¿Qué hace la Suprema Corte si hay una disputa territorial?",
+    "¿Los estados pueden cambiar sus límites sin permiso?",
+    "¿Qué son los convenios amistosos entre entidades federativas?"
+  ]
+}

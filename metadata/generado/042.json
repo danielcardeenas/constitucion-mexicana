@@ -1,0 +1,36 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fc598443a4f1827d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Territorio Nacional",
+  "temas": [
+    "Federación",
+    "Islas",
+    "Arrecifes",
+    "Cayos",
+    "Plataforma Continental",
+    "Aguas Territoriales",
+    "Derecho Internacional",
+    "Espacio Aéreo"
+  ],
+  "terminos_coloquiales": [
+    "qué incluye el territorio de México",
+    "dónde están las islas de México",
+    "qué es la plataforma continental",
+    "quién regula el espacio aéreo",
+    "mar territorial de México"
+  ],
+  "resumen": "El territorio de México incluye su superficie continental, islas, arrecifes y cayos. También abarca las aguas territoriales y el espacio aéreo correspondiente, regulados por el Derecho Internacional.",
+  "preguntas_ejemplo": [
+    "¿Qué se considera territorio mexicano?",
+    "¿Qué islas pertenecen a México?",
+    "¿Cuáles son los límites de las aguas de México?",
+    "¿Dónde están las plataformas y arrecifes de México?",
+    "¿Qué derechos tiene México sobre su espacio aéreo?"
+  ]
+}

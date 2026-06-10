@@ -1,0 +1,37 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1o.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:82102d949c5f7348",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos humanos",
+  "temas": [
+    "Derechos humanos",
+    "Tratados internacionales",
+    "Esclavitud",
+    "Discriminación",
+    "Protección de derechos",
+    "Obligaciones del Estado",
+    "Libertades",
+    "Dignidad humana"
+  ],
+  "terminos_coloquiales": [
+    "Derechos de las personas",
+    "Derecho a la igualdad",
+    "Derechos básicos",
+    "Libre expresión",
+    "Prohibición de la esclavitud",
+    "No a la discriminación"
+  ],
+  "resumen": "Todas las personas en México tienen derechos humanos que deben ser protegidos. Está prohibida la esclavitud y la discriminación, y el Estado debe garantizar estos derechos y proteger a todos sin importar sus características personales.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo como ciudadano mexicano?",
+    "¿Está prohibida la discriminación en México?",
+    "¿Qué hacer si mis derechos humanos son violados?",
+    "¿Qué significa que el Estado deba proteger mis derechos?",
+    "¿Qué pasa si alguien es esclavo en otro país y llega a México?"
+  ]
+}

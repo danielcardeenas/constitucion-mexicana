@@ -1,0 +1,44 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 17-10-1953, 22-12-1969",
+      "fechas": [
+        "1953-10-17",
+        "1969-12-22"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34. › párrafo 1",
+      "texto": "Son ciudadanos de la República los varones y mujeres que, teniendo la calidad de mexicanos, reúnan, además, los siguientes requisitos:"
+    },
+    {
+      "id": "034.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34. › Fracción I",
+      "texto": "I. Haber cumplido 18 años, y"
+    },
+    {
+      "id": "034.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34. › Fracción II",
+      "texto": "II. Tener un modo honesto de vivir."
+    }
+  ]
+}

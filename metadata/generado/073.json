@@ -1,0 +1,35 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:24702dc737257c75",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades del Congreso",
+  "temas": [
+    "nuevos Estados",
+    "endeudamiento",
+    "regulación fiscal",
+    "derechos humanos",
+    "educación",
+    "protección civil"
+  ],
+  "terminos_coloquiales": [
+    "¿Qué puede hacer el Congreso?",
+    "facultades del Congreso",
+    "¿Cómo se crean nuevos Estados?",
+    "reglas sobre deudas",
+    "leyes de educación",
+    "temas que trata el Congreso"
+  ],
+  "resumen": "El Artículo 73 establece las facultades del Congreso de la Unión, incluyendo la creación de nuevos Estados, la regulación del endeudamiento y la legislación en diversos temas como educación y derechos humanos. También especifica cómo debe actuar en materia fiscal y de seguridad pública.",
+  "preguntas_ejemplo": [
+    "¿Qué puede decidir el Congreso sobre nuevos Estados?",
+    "¿Cómo se regula la deuda pública?",
+    "¿Qué leyes puede hacer el Congreso sobre educación?",
+    "¿Cuáles son las facultades del Congreso en derechos humanos?",
+    "¿Qué dice el Congreso sobre protección civil?"
+  ]
+}

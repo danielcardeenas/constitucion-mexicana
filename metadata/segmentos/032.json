@@ -1,0 +1,80 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32.",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 15-12-1934, 10-02-1944, 20-03-1997",
+      "fechas": [
+        "1934-12-15",
+        "1944-02-10",
+        "1997-03-20"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › párrafo 1",
+      "texto": "La Ley regulará el ejercicio de los derechos que la legislación mexicana otorga a los mexicanos que posean otra nacionalidad y establecerá normas para evitar conflictos por doble nacionalidad."
+    },
+    {
+      "id": "032.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › párrafo 2",
+      "texto": "El ejercicio de los cargos y funciones para los cuales, por disposición de la presente Constitución, se requiera ser mexicano por nacimiento, se reserva a quienes tengan esa calidad y no adquieran otra nacionalidad. Esta reserva también será aplicable a los casos que así lo señalen otras leyes del Congreso de la Unión."
+    },
+    {
+      "id": "032.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › párrafo 3",
+      "texto": "En tiempo de paz, ningún extranjero podrá servir en la Fuerza Armada permanente, ni en las fuerzas de policía o seguridad pública. Para pertenecer al activo del Ejército en tiempo de paz y al de la Armada o al de la Fuerza Aérea o al de la Guardia Nacional en todo momento, o desempeñar cualquier cargo o comisión en ellos, se requiere ser mexicano por nacimiento.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 30-09-2024",
+          "fechas": [
+            "2024-09-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "032.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › párrafo 4",
+      "texto": "Esta misma calidad será indispensable en capitanes, pilotos, patrones, maquinistas, mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria para desempeñar los cargos de capitán de puerto y todos los servicios de practicaje y comandante de aeródromo."
+    },
+    {
+      "id": "032.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › párrafo 5",
+      "texto": "Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones de gobierno en que no sea indispensable la calidad de ciudadano."
+    },
+    {
+      "id": "032.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › párrafo 6",
+      "texto": "De los Extranjeros"
+    }
+  ]
+}

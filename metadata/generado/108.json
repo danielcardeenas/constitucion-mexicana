@@ -1,0 +1,37 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:25621b1f6409943e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Responsabilidad de Servidores Públicos",
+  "temas": [
+    "responsabilidad pública",
+    "servidores públicos",
+    "delitos como corrupción",
+    "declaraciones patrimoniales",
+    "leyes federales",
+    "imputación del presidente",
+    "responsabilidad estatal"
+  ],
+  "terminos_coloquiales": [
+    "qué pasa con los funcionarios",
+    "responsabilidad de políticos",
+    "corrupción en el gobierno",
+    "declaración de bienes",
+    "presidente ante la ley",
+    "castigo a funcionarios"
+  ],
+  "resumen": "El artículo establece que todos los servidores públicos son responsables de sus actos mientras estén en funciones. También menciona que el Presidente puede ser juzgado por delitos graves, así como la obligación de presentar una declaración de sus bienes.",
+  "preguntas_ejemplo": [
+    "¿Qué responsabilidades tienen los funcionarios públicos?",
+    "¿El presidente puede ser juzgado por corrupción?",
+    "¿Cómo se manejan los fondos públicos?",
+    "¿Qué es la declaración patrimonial?",
+    "¿Quiénes son considerados servidores públicos?",
+    "¿Qué pasa si un político comete un delito?"
+  ]
+}

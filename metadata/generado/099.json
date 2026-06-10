@@ -1,0 +1,37 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:24b2712dc238365b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Tribunal Electoral",
+  "temas": [
+    "autoridad electoral",
+    "impugnaciones",
+    "elecciones",
+    "procesos electorales",
+    "magistrados",
+    "resoluciones",
+    "derechos político-electorales",
+    "sanciones políticas"
+  ],
+  "terminos_coloquiales": [
+    "tribunal de elecciones",
+    "quejas electorales",
+    "impugnación de elecciones",
+    "decisión electoral",
+    "magistrados electorales",
+    "derechos de voto"
+  ],
+  "resumen": "El Tribunal Electoral es la máxima autoridad en asuntos electorales en México. Resuelve impugnaciones de elecciones y asegura el cumplimiento de los derechos políticos de los ciudadanos relacionados con el voto y la organización de elecciones.",
+  "preguntas_ejemplo": [
+    "¿Cómo se puede impugnar una elección?",
+    "¿Quiénes son los magistrados del Tribunal Electoral?",
+    "¿Qué hace el Tribunal Electoral por las quejas de los ciudadanos?",
+    "¿Cómo se elige al presidente del Tribunal Electoral?",
+    "¿Qué sanciones puede imponer el Tribunal Electoral a los partidos?"
+  ]
+}

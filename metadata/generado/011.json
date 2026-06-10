@@ -1,0 +1,36 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:889fe2da0cfc3b83",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho de Libre Traslado y Asilo",
+  "temas": [
+    "libre circulación",
+    "salida del país",
+    "entrada al país",
+    "viajar",
+    "asilo",
+    "refugio",
+    "emigración",
+    "inmigración"
+  ],
+  "terminos_coloquiales": [
+    "derecho a viajar",
+    "salir y entrar al país",
+    "viajar sin problemas",
+    "pedir asilo",
+    "ser refugiado"
+  ],
+  "resumen": "Todas las personas tienen el derecho de entrar y salir del país, así como de viajar libremente. También pueden solicitar asilo y refugio, siguiendo las leyes y tratados internacionales que regulan estos procesos.",
+  "preguntas_ejemplo": [
+    "¿Puedo salir del país sin pasaporte?",
+    "¿Qué necesito para entrar a México?",
+    "¿Cómo pido asilo en México?",
+    "¿Cuáles son mis derechos al viajar por el país?",
+    "¿Qué es el asilo político y cómo se solicita?"
+  ]
+}

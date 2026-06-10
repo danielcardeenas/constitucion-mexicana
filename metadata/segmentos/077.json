@@ -1,0 +1,72 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77. › párrafo 1",
+      "texto": "Cada una de las Cámaras puede, sin intervención de la otra:"
+    },
+    {
+      "id": "077.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77. › Fracción I",
+      "texto": "I. Dictar resoluciones económicas relativas a su régimen interior."
+    },
+    {
+      "id": "077.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77. › Fracción II",
+      "texto": "II. Comunicarse en la Cámara colegisladora y con el Ejecutivo de la Unión, por medio de comisiones de su seno."
+    },
+    {
+      "id": "077.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77. › Fracción III",
+      "texto": "III. Nombrar los empleados de su secretaría y hacer el reglamento interior de la misma."
+    },
+    {
+      "id": "077.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77. › Fracción IV",
+      "texto": "IV. Expedir convocatoria, dentro del término de 30 días a partir de que ocurra la vacante, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, con el fin de cubrir las vacantes de sus miembros a que se refiere el artículo 63 de esta Constitución, en el caso de vacantes de diputados y senadores del Congreso de la Unión por el principio de mayoría relativa, salvo que la vacante ocurra dentro del año final del ejercicio del legislador correspondiente.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 15-12-1986, 29-10-2003",
+          "fechas": [
+            "1986-12-15",
+            "2003-10-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77. › párrafo 2",
+      "texto": "Sección IV De la Comisión Permanente"
+    }
+  ]
+}

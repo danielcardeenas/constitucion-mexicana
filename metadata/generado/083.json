@@ -1,0 +1,31 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b36bfa2bf381870c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Duración del mandato presidencial",
+  "temas": [
+    "presidencia",
+    "duración del cargo",
+    "reelección",
+    "electo popularmente"
+  ],
+  "terminos_coloquiales": [
+    "presidente",
+    "cuánto dura el presidente",
+    "no se puede reelegir",
+    "mandato presidencial"
+  ],
+  "resumen": "El presidente de México toma su cargo el 1 de octubre y dura en él seis años. Una persona que haya sido presidente no puede volver a serlo bajo ninguna circunstancia.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo dura un presidente en México?",
+    "¿Un presidente puede ser reelegido?",
+    "¿Desde cuándo comienza el mandato presidencial?",
+    "¿Qué pasa si un presidente no puede cumplir su mandato?",
+    "¿Puede alguien que fue presidente volver a serlo?"
+  ]
+}

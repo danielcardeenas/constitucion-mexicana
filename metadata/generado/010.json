@@ -1,0 +1,31 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f5367b1ccf033e6a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho a poseer armas",
+  "temas": [
+    "derecho a la defensa",
+    "posesión de armas",
+    "seguridad personal",
+    "excepciones en ley"
+  ],
+  "terminos_coloquiales": [
+    "tener armas en casa",
+    "defensa personal",
+    "armas permitidas",
+    "armas prohibidas"
+  ],
+  "resumen": "Los mexicanos pueden tener armas en su casa para protegerse, salvo algunas excepciones. La ley federal dirá cómo y dónde se pueden portar estas armas.",
+  "preguntas_ejemplo": [
+    "¿Puedo tener un arma en mi casa?",
+    "¿Cuáles son las armas que no puedo poseer?",
+    "¿Qué requisitos necesito para portar un arma?",
+    "¿Qué dice la ley sobre la posesión de armas?",
+    "¿Cómo se asegura mi derecho a tener un arma?"
+  ]
+}

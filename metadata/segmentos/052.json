@@ -1,0 +1,33 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 20-08-1928, 30-12-1942, 11-06-1951, 20-12-1960, 14-02-1972, 08-10-1974, 06-12-1977, 15-12-1986, 06-06-2019",
+      "fechas": [
+        "1928-08-20",
+        "1942-12-30",
+        "1951-06-11",
+        "1960-12-20",
+        "1972-02-14",
+        "1974-10-08",
+        "1977-12-06",
+        "1986-12-15",
+        "2019-06-06"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52. › párrafo 1",
+      "texto": "La Cámara de Diputados estará integrada por 300 diputadas y diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, así como por 200 diputadas y diputados que serán electos según el principio de representación proporcional, mediante el Sistema de Listas Regionales, votadas en circunscripciones plurinominales."
+    }
+  ]
+}

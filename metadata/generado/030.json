@@ -1,0 +1,38 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:109baa76e3bf1ab0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Nacionalidad mexicana",
+  "temas": [
+    "nacionalidad",
+    "nacimiento",
+    "naturalización",
+    "derechos de los mexicanos",
+    "padres mexicanos",
+    "matrimonio",
+    "domicilio",
+    "embarcaciones",
+    "aeronaves"
+  ],
+  "terminos_coloquiales": [
+    "cómo me hago mexicano",
+    "nacionalidad por nacimiento",
+    "naturalización",
+    "ser mexicano",
+    "hijos de mexicanos en el extranjero",
+    "mujer extranjera se casa con mexicano"
+  ],
+  "resumen": "El artículo habla sobre cómo se puede adquirir la nacionalidad mexicana, ya sea al nacer en el país o a través de un proceso de naturalización. También especifica quiénes son considerados mexicanos por nacimiento y por naturalización.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo obtener la nacionalidad mexicana?",
+    "¿Mis hijos son mexicanos si nacen en el extranjero?",
+    "¿Qué requisitos hay para que un extranjero sea mexicano?",
+    "¿Qué pasa si nací en una embarcación mexicana?",
+    "¿Las personas que se casan con mexicanos también pueden ser mexicanos?"
+  ]
+}

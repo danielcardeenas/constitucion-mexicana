@@ -1,0 +1,121 @@
+{
+  "clave": "104",
+  "etiqueta": "Artículo 104.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 18-01-1934, 30-12-1946, 25-10-1967, 08-10-1974, 10-08-1987, 25-10-1993, 31-12-1994, 06-06-2011",
+      "fechas": [
+        "1934-01-18",
+        "1946-12-30",
+        "1967-10-25",
+        "1974-10-08",
+        "1987-08-10",
+        "1993-10-25",
+        "1994-12-31",
+        "2011-06-06"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "104.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104. › párrafo 1",
+      "texto": "Los Tribunales de la Federación conocerán:"
+    },
+    {
+      "id": "104.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104. › Fracción I",
+      "texto": "I. De los procedimientos relacionados con delitos del orden federal;"
+    },
+    {
+      "id": "104.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104. › Fracción II",
+      "texto": "II. De todas las controversias del orden civil o mercantil que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. A elección del actor y cuando sólo se afecten intereses particulares, podrán conocer de ellas, los jueces y tribunales del orden común.\n\nLas sentencias de primera instancia podrán ser apelables ante el superior inmediato del juez que conozca del asunto en primer grado;"
+    },
+    {
+      "id": "104.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104. › Fracción III",
+      "texto": "III. De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de justicia administrativa a que se refiere la fracción XXIX-H del artículo 73 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 27-05-2015, 29-01-2016",
+          "fechas": [
+            "2015-05-27",
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "104.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104. › Fracción IV",
+      "texto": "IV. De todas las controversias que versen sobre derecho marítimo;"
+    },
+    {
+      "id": "104.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104. › Fracción V",
+      "texto": "V. De aquellas en que la Federación fuese parte;"
+    },
+    {
+      "id": "104.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104. › Fracción VI",
+      "texto": "VI. De las controversias y de las acciones a que se refiere el artículo 105, mismas que serán del conocimiento exclusivo de la Suprema Corte de Justicia de la Nación;"
+    },
+    {
+      "id": "104.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104. › Fracción VII",
+      "texto": "VII. De las que surjan entre una entidad federativa y uno o más vecinos de otra, y",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "104.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104. › Fracción VIII",
+      "texto": "VIII. De los casos concernientes a miembros del Cuerpo Diplomático y Consular."
+    }
+  ]
+}

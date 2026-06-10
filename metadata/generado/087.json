@@ -1,0 +1,37 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2d83b08285596b54",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Protesta del Presidente",
+  "temas": [
+    "toma de posesión",
+    "funciones del presidente",
+    "protesta",
+    "Congreso de la Unión",
+    "Suprema Corte de Justicia",
+    "obligaciones del presidente",
+    "pueblo",
+    "nación"
+  ],
+  "terminos_coloquiales": [
+    "qué pasa cuando el presidente asume",
+    "promesa del presidente",
+    "protesta que hace el presidente",
+    "cómo es la toma de posesión",
+    "requisitos del presidente al iniciar",
+    "quién recibe la protesta del presidente"
+  ],
+  "resumen": "El Presidente de la República debe hacer una protesta al tomar posesión de su cargo, comprometiéndose a cumplir la Constitución y las leyes. Si no puede hacerlo ante el Congreso, puede rendirla ante otras autoridades designadas.",
+  "preguntas_ejemplo": [
+    "¿Qué juramento hace el presidente al iniciar su mandato?",
+    "¿Dónde tiene que rendir protesta el presidente?",
+    "¿Qué pasa si el presidente no puede hacer la protesta?",
+    "¿Quién está presente cuando el presidente toma posesión?",
+    "¿Qué obligaciones tiene el presidente al asumir?"
+  ]
+}

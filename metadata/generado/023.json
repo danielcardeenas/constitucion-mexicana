@@ -1,0 +1,31 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ee04c96f8f722d00",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Juicios Criminales",
+  "temas": [
+    "instancias judiciales",
+    "juicio criminal",
+    "no doble juzgamiento",
+    "prohibición de absoluciones"
+  ],
+  "terminos_coloquiales": [
+    "juicio",
+    "no me pueden juzgar dos veces",
+    "instancias de juicio",
+    "absuelto o condenado"
+  ],
+  "resumen": "Este artículo dice que los juicios criminales solo pueden tener tres instancias y que una persona no puede ser juzgada dos veces por el mismo delito, sin importar el resultado anterior. También prohíbe absolver en las instancias.",
+  "preguntas_ejemplo": [
+    "¿Cuántas veces me pueden juzgar por el mismo delito?",
+    "¿Qué pasa si me absuelven en un juicio?",
+    "¿Pueden hacerme un juicio más de tres veces?",
+    "¿Qué significa ser juzgado dos veces?",
+    "¿Hay un límite en los juicios criminales?"
+  ]
+}

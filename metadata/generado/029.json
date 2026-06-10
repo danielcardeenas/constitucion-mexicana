@@ -1,0 +1,35 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:603dc0b183710405",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Restricción de derechos",
+  "temas": [
+    "suspensión de derechos",
+    "emergencias",
+    "paz pública",
+    "derechos humanos",
+    "proporcionalidad",
+    "prohibiciones",
+    "revisión judicial"
+  ],
+  "terminos_coloquiales": [
+    "derechos en crisis",
+    "emergencia nacional",
+    "proteger la paz",
+    "limitación de derechos",
+    "suspensión de garantías"
+  ],
+  "resumen": "El artículo establece que en situaciones de peligro grave, el Presidente puede suspender derechos, pero no los derechos fundamentales. Cualquier restricción debe ser temporal y revisada por el Congreso y la Suprema Corte.",
+  "preguntas_ejemplo": [
+    "¿Cuándo puede el Presidente suspender derechos?",
+    "¿Qué derechos no se pueden restringir?",
+    "¿Cómo se asegura que la suspensión de derechos sea justa?",
+    "¿Qué pasa cuando termina la emergencia?",
+    "¿Quién revisa las decisiones del Presidente en crisis?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fe7e5320a198609b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Presidencia Interina",
+  "temas": [
+    "presidencia",
+    "presidente interino",
+    "licencia presidencial",
+    "sucesión presidencial"
+  ],
+  "terminos_coloquiales": [
+    "quien se queda de presidente",
+    "presidente provisional",
+    "cuando hay falta del presidente",
+    "licencia del presidente"
+  ],
+  "resumen": "Este artículo establece cómo se elige un presidente interino si el presidente en funciones termina su periodo sin que se haya realizado una nueva elección. También explica qué sucede si el presidente solicita una licencia para ausentarse del cargo.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si el presidente no termina su periodo?",
+    "¿Quién asume si el presidente se va de licencia?",
+    "¿Cómo se elige a un presidente interino?",
+    "¿Qué sucede si hay una falta absoluta del presidente?",
+    "¿Quién toma el cargo si no hay presidente al inicio del periodo constitucional?"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e6fc27014412ef56",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Vacantes en el Poder Judicial",
+  "temas": [
+    "Suplencias en el Poder Judicial",
+    "Renuncias de Magistrados",
+    "Licencias de Magistrados",
+    "Protesta del Senado",
+    "Elecciones de Jueces",
+    "Condiciones de separación",
+    "Causas de separación definitiva",
+    "Periodo de encargo",
+    "Vacantes por defunción"
+  ],
+  "terminos_coloquiales": [
+    "quien ocupa el puesto si se va un juez",
+    "renuncia de ministros",
+    "como se cubren vacantes",
+    "licencias de jueces",
+    "que pasa si un juez muere",
+    "sustitutos en el poder judicial"
+  ],
+  "resumen": "Este artículo trata sobre cómo se ocupan las vacantes en la Suprema Corte y otros tribunales cuando un juez se va, renuncia o fallece. Establece que se debe elegir a una persona del mismo género que obtuvo el segundo lugar en votos para el cargo y detalla el proceso de las renuncias y licencias de los jueces.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un juez no puede seguir en su puesto?",
+    "¿Cómo se elige a un suplente en la Suprema Corte?",
+    "¿Cuáles son las causas por las que un juez puede renunciar?",
+    "¿Quién aprueba las licencias de los magistrados?",
+    "¿Qué sucede si un juez muere en funciones?"
+  ]
+}

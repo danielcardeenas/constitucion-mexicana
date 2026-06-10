@@ -1,0 +1,35 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e6731f9aceafcd13",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Resoluciones del Congreso",
+  "temas": [
+    "ley",
+    "decreto",
+    "Ejecutivo",
+    "Cámara de Diputados",
+    "afiliación de partido",
+    "libre expresión",
+    "normativa interna"
+  ],
+  "terminos_coloquiales": [
+    "decisiones del Congreso",
+    "cómo se hacen las leyes",
+    "cómo se comunican las leyes",
+    "organización de los diputados",
+    "leyes sin veto"
+  ],
+  "resumen": "El artículo habla sobre cómo las resoluciones del Congreso se convierten en leyes o decretos y cómo se comunican al Ejecutivo. También menciona la ley que regulará la organización de los diputados según su partido y que esta ley no necesita la aprobación del Ejecutivo para ser válida.",
+  "preguntas_ejemplo": [
+    "¿Cómo se convierte una decisión del Congreso en ley?",
+    "¿Quién comunica las leyes al Ejecutivo?",
+    "¿Qué dice la ley sobre la agrupación de los diputados?",
+    "¿Las leyes del Congreso necesitan aprobación del Presidente?",
+    "¿Cómo se organizan los diputados por partido?"
+  ]
+}

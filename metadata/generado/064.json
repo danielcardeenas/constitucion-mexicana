@@ -1,0 +1,31 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:74f1f56aab2c158b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Asistencia de legisladores",
+  "temas": [
+    "falta de asistencia",
+    "derecho a la dieta",
+    "causas justificadas",
+    "permiso de la cámara"
+  ],
+  "terminos_coloquiales": [
+    "falta a la sesión",
+    "no voy a trabajar",
+    "pago por no asistir",
+    "ausencia sin permiso"
+  ],
+  "resumen": "Los diputados y senadores no reciben su pago si faltan a una sesión sin justificación o permiso. Esto significa que deben estar presentes para recibir su dieta diaria.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un diputado no asiste a una sesión?",
+    "¿Los senadores reciben sueldo si están ausentes?",
+    "¿Necesitan permiso para faltar a una sesión?",
+    "¿Qué se considera una falta justificada?",
+    "¿Hay consecuencias por no ir a trabajar como legislador?"
+  ]
+}

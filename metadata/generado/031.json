@@ -1,0 +1,33 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:aed6dd019bb8b83c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Obligaciones de los mexicanos",
+  "temas": [
+    "educación",
+    "responsabilidad parental",
+    "instrucción cívica",
+    "servicio militar",
+    "contribución a gastos públicos"
+  ],
+  "terminos_coloquiales": [
+    "obligaciones de los padres",
+    "educación de los hijos",
+    "servicio militar",
+    "impuestos",
+    "clases cívicas"
+  ],
+  "resumen": "Los mexicanos tienen varias obligaciones, como asegurar que sus hijos reciban educación, asistir a clases cívicas y contribuir a los gastos públicos. También deben alistarse en el servicio militar cuando sea necesario.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son las obligaciones de un padre en México?",
+    "¿Mis hijos están obligados a ir a la escuela?",
+    "¿Qué es el servicio militar y quiénes deben realizarlo?",
+    "¿Por qué tengo que pagar impuestos?",
+    "¿Qué tipo de clases cívicas se imparten?"
+  ]
+}

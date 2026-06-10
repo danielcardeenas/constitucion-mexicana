@@ -1,0 +1,33 @@
+{
+  "clave": "129",
+  "etiqueta": "Artículo 129.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1ef82450ea752353",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Autoridad militar en tiempos de paz",
+  "temas": [
+    "autoridad militar",
+    "funciones militares",
+    "paz",
+    "gobierno",
+    "fortalezas",
+    "cuarteles"
+  ],
+  "terminos_coloquiales": [
+    "militares en tiempos de paz",
+    "funciones de los militares",
+    "qué pueden hacer los militares",
+    "militares en el gobierno"
+  ],
+  "resumen": "El artículo establece que en tiempos de paz, los militares solo pueden hacer lo que la Constitución y las leyes permiten. Además, menciona que solo habrá bases militares en lugares específicos que dependen del gobierno federal.",
+  "preguntas_ejemplo": [
+    "¿Qué pueden hacer los militares en tiempos de paz?",
+    "¿Dónde se pueden establecer bases militares?",
+    "¿Las autoridades militares tienen más poder en tiempo de paz?",
+    "¿Qué dice la Constitución sobre los militares y el gobierno?",
+    "¿Existen límites para las funciones de los militares?"
+  ]
+}

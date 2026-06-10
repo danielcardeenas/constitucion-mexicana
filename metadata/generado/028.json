@@ -1,0 +1,38 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f58ad258cbe41a1e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Monopolios y Competencia",
+  "temas": [
+    "monopolios",
+    "prácticas monopólicas",
+    "libre competencia",
+    "precios máximos",
+    "protección al consumidor",
+    "concesiones",
+    "banco central",
+    "regulación económica"
+  ],
+  "terminos_coloquiales": [
+    "monopolios",
+    "compañías que dominan el mercado",
+    "aumento de precios",
+    "precios altos",
+    "competencia desleal",
+    "protección al consumidor",
+    "regulación de empresas"
+  ],
+  "resumen": "Este artículo prohíbe los monopolios y las prácticas que impiden la libre competencia en el mercado. También establece que el Estado debe regular los precios de productos necesarios y proteger a los consumidores de abusos. Además, menciona el papel del banco central y la regulación de ciertas industrias estratégicas.",
+  "preguntas_ejemplo": [
+    "¿Qué son los monopolios?",
+    "¿Cómo se protege al consumidor en México?",
+    "¿Qué medidas se toman contra los aumentos de precios injustificados?",
+    "¿Qué regula el banco central en el país?",
+    "¿Cómo se garantiza la competencia en los mercados?"
+  ]
+}

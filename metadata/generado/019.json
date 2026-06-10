@@ -1,0 +1,36 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:13782e15c59b1e89",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Detención y prisión preventiva",
+  "temas": [
+    "detención",
+    "plazo de detención",
+    "prisión preventiva",
+    "auto de vinculación",
+    "abuso sexual",
+    "delitos graves",
+    "protección de la víctima",
+    "derechos humanos"
+  ],
+  "terminos_coloquiales": [
+    "tiempo que pueden tenerte detenido",
+    "prisión antes de juicio",
+    "detención injusta",
+    "privación de libertad",
+    "abuso en la policía"
+  ],
+  "resumen": "Este artículo establece que ninguna persona puede ser detenida por más de 72 horas sin que se justifique su detención. Además, regula las condiciones bajo las cuales se puede solicitar la prisión preventiva, especialmente en casos de delitos graves.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo pueden mantenerme detenido sin cargos?",
+    "¿Qué es la prisión preventiva?",
+    "¿Cuáles son los delitos que justifican la prisión preventiva?",
+    "¿Qué pasa si me detienen injustamente?",
+    "¿Cómo se protege a las víctimas en este proceso?"
+  ]
+}

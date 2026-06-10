@@ -1,0 +1,38 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:591412f35b19d1b2",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades del Senado",
+  "temas": [
+    "Política exterior",
+    "Tratados internacionales",
+    "Nombramientos",
+    "Salida de tropas",
+    "Guardia Nacional",
+    "Gobiernos de coalición",
+    "Juicio político",
+    "Seguridad pública",
+    "Fiscalía General"
+  ],
+  "terminos_coloquiales": [
+    "Qué puede hacer el Senado",
+    "Funciones del Senado",
+    "Poderes del Senado",
+    "Senado y política exterior",
+    "Senado y seguridad",
+    "Nombramientos en el Senado"
+  ],
+  "resumen": "El Senado tiene varias facultades exclusivas, como analizar la política exterior, aprobar tratados internacionales, ratificar nombramientos del Presidente y autorizar la salida de tropas del país. También tiene la responsabilidad de analizar informes sobre la Guardia Nacional y llevar a cabo juicios políticos.",
+  "preguntas_ejemplo": [
+    "¿Qué puede aprobar el Senado?",
+    "¿Cuáles son las funciones del Senado en relación a la política exterior?",
+    "¿Cómo se ratifican los nombramientos en el Senado?",
+    "¿Qué hace el Senado en un juicio político?",
+    "¿Qué informe recibe el Senado sobre la Guardia Nacional?"
+  ]
+}

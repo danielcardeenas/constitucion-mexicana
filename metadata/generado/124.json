@@ -1,0 +1,31 @@
+{
+  "clave": "124",
+  "etiqueta": "Artículo 124.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2d8c00d4ec235fd7",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades de los Estados",
+  "temas": [
+    "competencias estatales",
+    "funciones del gobierno",
+    "federalismo",
+    "autonomía de los Estados"
+  ],
+  "terminos_coloquiales": [
+    "poderes de los Estados",
+    "derechos de las entidades",
+    "gobierno local",
+    "competencias de la Ciudad de México"
+  ],
+  "resumen": "El artículo establece que las facultades no otorgadas a los funcionarios federales por la Constitución son reservadas para los Estados y la Ciudad de México, dentro de sus competencias. Esto refuerza la autonomía de los gobiernos locales.",
+  "preguntas_ejemplo": [
+    "¿Qué facultades tienen los Estados?",
+    "¿Cómo se dividen las competencias entre el gobierno federal y los estatales?",
+    "¿Qué pasa con las facultades no mencionadas en la Constitución?",
+    "¿Los Estados pueden tomar decisiones sin el gobierno federal?",
+    "¿Qué se entiende por autonomía de la Ciudad de México?"
+  ]
+}

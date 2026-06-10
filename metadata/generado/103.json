@@ -1,0 +1,33 @@
+{
+  "clave": "103",
+  "etiqueta": "Artículo 103.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4745c9827f2736a4",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Controversias de la Federación",
+  "temas": [
+    "derechos humanos",
+    "garantías constitucionales",
+    "soberanía de los Estados",
+    "autonomía de la Ciudad de México",
+    "competencia federal"
+  ],
+  "terminos_coloquiales": [
+    "problemas legales del gobierno",
+    "derechos que me violan",
+    "conflictos entre autoridades",
+    "protección de mis derechos",
+    "pleitos entre Estados y gobierno"
+  ],
+  "resumen": "Este artículo establece que los tribunales federales deben resolver conflictos relacionados con la violación de derechos humanos, la soberanía de los Estados y la competencia de las autoridades. Se asegura que cualquier controversia sobre estos temas se trate de manera adecuada.",
+  "preguntas_ejemplo": [
+    "¿Qué hago si el gobierno viola mis derechos?",
+    "¿Quién resuelve conflictos entre Estados y el gobierno?",
+    "¿Cómo se protege la autonomía de la Ciudad de México?",
+    "¿Qué pasa si se vulneran mis garantías constitucionales?",
+    "¿Qué tribunal se encarga de estos problemas legales?"
+  ]
+}

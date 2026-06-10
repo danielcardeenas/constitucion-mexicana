@@ -1,0 +1,33 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e6704b9bbefddd33",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Libertad de religión",
+  "temas": [
+    "libertad de convicciones",
+    "libertad de conciencia",
+    "libertad de religión",
+    "participación en cultos",
+    "prohibición de proselitismo político"
+  ],
+  "terminos_coloquiales": [
+    "libertad religiosa",
+    "derecho a creer",
+    "cultos",
+    "ceremonias religiosas",
+    "religión en público"
+  ],
+  "resumen": "Este artículo garantiza el derecho de las personas a tener sus propias creencias y a practicar su religión. También establece que no se pueden usar las ceremonias religiosas con fines políticos y que el Congreso no puede prohibir ninguna religión.",
+  "preguntas_ejemplo": [
+    "¿Tengo derecho a practicar mi religión?",
+    "¿Se puede usar la religión para hacer política?",
+    "¿Dónde puedo celebrar actos religiosos?",
+    "¿Puedo participar en ceremonias religiosas?",
+    "¿Qué dice la ley sobre la libertad de conciencia?"
+  ]
+}

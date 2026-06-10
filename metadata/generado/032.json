@@ -1,0 +1,33 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0e9336ef3a0547a8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Nacionalidad y derechos",
+  "temas": [
+    "doble nacionalidad",
+    "derechos políticos",
+    "Fuerzas Armadas",
+    "empleo público",
+    "preferencia nacional"
+  ],
+  "terminos_coloquiales": [
+    "tener doble nacionalidad",
+    "ser mexicano",
+    "extranjeros en el ejército",
+    "empleos para mexicanos",
+    "derechos de los mexicanos"
+  ],
+  "resumen": "Este artículo trata sobre los derechos de los mexicanos que tienen otra nacionalidad y establece que solo los mexicanos por nacimiento pueden desempeñar ciertos cargos. También indica que en tiempo de paz, los extranjeros no pueden servir en las Fuerzas Armadas.",
+  "preguntas_ejemplo": [
+    "¿Un mexicano con doble nacionalidad puede ser funcionario?",
+    "¿Qué requisitos hay para pertenecer al ejército mexicano?",
+    "¿Los mexicanos tienen preferencia en el empleo público?",
+    "¿Puede un extranjero trabajar en la policía?",
+    "¿Qué pasa si tengo doble nacionalidad?"
+  ]
+}

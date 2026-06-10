@@ -1,0 +1,107 @@
+name: Vigilar reformas CPEUM
+
+# Vigila el PDF oficial de la Constitución y abre un PR cuando el texto vigente
+# cambia (= hubo una reforma publicada en el DOF). La detección de cambios la
+# hace git: se regenera el texto y se compara; NO se comparan bytes del PDF.
+#
+# El PR trae solo el texto + metadata (regeneración determinista y gratuita).
+# El enriquecimiento por LLM (que cuesta) se corre a mano tras aprobar.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'        # cada lunes 09:00 UTC
+  workflow_dispatch: {}         # también disparo manual
+
+permissions:
+  contents: write               # crear la rama y commitear
+  pull-requests: write          # abrir el PR
+
+env:
+  # Repo del extractor (código).
+  EXTRACTOR_REPO: https://github.com/OpenCodice/constitucion-extractor.git
+  PDF_URL: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+  # Opcional: si defines el secret OPENAI_API_KEY, el Action también regenera el
+  # enriquecimiento de los artículos cambiados (best-effort). Si no, se omite.
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repo de datos
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Clonar extractor e instalar dependencias
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -r /tmp/extractor/requirements.txt
+
+      - name: Descargar el PDF vigente
+        run: curl -sSL --retry 3 -o /tmp/CPEUM.pdf "$PDF_URL"
+
+      - name: Regenerar texto + metadata desde el PDF
+        run: |
+          cd /tmp/extractor
+          PYTHONPATH=/tmp/extractor python -m extractor build \
+            --pdf /tmp/CPEUM.pdf --out "$GITHUB_WORKSPACE"
+
+      - name: ¿Cambió el texto vigente?
+        id: cambios
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "hay_cambios=true" >> "$GITHUB_OUTPUT"
+            git status --short
+          else
+            echo "hay_cambios=false" >> "$GITHUB_OUTPUT"
+            echo "Sin cambios: el texto vigente coincide con el repo."
+          fi
+
+      - name: Enriquecer artículos cambiados (opcional, best-effort)
+        # Solo si hay reforma y está configurado el secret OPENAI_API_KEY.
+        # continue-on-error: un fallo del LLM no debe tumbar el PR del texto.
+        if: steps.cambios.outputs.hay_cambios == 'true' && env.OPENAI_API_KEY != ''
+        continue-on-error: true
+        run: |
+          pip install openai
+          cd /tmp/extractor
+          PYTHONPATH=/tmp/extractor python -m extractor enriquecer \
+            --pdf /tmp/CPEUM.pdf --out "$GITHUB_WORKSPACE" --proveedor openai
+
+      - name: Actualizar el PDF fuente (solo si hubo reforma)
+        # Va en el mismo commit que las coordenadas regeneradas → PDF y datos
+        # quedan sincronizados atómicamente (lo consume constitucion-web → R2).
+        if: steps.cambios.outputs.hay_cambios == 'true'
+        run: |
+          mkdir -p fuente
+          cp /tmp/CPEUM.pdf fuente/CPEUM.pdf
+
+      - name: Generar cuerpo del PR
+        if: steps.cambios.outputs.hay_cambios == 'true'
+        run: |
+          python /tmp/extractor/scripts/pr_summary.py "$GITHUB_WORKSPACE" > /tmp/cuerpo.md
+          cat /tmp/cuerpo.md
+
+      - name: Abrir Pull Request
+        if: steps.cambios.outputs.hay_cambios == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          # Con un PAT (secret PR_TOKEN) el PR nace atribuido a un usuario real,
+          # así dispara `revisar-pr` (gate + resumen) como un PR humano. Si el
+          # secret no existe, cae al GITHUB_TOKEN (el PR se abre pero sin checks).
+          token: ${{ secrets.PR_TOKEN || github.token }}
+          branch: reforma/cpeum-deteccion-automatica
+          base: main
+          title: '🏛️ Posible reforma a la CPEUM (detección automática)'
+          body-path: /tmp/cuerpo.md
+          commit-message: 'Actualización automática del texto vigente de la CPEUM'
+          labels: |
+            reforma
+            automatico
+          delete-branch: true

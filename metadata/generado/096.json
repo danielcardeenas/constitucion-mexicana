@@ -1,0 +1,38 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3d6e8984dcdcf264",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Elección de Jueces y Magistrados",
+  "temas": [
+    "Proceso electoral",
+    "Candidaturas",
+    "Suprema Corte",
+    "Tribunal Electoral",
+    "Transparencia",
+    "Paridad de género",
+    "Evaluación de candidatos",
+    "Derechos electorales"
+  ],
+  "terminos_coloquiales": [
+    "cómo eligen a los jueces",
+    "elección de magistrados",
+    "candidatos para la corte",
+    "proceso para elegir jueces",
+    "votaciones judiciales",
+    "quién elige a los jueces"
+  ],
+  "resumen": "Este artículo describe cómo se eligen a los jueces y magistrados en México, asegurando un proceso libre y transparente. Establece que la ciudadanía elige a los candidatos durante las elecciones federales, con mecanismos que garantizan la participación e igualdad de género.",
+  "preguntas_ejemplo": [
+    "¿Cómo se eligen a los jueces en México?",
+    "¿Cuáles son los pasos para la elección de magistrados?",
+    "¿Qué requisitos deben cumplir los candidatos para ser jueces?",
+    "¿Cómo se asegura la paridad de género en la elección judicial?",
+    "¿Qué instituciones participan en la elección de jueces?",
+    "¿Hay financiamiento para las campañas de los candidatos a jueces?"
+  ]
+}

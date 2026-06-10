@@ -1,0 +1,34 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7o.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d803733bbb94b951",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Libertad de expresión",
+  "temas": [
+    "libertad de difundir opiniones",
+    "información",
+    "censura",
+    "derecho a la información",
+    "medios de comunicación"
+  ],
+  "terminos_coloquiales": [
+    "libertad de expresión",
+    "censura de medios",
+    "difundir ideas",
+    "opiniones públicas",
+    "control de información"
+  ],
+  "resumen": "Este artículo garantiza que cualquier persona puede difundir opiniones e información sin que se le impida por la censura o abusos de autoridades. Además, prohíbe que se secuestren los bienes usados para compartir información.",
+  "preguntas_ejemplo": [
+    "¿Qué dice la Constitución sobre la libertad de expresión?",
+    "¿Se puede censurar un medio de comunicación en México?",
+    "¿Qué derechos tengo para difundir mis ideas?",
+    "¿Qué artículos protegen la difusión de información?",
+    "¿Está permitido el control sobre lo que se publica?",
+    "¿Qué pasa si se abusa de la censura?"
+  ]
+}

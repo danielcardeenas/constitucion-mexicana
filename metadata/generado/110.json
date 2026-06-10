@@ -1,0 +1,37 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b4eee4ba2bded1b2",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Juicio Político",
+  "temas": [
+    "sujetos de juicio político",
+    "sanciones",
+    "destitución",
+    "responsabilidad de servidores públicos",
+    "proceso legislativo",
+    "Cámara de Diputados",
+    "Cámara de Senadores",
+    "autoridades electorales"
+  ],
+  "terminos_coloquiales": [
+    "juicio político",
+    "castigo a políticos",
+    "destituir a un funcionario",
+    "responsabilidad de funcionarios",
+    "cómo se juzga a un político"
+  ],
+  "resumen": "El artículo establece quiénes pueden ser juzgados políticamente y cómo se llevan a cabo las sanciones, que incluyen la destitución de los servidores públicos. También detalla el proceso a seguir por las Cámaras de Diputados y Senadores para aplicar dichas sanciones.",
+  "preguntas_ejemplo": [
+    "¿Quiénes pueden ser sujetos a juicio político?",
+    "¿Qué sanciones se pueden imponer a un funcionario?",
+    "¿Cómo se lleva a cabo el juicio político?",
+    "¿Qué órganos del gobierno participan en el proceso?",
+    "¿Es posible destituir a un senador o diputado?",
+    "¿Qué significa juicio político para un servidor público?"
+  ]
+}

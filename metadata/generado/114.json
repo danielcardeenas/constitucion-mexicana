@@ -1,0 +1,33 @@
+{
+  "clave": "114",
+  "etiqueta": "Artículo 114.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:560ae6fa09452975",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Juicio político",
+  "temas": [
+    "responsabilidad de servidores públicos",
+    "sanciones",
+    "plazos de prescripción",
+    "delitos",
+    "responsabilidad administrativa"
+  ],
+  "terminos_coloquiales": [
+    "juicio político",
+    "castigo a funcionarios",
+    "plazos para sancionar",
+    "delitos de funcionarios",
+    "responsabilidad pública"
+  ],
+  "resumen": "El juicio político se puede iniciar mientras un funcionario esté en su cargo y dentro de un año después. También establece los plazos para sancionar a los servidores públicos por delitos y la duración de esos plazos de acuerdo con la gravedad de los actos cometidos.",
+  "preguntas_ejemplo": [
+    "¿Cuándo se puede iniciar un juicio político?",
+    "¿Qué sanciones enfrentan los servidores públicos por delitos?",
+    "¿Cuáles son los plazos para la responsabilidad administrativa?",
+    "¿Qué sucede si un funcionario comete un delito mientras está en su cargo?",
+    "¿Cuánto tiempo tiene la ley para prescribir la responsabilidad de un funcionario?"
+  ]
+}

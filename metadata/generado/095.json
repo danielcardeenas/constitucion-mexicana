@@ -1,0 +1,32 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:77ca8a871fa2986a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Requisitos para ministros de la Suprema Corte",
+  "temas": [
+    "ciudadanía",
+    "dederechos políticos",
+    "educación",
+    "reputación",
+    "residencia"
+  ],
+  "terminos_coloquiales": [
+    "quién puede ser ministro",
+    "requisitos para ministros",
+    "ministros de la Corte",
+    "qué necesita un ministro"
+  ],
+  "resumen": "Para ser elegido ministro de la Suprema Corte, debes ser ciudadano mexicano, tener un título en derecho y buena reputación. También se requiere experiencia laboral y residencia en el país.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los requisitos para ser ministro de la Corte?",
+    "¿Qué estudios necesita un ministro de la Suprema Corte?",
+    "¿Puede una persona con antecedentes penales ser ministro?",
+    "¿Cuánto tiempo debe vivir en México un candidato a ministro?",
+    "¿Quién puede postularse para ser ministro de la Suprema Corte?"
+  ]
+}

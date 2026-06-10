@@ -1,0 +1,37 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 06-12-1977, 15-12-1986, 29-01-2016, 06-06-2019",
+      "fechas": [
+        "1977-12-06",
+        "1986-12-15",
+        "2016-01-29",
+        "2019-06-06"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53. › párrafo 1",
+      "texto": "La demarcación territorial de los 300 distritos electorales uninominales será la que resulte de dividir la población total del país entre los distritos señalados. La distribución de los distritos electorales uninominales entre las entidades federativas se hará teniendo en cuenta el último censo general de población, sin que en ningún caso la representación de una entidad federativa pueda ser menor de dos diputados o diputadas de mayoría."
+    },
+    {
+      "id": "053.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53. › párrafo 2",
+      "texto": "Para la elección de los 200 diputados y diputadas según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país conformadas de acuerdo con el principio de paridad, y encabezadas alternadamente entre mujeres y hombres cada periodo electivo. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones."
+    }
+  ]
+}

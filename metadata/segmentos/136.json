@@ -1,0 +1,25 @@
+{
+  "clave": "136",
+  "etiqueta": "Artículo 136.",
+  "titulo": "Título Noveno",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo original DOF 05-02-1917",
+      "fechas": [
+        "1917-02-05"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "136.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136. › párrafo 1",
+      "texto": "Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público, se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el gobierno emanado de la rebelión, como los que hubieren cooperado a ésta."
+    }
+  ]
+}

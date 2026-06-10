@@ -1,0 +1,38 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:69534b71f9ce95d0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Nacionalidad y ciudadanía",
+  "temas": [
+    "nacionalidad",
+    "ciudadanía",
+    "pérdida de nacionalidad",
+    "naturalización",
+    "derechos del mexicano",
+    "títulos nobiliarios",
+    "residencia en el extranjero",
+    "servicios a gobiernos extranjeros"
+  ],
+  "terminos_coloquiales": [
+    "cómo no perder la nacionalidad",
+    "ciudadanía mexicana",
+    "perder la nacionalidad",
+    "nacionalidad por naturalización",
+    "cuidado con títulos extranjeros",
+    "vivir en el extranjero y nacionalidad"
+  ],
+  "resumen": "El artículo establece que ningún mexicano por nacimiento puede perder su nacionalidad. También explica en qué casos se puede perder la nacionalidad por naturalización y la ciudadanía, sobre todo en relación con la aceptación de títulos nobiliarios o al prestar servicios a gobiernos extranjeros.",
+  "preguntas_ejemplo": [
+    "¿Puedo perder mi nacionalidad mexicana si vivo en otro país?",
+    "¿Qué pasa si acepto un título nobiliario de otro país?",
+    "¿Cuándo se pierde la ciudadanía mexicana?",
+    "¿Es posible tener doble nacionalidad?",
+    "¿Qué debo hacer si quiero naturalizarme?",
+    "¿Qué consecuencias hay por servir a un gobierno extranjero?"
+  ]
+}

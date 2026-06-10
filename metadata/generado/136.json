@@ -1,0 +1,31 @@
+{
+  "clave": "136",
+  "etiqueta": "Artículo 136.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a289aa7e72ad4406",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Mantenimiento de la Constitución",
+  "temas": [
+    "fuerza de la Constitución",
+    "interrupción de observancia",
+    "gobierno rebelde",
+    "recuperación de libertad",
+    "juicio por rebelión"
+  ],
+  "terminos_coloquiales": [
+    "qué pasa si hay una rebelión",
+    "la Constitución sigue vigente",
+    "gobierno ilegítimo",
+    "qué sucede después de una revuelta"
+  ],
+  "resumen": "La Constitución siempre se mantendrá en vigor, incluso si se interrumpe por una rebelión. Cuando el pueblo recupere su libertad, se restablecerá su cumplimiento y se juzgará a quienes participaron en el gobierno rebelde.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si hay un gobierno que no respeta la Constitución?",
+    "¿La Constitución sigue en pie durante una crisis?",
+    "¿Cómo se restablece la Constitución después de una rebelión?",
+    "¿Qué consecuencias hay para los que apoyaron un gobierno rebelde?"
+  ]
+}

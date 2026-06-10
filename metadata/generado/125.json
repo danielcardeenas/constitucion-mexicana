@@ -1,0 +1,33 @@
+{
+  "clave": "125",
+  "etiqueta": "Artículo 125.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:7f5deb65bbabafd7",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Cargos de elección popular",
+  "temas": [
+    "duplicidad de cargos",
+    "elección popular",
+    "nombres de cargos",
+    "gobierno federal",
+    "entidades federativas"
+  ],
+  "terminos_coloquiales": [
+    "no se pueden tener dos trabajos en el gobierno",
+    "no puedo ser diputado y presidente a la vez",
+    "cargos públicos",
+    "empleos del gobierno",
+    "elecciones"
+  ],
+  "resumen": "Este artículo dice que una persona no puede tener dos cargos de elección popular al mismo tiempo, ya sea en el gobierno federal o en un estado. Sin embargo, si una persona es nombrada para ambos, puede elegir cuál de los dos quiere ocupar.",
+  "preguntas_ejemplo": [
+    "¿Puedo ser senador y alcalde al mismo tiempo?",
+    "¿Cuántos cargos públicos puedo tener?",
+    "¿Qué pasa si me eligen para dos puestos en el gobierno?",
+    "¿Puedo elegir entre dos trabajos en el gobierno?",
+    "¿Existen restricciones para los funcionarios electos?"
+  ]
+}

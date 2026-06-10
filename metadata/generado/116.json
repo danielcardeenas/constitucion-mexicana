@@ -1,0 +1,39 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:86964634b4e87e9a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Poderes Estatales",
+  "temas": [
+    "División de poderes",
+    "Gobernadores",
+    "Legislaturas locales",
+    "Poder Judicial",
+    "Proceso electoral",
+    "Candidaturas independientes",
+    "Fiscalización",
+    "Derechos humanos"
+  ],
+  "terminos_coloquiales": [
+    "gobernadores",
+    "legislaturas",
+    "candidatos",
+    "elecciones",
+    "poderes del estado",
+    "justicia",
+    "fiscalización de cuentas"
+  ],
+  "resumen": "Este artículo describe cómo se organizan los poderes en los estados de México, incluyendo los roles del poder ejecutivo, legislativo y judicial. También establece reglas sobre la elección de gobernadores y diputados, así como normas para la fiscalización y la justicia.",
+  "preguntas_ejemplo": [
+    "¿Cuántos años dura un gobernador en su puesto?",
+    "¿Cómo se eligen a los diputados en los estados?",
+    "¿Qué requisitos debe tener un candidato a gobernador?",
+    "¿Qué pasa si un gobernador quiere ser electo de nuevo?",
+    "¿Cómo se garantiza la fiscalización en los estados?",
+    "¿Qué principios rigen las elecciones locales?"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "131",
+  "etiqueta": "Artículo 131.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0bad868a202ff455",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Regulación del comercio exterior",
+  "temas": [
+    "importación",
+    "exportación",
+    "transito de mercancías",
+    "reglamento de circulación",
+    "economía",
+    "comercio exterior",
+    "facultades del Ejecutivo"
+  ],
+  "terminos_coloquiales": [
+    "cómo importar productos",
+    "cómo exportar mercancías",
+    "regulaciones de comercio",
+    "leyes aduanales",
+    "prohibiciones de importación",
+    "tarifas de importación"
+  ],
+  "resumen": "Este artículo establece que solo la Federación puede regular y gravar la importación y exportación de mercancías en el país. Además, le otorga al Ejecutivo la facultad de ajustar tarifas y prohibir el tránsito de ciertos productos cuando sea necesario para la seguridad y la economía nacional.",
+  "preguntas_ejemplo": [
+    "¿Quién regula las importaciones en México?",
+    "¿El Ejecutivo puede cambiar tarifas de exportación?",
+    "¿Qué se necesita para importar mercancías?",
+    "¿Se puede prohibir la circulación de ciertos productos?",
+    "¿Cómo afecta la regulación al comercio exterior?"
+  ]
+}

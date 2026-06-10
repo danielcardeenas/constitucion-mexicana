@@ -1,0 +1,87 @@
+name: Generar enriquecimiento (LLM)
+
+# Genera/actualiza la capa de enriquecimiento (metadata/generado/) para mejorar
+# el recall del buscador. Se dispara A MANO (no en cada reforma; eso lo hace el
+# watcher de forma incremental). La primera corrida genera los 136 artículos;
+# las siguientes solo los que cambiaron (caché por hash), salvo que uses 'force'.
+#
+# Requiere el secret OPENAI_API_KEY en este repo.
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Regenerar TODOS (ignorar la caché por hash)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+env:
+  EXTRACTOR_REPO: https://github.com/OpenCodice/constitucion-extractor.git
+  PDF_URL: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+jobs:
+  enriquecer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repo de datos
+        uses: actions/checkout@v5
+
+      - name: Verificar que exista la API key
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::error::Falta el secret OPENAI_API_KEY en este repo."
+            exit 1
+          fi
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Clonar extractor e instalar dependencias
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -r /tmp/extractor/requirements.txt openai
+
+      - name: Descargar el PDF vigente
+        run: curl -sSL --retry 3 -o /tmp/CPEUM.pdf "$PDF_URL"
+
+      - name: Generar enriquecimiento
+        run: |
+          cd /tmp/extractor
+          PYTHONPATH=/tmp/extractor python -m extractor enriquecer \
+            --pdf /tmp/CPEUM.pdf --out "$GITHUB_WORKSPACE" \
+            --proveedor openai ${{ inputs.force && '--force' || '' }}
+
+      - name: Commitear el resultado (si hubo cambios)
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/generado
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el enriquecimiento."
+          else
+            git commit -m "Enriquecimiento por LLM (generado en CI)"
+            git push
+            echo "pusheado=true" >> "$GITHUB_OUTPUT"
+            echo "Enriquecimiento actualizado y pusheado."
+          fi
+
+      - name: Notificar a constitucion-web
+        # Los pushes hechos con GITHUB_TOKEN no disparan otros workflows, así
+        # que notificar-web.yml no ve este push: el dispatch va directo de aquí.
+        if: steps.commit.outputs.pusheado == 'true'
+        env:
+          TOKEN: ${{ secrets.WEB_DISPATCH_TOKEN }}
+        run: |
+          curl -sS --fail-with-body -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/OpenCodice/constitucion-web/dispatches \
+            -d '{"event_type":"datos-actualizados","client_payload":{"origen":"enriquecer"}}'
+          echo "Dispatch enviado: constitucion-web reingestará el índice."

@@ -1,0 +1,37 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:37f67b6d2b6f6c79",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Tribunal de Disciplina Judicial",
+  "temas": [
+    "independencia judicial",
+    "disciplina judicial",
+    "responsabilidades administrativas",
+    "sanciones",
+    "evaluación de magistrados",
+    "formación judicial",
+    "transparencia",
+    "justicia administrativa"
+  ],
+  "terminos_coloquiales": [
+    "tribunal de disciplina",
+    "control de magistrados",
+    "justicia para servidores públicos",
+    "sanciones a jueces",
+    "auditoría judicial",
+    "evaluación de jueces"
+  ],
+  "resumen": "El Tribunal de Disciplina Judicial se encarga de supervisar y sancionar a los magistrados y jueces del Poder Judicial. Asegura que actúen con independencia y profesionalismo, y evalúa su desempeño para mantener la calidad de la justicia.",
+  "preguntas_ejemplo": [
+    "¿Qué hace el Tribunal de Disciplina Judicial?",
+    "¿Cómo se sanciona a un juez en México?",
+    "¿Qué requisitos deben cumplir los magistrados de este tribunal?",
+    "¿Cómo se evalúa el desempeño de los jueces?",
+    "¿Quién elige a los miembros del Tribunal de Disciplina?"
+  ]
+}

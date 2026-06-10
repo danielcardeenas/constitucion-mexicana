@@ -1,0 +1,31 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:cf9283b17fc10e74",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Partes de la Federación",
+  "temas": [
+    "Estados de la Federación",
+    "Ciudad de México",
+    "División territorial",
+    "Estructura política"
+  ],
+  "terminos_coloquiales": [
+    "los estados del país",
+    "quiénes forman México",
+    "ciudades de México",
+    "división de estados"
+  ],
+  "resumen": "El artículo enumera los estados que conforman la Federación y menciona a la Ciudad de México como parte de ella. También establece la división territorial del país.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los estados que conforman México?",
+    "¿Qué es la Federación en el contexto de México?",
+    "¿Incluye la Ciudad de México en la lista de estados?",
+    "¿Qué composición territorial tiene el país?",
+    "¿Qué estados forman parte de la República?"
+  ]
+}

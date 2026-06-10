@@ -1,0 +1,31 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:109162cb10e298d6",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Supremacía constitucional",
+  "temas": [
+    "ley suprema",
+    "constitución",
+    "tratados internacionales",
+    "poderes del estado"
+  ],
+  "terminos_coloquiales": [
+    "ley más importante",
+    "reglas del país",
+    "normas buenas",
+    "tratados que importan"
+  ],
+  "resumen": "Este artículo establece que la Constitución y las leyes que de ella emanan son las más importantes en el país. También dice que los tratados internacionales son parte de esta ley suprema, y que deben seguirse en todas las entidades federativas.",
+  "preguntas_ejemplo": [
+    "¿Cuál es la ley más importante en México?",
+    "¿Los tratados internacionales son válidos aquí?",
+    "¿Qué pasa si hay leyes estatales en contra de la Constitución?",
+    "¿Todos deben seguir la misma Constitución?",
+    "¿Qué significa que la Constitución sea suprema?"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "clave": "097",
+  "etiqueta": "Artículo 97.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:06cf4481f30a8986",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Magistrados y Jueces",
+  "temas": [
+    "duración del cargo",
+    "reelección",
+    "requisitos para ser juez",
+    "remoción de jueces",
+    "denuncias ante el tribunal",
+    "procedimientos disciplinarios",
+    "nombramientos",
+    "protesta de cargo"
+  ],
+  "terminos_coloquiales": [
+    "jueces",
+    "magistrados",
+    "cómo ser juez",
+    "protestar el cargo",
+    "denunciar a un juez",
+    "cuánto dura un magistrado"
+  ],
+  "resumen": "Este artículo establece las reglas sobre la duración, reelección y requisitos para ser magistrado o juez en el sistema judicial federal. También menciona el procedimiento para su remoción y la posibilidad de denunciar conductas inapropiadas ante un tribunal disciplinario.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo puede un magistrado estar en su puesto?",
+    "¿Cuáles son los requisitos para ser juez?",
+    "¿Se puede volver a elegir a un magistrado?",
+    "¿Qué pasa si un juez comete un error?",
+    "¿Cómo se denuncia a un magistrado o juez?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2526c4b0086583c1",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Delitos de servidores públicos",
+  "temas": [
+    "servidores públicos",
+    "declaración de procedencia",
+    "delitos",
+    "separación del cargo",
+    "funciones de servidores públicos"
+  ],
+  "terminos_coloquiales": [
+    "delitos de funcionarios",
+    "juicio a servidores públicos",
+    "castigo a diputados",
+    "proceso a funcionarios",
+    "separación de cargo"
+  ],
+  "resumen": "Este artículo establece que no se necesita la aprobación de la Cámara de Diputados para procesar a servidores públicos que cometen delitos mientras están separados de su cargo. Además, aclara que si el servidor público regresa a sus funciones o asume otro cargo, se seguirá el procedimiento correspondiente.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un servidor público comete un delito y está separado de su cargo?",
+    "¿Se necesita aprobación del Congreso para juzgar a un funcionario que cometió un delito?",
+    "¿Qué ocurre si el servidor público cambia de puesto después de hacer algo ilegal?",
+    "¿Cómo se procede contra un diputado que comete un delito mientras está fuera de su función?",
+    "¿Qué implica la declaración de procedencia en casos de delitos de funcionarios?"
+  ]
+}

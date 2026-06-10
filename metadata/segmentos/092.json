@@ -1,0 +1,26 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 21-04-1981, 02-08-2007",
+      "fechas": [
+        "1981-04-21",
+        "2007-08-02"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "092.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92. › párrafo 1",
+      "texto": "Todos los reglamentos, decretos, acuerdos y órdenes del Presidente deberán estar firmados por el Secretario de Estado a que el asunto corresponda, y sin este requisito no serán obedecidos."
+    }
+  ]
+}

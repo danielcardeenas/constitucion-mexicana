@@ -1,0 +1,35 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8d26d0741a392a7d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Protección y colaboración entre entidades federativas",
+  "temas": [
+    "protección contra violencia exterior",
+    "sublevación",
+    "tranquilidad interna",
+    "entrega de imputados",
+    "colaboración entre entidades",
+    "extradición",
+    "tratados internacionales"
+  ],
+  "terminos_coloquiales": [
+    "ayuda entre estados",
+    "protección de estados",
+    "entrega de criminales",
+    "extradición de delincuentes",
+    "acuerdos entre gobiernos"
+  ],
+  "resumen": "El artículo establece que los Poderes de la Unión deben proteger a las entidades federativas de invasiones y disturbios. También detalla la obligación de entregar a los imputados y la colaboración entre entidades para asegurar justicia.",
+  "preguntas_ejemplo": [
+    "¿Cómo se protege a un estado de violencia externa?",
+    "¿Qué se hace cuando hay problemas internos en un estado?",
+    "¿Qué pasa con los delincuentes que deben ser entregados a otro estado?",
+    "¿Cómo se tramitan las extradiciones?",
+    "¿Qué tipo de acuerdos pueden hacer las entidades federativas entre sí?"
+  ]
+}

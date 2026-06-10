@@ -1,0 +1,38 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3e78103156e4a85f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Investigación de delitos y seguridad pública",
+  "temas": [
+    "Ministerio Público",
+    "acción penal",
+    "sanciones administrativas",
+    "seguridad pública",
+    "Guardián Nacional",
+    "prevención de delitos",
+    "derechos humanos",
+    "coordinación de instituciones"
+  ],
+  "terminos_coloquiales": [
+    "quién investiga delitos",
+    "sanciones por infracciones",
+    "acción penal",
+    "cómo funciona la policía",
+    "qué es la seguridad pública",
+    "multas y arrestos",
+    "qué hace el Ministerio Público"
+  ],
+  "resumen": "El artículo establece que el Ministerio Público y las instituciones de seguridad pública son responsables de investigar delitos y aplicar sanciones. También explica cómo deben coordinarse para garantizar la seguridad pública y los derechos de los ciudadanos.",
+  "preguntas_ejemplo": [
+    "¿Quién se encarga de investigar los delitos?",
+    "¿Qué sanciones existen por infracciones?",
+    "¿Qué rol tiene el Ministerio Público?",
+    "¿Cómo se coordina la policía en México?",
+    "¿Qué es la seguridad pública según la Constitución?"
+  ]
+}

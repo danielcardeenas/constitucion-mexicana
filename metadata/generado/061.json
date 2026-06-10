@@ -1,0 +1,34 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e39ec1585724cbc7",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Inviolabilidad de legisadores",
+  "temas": [
+    "inviolabilidad",
+    "fuero",
+    "opiniones",
+    "respeto",
+    "recinto",
+    "sesiones"
+  ],
+  "terminos_coloquiales": [
+    "protección de legisladores",
+    "libertad de expresión de diputados",
+    "fuero de senadores",
+    "opiniones libres en el Congreso",
+    "seguridad en el recinto legislativo"
+  ],
+  "resumen": "Los diputados y senadores no pueden ser juzgados por las opiniones que expresan al realizar su trabajo. Además, se debe cuidar el respeto a su fuero y la seguridad del lugar donde se llevan a cabo sus sesiones.",
+  "preguntas_ejemplo": [
+    "¿Los legisladores pueden ser responsabilizados por lo que dicen?",
+    "¿Qué protección tienen los diputados en sus expresiones?",
+    "¿Quién se encarga de cuidar el respeto en el Congreso?",
+    "¿Qué significa la inviolabilidad para un senador?",
+    "¿Los senadores pueden hablar libremente en sus sesiones?"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 29-04-1933, 10-02-2014, 01-04-2025",
+      "fechas": [
+        "1933-04-29",
+        "2014-02-10",
+        "2025-04-01"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "059.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59. › párrafo 1",
+      "texto": "Las personas senadoras y diputadas al Congreso de la Unión no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato."
+    },
+    {
+      "id": "059.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59. › párrafo 2",
+      "texto": "Las personas senadoras y diputadas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas senadoras y diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes."
+    }
+  ]
+}

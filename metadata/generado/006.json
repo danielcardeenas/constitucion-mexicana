@@ -1,0 +1,39 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6o.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fc76e3ed3d8542f2",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Libertad de expresión e información",
+  "temas": [
+    "libertad de expresión",
+    "derecho a la información",
+    "acceso a tecnologías",
+    "protección de datos personales",
+    "radiodifusión",
+    "telecomunicaciones",
+    "pluralidad informativa",
+    "derecho de réplica"
+  ],
+  "terminos_coloquiales": [
+    "hablar libremente",
+    "derecho a saber",
+    "acceso a internet",
+    "datos personales seguros",
+    "noticias verídicas",
+    "medios de comunicación",
+    "información pública"
+  ],
+  "resumen": "El artículo establece que todas las personas tienen derecho a expresar sus ideas y a acceder a información de diversas fuentes. También garantiza que el Estado proteja este derecho y asegure el acceso a tecnologías de comunicación como internet y servicios de radiodifusión.",
+  "preguntas_ejemplo": [
+    "¿Tengo derecho a expresar mis opiniones libremente?",
+    "¿Cómo puedo acceder a información pública?",
+    "¿Qué pasa si alguien publica algo falso sobre mí?",
+    "¿Qué derechos tengo en internet?",
+    "¿Cómo se asegura que las noticias sean verdaderas?",
+    "¿Puedo quejarme si no me dan acceso a información?"
+  ]
+}

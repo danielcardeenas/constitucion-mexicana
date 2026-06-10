@@ -1,0 +1,26 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 29-04-1933, 06-12-1977",
+      "fechas": [
+        "1933-04-29",
+        "1977-12-06"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51. › párrafo 1",
+      "texto": "La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años. Por cada diputado propietario, se elegirá un suplente."
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105.",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DOF 25-10-1967, 25-10-1993, 31-12-1994",
+      "fechas": [
+        "1967-10-25",
+        "1993-10-25",
+        "1994-12-31"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › párrafo 1",
+      "texto": "La Suprema Corte de Justicia de la Nación conocerá, en los términos que señale la ley reglamentaria, de los asuntos siguientes:",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 08-12-2005, 15-10-2012, 11-03-2021",
+          "fechas": [
+            "2005-12-08",
+            "2012-10-15",
+            "2021-03-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › Fracción I",
+      "texto": "I. De las controversias constitucionales que, sobre la constitucionalidad de las normas generales, actos u omisiones, con excepción de las que se refieran a la materia electoral, se susciten entre:"
+    },
+    {
+      "id": "105.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso a)",
+      "texto": "a) La Federación y una entidad federativa;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso b)",
+      "texto": "b) La Federación y un municipio;"
+    },
+    {
+      "id": "105.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso c)",
+      "texto": "c) El Poder Ejecutivo y el Congreso de la Unión; aquél y cualquiera de las Cámaras de éste o, en su caso, la Comisión Permanente;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso d)",
+      "texto": "d) Una entidad federativa y otra;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso e)",
+      "texto": "e) Se deroga.",
+      "reformas": [
+        {
+          "nota": "Inciso derogado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso f)",
+      "texto": "f) Se deroga.",
+      "reformas": [
+        {
+          "nota": "Inciso derogado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso g)",
+      "texto": "g) Dos municipios de diversos Estados;"
+    },
+    {
+      "id": "105.I.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso h)",
+      "texto": "h) Dos Poderes de una misma entidad federativa;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 29-01-2016, 11-03-2021",
+          "fechas": [
+            "2016-01-29",
+            "2021-03-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso i)",
+      "texto": "i) Un Estado y uno de sus Municipios;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 11-03-2021",
+          "fechas": [
+            "2021-03-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso j)",
+      "texto": "j) Una Entidad Federativa y un Municipio de otra o una demarcación territorial de la Ciudad de México;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 11-06-2013, 29-01-2016, 11-03-2021",
+          "fechas": [
+            "2013-06-11",
+            "2016-01-29",
+            "2021-03-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso k)",
+      "texto": "k) Dos órganos constitucionales autónomos de una entidad federativa, y entre uno de éstos y el Poder Ejecutivo o el Poder Legislativo de esa entidad federativa, y",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 11-06-2013. Derogado DOF 29-01-2016. Adicionado DOF 11-03-2021",
+          "fechas": [
+            "2013-06-11",
+            "2016-01-29",
+            "2021-03-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.l",
+      "tipo": "inciso",
+      "marca": "l",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso l)",
+      "texto": "l) Dos órganos constitucionales autónomos federales, y entre uno de éstos y el Poder Ejecutivo de la Unión o el Congreso de la Unión.",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado DOF 11-06-2013. Reformado DOF 07-02-2014, 11-03-2021",
+          "fechas": [
+            "2013-06-11",
+            "2014-02-07",
+            "2021-03-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › párrafo 2",
+      "texto": "Siempre que las controversias versen sobre disposiciones generales de las entidades federativas, de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por la Federación; de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por las entidades federativas, o en los casos a que se refieren los incisos c), h), k) y",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 29-01-2016, 11-03-2021, 15-09-2024",
+          "fechas": [
+            "2016-01-29",
+            "2021-03-11",
+            "2024-09-15"
+          ]
+        },
+        {
+          "nota": "Párrafo adicionado DOF 11-03-2021",
+          "fechas": [
+            "2021-03-11"
+          ]
+        },
+        {
+          "nota": "Párrafo reformado DOF 22-08-1996",
+          "fechas": [
+            "1996-08-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.I.l~2",
+      "tipo": "inciso",
+      "marca": "l",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105. › Fracción I › inciso l)",
+      "texto": "l) anteriores, y la resolución de la Suprema Corte de Justicia de la Nación las declare inválidas, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por una mayoría de por lo menos seis votos.\n\nEn los demás casos, las resoluciones de la Suprema Corte de Justicia tendrán efectos únicamente respecto de las partes en la controversia.\n\nEn las controversias previstas en esta fracción únicamente podrán hacerse valer violaciones a esta Constitución, así como a los derechos humanos reconocidos en los tratados internacionales de los que el Estado Mexicano sea parte."
+    },
+    {
+      "id": "105.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › Fracción II",
+      "texto": "II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.\n\nLas acciones de inconstitucionalidad podrán ejercitarse, dentro de los treinta días naturales siguientes a la fecha de publicación de la norma, por:"
+    },
+    {
+      "id": "105.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105. › Fracción II › inciso a)",
+      "texto": "a) El equivalente al treinta y tres por ciento de los integrantes de la Cámara de Diputados del Congreso de la Unión, en contra de leyes federales;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105. › Fracción II › inciso b)",
+      "texto": "b) El equivalente al treinta y tres por ciento de los integrantes del Senado, en contra de las leyes federales o de tratados internacionales celebrados por el Estado Mexicano;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 29-01-2016",
+          "fechas": [
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105. › Fracción II › inciso c)",
+      "texto": "c) El Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, en contra de normas generales de carácter federal y de las entidades federativas;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 10-02-2014",
+          "fechas": [
+            "2014-02-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105. › Fracción II › inciso d)",
+      "texto": "d) El equivalente al treinta y tres por ciento de los integrantes de alguna de las Legislaturas de las entidades federativas en contra de las leyes expedidas por el propio órgano;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 22-08-1996, 29-01-2016",
+          "fechas": [
+            "1996-08-22",
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.II.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105. › Fracción II › inciso e)",
+      "texto": "e) Se deroga.",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DOF 22-08-1996. Derogado DOF 29-01-2016",
+          "fechas": [
+            "1996-08-22",
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.II.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105. › Fracción II › inciso f)",
+      "texto": "f) Los partidos políticos con registro ante el Instituto Nacional Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro en una entidad federativa, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por la Legislatura de la entidad federativa que les otorgó el registro;",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado DOF 22-08-1996. Reformado DOF 10-02-2014, 29-01-2016",
+          "fechas": [
+            "1996-08-22",
+            "2014-02-10",
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.II.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105. › Fracción II › inciso g)",
+      "texto": "g) La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal o de las entidades federativas, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución y en los tratados internacionales de los que México sea parte. Asimismo, los organismos de protección de los derechos humanos equivalentes en las entidades federativas, en contra de leyes expedidas por las Legislaturas;",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado DOF 14-09-2006. Reformado DOF 10-06-2011, 29-01-2016",
+          "fechas": [
+            "2006-09-14",
+            "2011-06-10",
+            "2016-01-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.II.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105. › Fracción II › inciso h)",
+      "texto": "h) Se deroga",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado DOF 07-02-2014. Reformado DOF 29-01-2016. Derogado DOF 20-12-2024",
+          "fechas": [
+            "2014-02-07",
+            "2016-01-29",
+            "2024-12-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.II.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105. › Fracción II › inciso i)",
+      "texto": "i) El Fiscal General de la República respecto de leyes federales y de las entidades federativas, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones;",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado DOF 10-02-2014",
+          "fechas": [
+            "2014-02-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › párrafo 3",
+      "texto": "La única vía para plantear la no conformidad de las leyes electorales a la Constitución es la prevista en este artículo.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 22-08-1996",
+          "fechas": [
+            "1996-08-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › párrafo 4",
+      "texto": "Las leyes electorales federal y locales deberán promulgarse y publicarse por lo menos noventa días antes de que inicie el proceso electoral en que vayan a aplicarse, y durante el mismo no podrá haber modificaciones legales fundamentales.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 22-08-1996",
+          "fechas": [
+            "1996-08-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › párrafo 5",
+      "texto": "Las resoluciones de la Suprema Corte de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por una mayoría de cuando menos seis votos.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DOF 15-09-2024",
+          "fechas": [
+            "2024-09-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › Fracción III",
+      "texto": "III. De oficio o a petición fundada del correspondiente Tribunal Colegiado de Apelación o del Ejecutivo Federal, por conducto de la Consejera o Consejero Jurídico del Gobierno, así como de la o el Fiscal General de la República en los asuntos en que intervenga el Ministerio Público, podrá conocer de los recursos de apelación en contra de sentencias de los Juzgados de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DOF 10-02-2014, 11-03-2021",
+          "fechas": [
+            "2014-02-10",
+            "2021-03-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › párrafo 6",
+      "texto": "La declaración de invalidez de las resoluciones a que se refieren las fracciones I y II de este artículo no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia."
+    },
+    {
+      "id": "105.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › párrafo 7",
+      "texto": "En caso de incumplimiento de las resoluciones a que se refieren las fracciones I y II de este artículo se aplicarán, en lo conducente, los procedimientos establecidos en los dos primeros párrafos de la fracción XVI del artículo 107 de esta Constitución."
+    },
+    {
+      "id": "105.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › párrafo 8",
+      "texto": "Tratándose de controversias constitucionales o de acciones de inconstitucionalidad planteadas respecto de normas generales, en ningún caso su admisión dará lugar a la suspensión de la norma cuestionada.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 15-09-2024",
+          "fechas": [
+            "2024-09-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "105.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105. › párrafo 9",
+      "texto": "Son improcedentes las controversias constitucionales o acciones de inconstitucionalidad que tengan por objeto controvertir las adiciones o reformas a esta Constitución.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DOF 31-10-2024",
+          "fechas": [
+            "2024-10-31"
+          ]
+        }
+      ]
+    }
+  ]
+}

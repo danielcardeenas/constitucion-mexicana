@@ -1,0 +1,31 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57.",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:25c0cddaf9c49693",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Suplentes de Senadores",
+  "temas": [
+    "senadores",
+    "suplentes",
+    "elección",
+    "representación"
+  ],
+  "terminos_coloquiales": [
+    "quién elige a los suplentes",
+    "suplentes del Senado",
+    "senadores y sus suplentes",
+    "cómo funcionan los suplentes"
+  ],
+  "resumen": "Cada senador titular tiene un suplente que lo acompaña en su función. Esto asegura la continuidad de la representación en el Senado.",
+  "preguntas_ejemplo": [
+    "¿Cuántos suplentes tiene un senador?",
+    "¿Qué pasa si un senador no puede asistir?",
+    "¿Quién elige a los suplentes de los senadores?",
+    "¿Qué función tienen los suplentes en el Senado?",
+    "¿Los suplentes tienen los mismos poderes que los senadores?"
+  ]
+}
